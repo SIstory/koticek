@@ -1,0 +1,721 @@
+
+/* -----------------------------------------
+   foundation (odstranjeni *zoom, color, velikosti fontov ipd. v body
+----------------------------------------- */
+html,
+body {
+  font-size: 100%; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1;
+  position: relative;
+  cursor: default; }
+
+a:hover {
+  cursor: pointer; }
+
+img,
+object,
+embed {
+  max-width: 100%;
+  height: auto; }
+
+object,
+embed {
+  height: 100%; }
+
+img {
+  -ms-interpolation-mode: bicubic; }
+
+.left {
+  float: left !important; }
+
+.right {
+  float: right !important; }
+.text-left {
+  text-align: left !important; }
+
+.text-right {
+  text-align: right !important; }
+
+.text-center {
+  text-align: center !important; }
+
+.text-justify {
+  text-align: justify !important; }
+
+.hide {
+  display: none; }
+
+img {
+  display: inline-block;
+  vertical-align: middle; }
+
+select {
+  width: 100%; }
+
+.row {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+   }
+  .row:before, .row:after {
+    content: " ";
+    display: table; }
+  .row:after {
+    clear: both; }
+  .row.collapse > .column,
+  .row.collapse > .columns {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    float: left; }
+  .row.collapse .row {
+    margin-left: 0;
+    margin-right: 0; }
+  .row .row {
+    width: auto;
+    margin-left: -0.9375rem;
+    margin-right: -0.9375rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: none;
+     }
+    .row .row:before, .row .row:after {
+      content: " ";
+      display: table; }
+    .row .row:after {
+      clear: both; }
+    .row .row.collapse {
+      width: auto;
+      margin: 0;
+      max-width: none;
+       }
+      .row .row.collapse:before, .row .row.collapse:after {
+        content: " ";
+        display: table; }
+      .row .row.collapse:after {
+        clear: both; }
+
+.column,
+.columns {
+  position: relative;
+  padding-left: 0.9375rem;
+  padding-right: 0.9375rem;
+  width: 100%;
+  float: left; }
+
+.subheader {
+  line-height: 1.4;
+  color: #6f6f6f;
+  font-weight: 300;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem; }
+
+/* Typography resets */
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+  direction: ltr; }
+
+/* Default Link Styles */
+a {
+  color: #008cba;
+  text-decoration: none;
+  line-height: inherit; }
+  a:hover, a:focus {
+    color: #0079a1; }
+  a img {
+    border: none; }
+
+/* Default paragraph styles */
+p {
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  text-rendering: optimizeLegibility; }
+  p aside {
+    font-size: 0.875rem;
+    line-height: 1.35;
+    font-style: italic; }
+
+/* Default header styles */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  color: #222222;
+  text-rendering: optimizeLegibility;
+  margin-top: 0.2rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.4; }
+  h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    font-size: 60%;
+    color: #6f6f6f;
+    line-height: 0; }
+
+h1 {
+  font-size: 1.6875rem; }
+
+h2 {
+  font-size: 1.375rem; }
+
+h3 {
+  font-size: 1.125rem; }
+
+h4 {
+  font-size: 1rem; }
+
+h5 {
+  font-size: 0.9rem; }
+
+h6 {
+  font-size: 0.8rem; }
+
+hr {
+  border: solid #dddddd;
+  border-width: 1px 0 0;
+  clear: both;
+  margin: 1.25rem 0 1.1875rem;
+  height: 0; }
+
+/* Helpful Typography Defaults */
+em,
+i {
+  font-style: italic;
+  line-height: inherit; }
+
+strong,
+b {
+  font-weight: bold;
+  line-height: inherit; }
+
+small {
+  font-size: 60%;
+  line-height: inherit; }
+
+code {
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+  font-weight: bold;
+  color: #bb260d; }
+
+/* Lists */
+ul,
+ol,
+dl {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  list-style-position: outside;
+  font-family: inherit; }
+
+ul {
+  margin-left: 1.1rem; }
+  ul.no-bullet {
+    margin-left: 0; }
+    ul.no-bullet li ul,
+    ul.no-bullet li ol {
+      margin-left: 1.25rem;
+      margin-bottom: 0;
+      list-style: none; }
+
+/* Unordered Lists */
+ul li ul,
+ul li ol {
+  margin-left: 1.25rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  /* Override nested font-size change */ }
+ul.square li ul, ul.circle li ul, ul.disc li ul {
+  list-style: inherit; }
+ul.square {
+  list-style-type: square;
+  margin-left: 1.1rem; }
+ul.circle {
+  list-style-type: circle;
+  margin-left: 1.1rem; }
+ul.disc {
+  list-style-type: disc;
+  margin-left: 1.1rem; }
+ul.no-bullet {
+  list-style: none; }
+
+/* Ordered Lists */
+ol {
+  margin-left: 1.4rem; }
+  ol li ul,
+  ol li ol {
+    margin-left: 1.25rem;
+    margin-bottom: 0; }
+    
+    /* dodal še za ol možnost class atributa no-bullet (potrebno zaradi toc.xhtml */
+    ol.no-bullet {
+    margin-left: 0; }
+    ol.no-bullet li ul,
+    ol.no-bullet li ol {
+      margin-left: 1.25rem;
+      margin-bottom: 0;
+      list-style: none; }
+
+/* Definition Lists */
+dl dt {
+  margin-bottom: 0.3rem;
+  font-weight: bold; }
+dl dd {
+  margin-bottom: 0.75rem; }
+
+/* Abbreviations */
+abbr,
+acronym {
+  text-transform: uppercase;
+  font-size: 90%;
+  color: #222222;
+  border-bottom: 1px dotted #dddddd;
+  cursor: help; }
+
+abbr {
+  text-transform: none; }
+
+/* Blockquotes */
+blockquote {
+  margin: 0 0 1.25rem;
+  padding: 0.5625rem 1.25rem 0 1.1875rem;
+  border-left: 1px solid #dddddd; }
+  blockquote cite {
+    display: block;
+    font-size: 0.8125rem;
+    color: #555555; }
+    blockquote cite:before {
+      content: "\2014 \0020"; }
+    blockquote cite a,
+    blockquote cite a:visited {
+      color: #555555; }
+
+blockquote,
+blockquote p {
+  line-height: 1.6;
+  color: #6f6f6f; }
+
+table {
+  background: white;
+  margin-bottom: 1.25rem;
+  border: solid 1px #dddddd; }
+  table thead,
+  table tfoot {
+    background: whitesmoke;
+    font-weight: bold; }
+    table thead tr th,
+    table thead tr td,
+    table tfoot tr th,
+    table tfoot tr td {
+      padding: 0.5rem 0.625rem 0.625rem;
+      font-size: 0.875rem;
+      color: #222222;
+      text-align: left; }
+  table tr th,
+  table tr td {
+    padding: 0.5625rem 0.625rem;
+    font-size: 0.875rem;
+    color: #222222; }
+  table tr.even, table tr.alt, table tr:nth-of-type(even) {
+    background: #f9f9f9; }
+  table thead tr th,
+  table tfoot tr th,
+  table tbody tr td,
+  table tr td,
+  table tfoot tr td {
+    display: table-cell;
+    line-height: 1.125rem; }
+
+
+/* -----------------------------------------
+   prvotni popravki default foundation
+----------------------------------------- */
+
+
+h1, h2, h3, h4, h5, h6 { text-align: center; font-weight: bold; }
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: #8e130b; font-weight: bold; }
+
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: #5f0d07; font-weight: bold; }
+
+hr {
+  border: solid #7f7f7f;
+  border-width: 2px 0 0;
+  clear: both;
+  margin: 1.25em 0 1.1875em;
+  height: 0; }
+
+
+
+.subheader { color: #7f7f7f; font-weight: bold; }
+
+p a {
+    color: #8e130b;
+    text-decoration: underline; }
+p a:hover { color: #5f0d07; }
+
+table a {
+    color: #8e130b;
+    text-decoration: underline; }
+table a:hover { color: #5f0d07; }
+
+a.person, a.place, a.organization {
+    color: #222222;
+    text-decoration: none; 
+    border-bottom: 1px;
+}
+
+blockquote a {
+  color: #8e130b;
+  text-decoration: underline; }
+blockquote a:hover { color: #5f0d07; }
+
+
+/* ------------------
+  Manjšo popravki
+--------------------- */
+
+a {
+  color: #8e130b;
+  text-decoration: underline;
+}
+a:hover, a:focus {
+    color: #5f0d07; 
+    }
+
+a.person, a.place, a.organization, a.bibliography {
+    color: #222222;
+    text-decoration: none; 
+    border-bottom: 1px dashed #999;
+    }
+
+button, .button { 
+    background-color: #8e130b;
+    text-decoration: none;
+    }
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #5f0d07; 
+    }
+    
+.menu .active > a {
+    color: #FFFFFF;
+    background: #8e130b;
+    }
+.menu-icon { 
+    background-color: #333333;
+    }
+.menu-icon:hover { 
+    background-color: #333333;
+    }
+
+.title-bar {
+  background: #333333;
+  }
+.title-bar ul li > a {
+  color: #FFFFFF;
+  text-decoration: none;
+  }
+
+.title-bar-right {
+    text-align: left;
+}
+
+div.title-bar-left > a {
+  color: #FFFFFF;
+  text-decoration: none;
+  }
+
+.title-bar .menu {
+  background: #333333;
+  }
+.title-bar ul li:hover {
+  background-color: #1a1a1a;
+  }
+  
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after {
+  border-color: #FFFFFF transparent transparent;
+ }
+.dropdown.menu > li.is-dropdown-submenu-parent > .menu > li.is-dropdown-submenu-parent > a::after {
+  border-color: transparent transparent transparent #FFFFFF;
+ }
+
+.is-drilldown-submenu-parent > a::after {
+  border-color: transparent transparent transparent #FFFFFF;
+  }
+.js-drilldown-back > a::before {
+  border-color: transparent #FFFFFF transparent transparent;
+  }
+
+.is-dropdown-submenu {
+  min-width: 400px;
+  }
+
+th {
+    border:3px solid #333333;
+}
+td {
+    border:1px solid #333333;
+}
+
+/* -----------------
+   Definition list
+--------------------*/
+
+dl {
+  margin: 0 0 0.25em;
+  padding: 0.5625em 1.25em 0 0.5625em;
+  border-left: 1px solid #dddddd;
+  }
+
+dl dt {
+  margin-bottom: 0;
+  font-weight: bold;
+  font-size: 0.945em;
+   }
+
+dl dd dl {
+  margin-left: 1.5em;
+  margin-bottom: 0;
+  }
+
+dt, dd { 
+  display: inline;
+  margin: 0;
+   }
+
+/*
+dt:after { 
+  content: ':';
+  }
+
+dt:before {
+  content: '\D\A  - ';
+  white-space: pre;
+  }
+dt:first-child:before {
+  content: ' - ';
+  }
+*/
+
+dd + dt::before {
+  content: "\A";
+  white-space: pre;
+}
+dt {
+  font-weight: bold;
+}
+dt + dt::before {
+  content: "\007C" " ";
+}
+dt + dd::before {
+  content: "\003A" " ";
+}
+dd + dd::before {
+  content: "\007C" " ";
+}
+
+dl.border dt {
+  margin-bottom: 0.0em;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 0.845em;
+  list-style-type: circle; }
+dl.border dd {
+  margin-bottom: 0.75em;
+  width:200px;
+  border-style:solid;
+  border-width:0.2px; }
+
+/* -----------------------------------------
+   dodani
+----------------------------------------- */
+
+caption { font-style: italic;
+          text-align: left;
+          margin-bottom: 0.4em;
+          width: 100%; }
+
+sub.citation { color: #7f7f7f;
+               font-size: 11px;
+               border-style:solid;
+               border-width:thin;
+               margin-left:2px;
+               padding-left:4px; }
+
+img { margin-top: 3px; }
+
+.glavaNaslov { font-size: 1.687em; }
+.glava { margin-bottom: 7px; margin-top: 21px; }
+.naslovnicaAvtor { text-align: center; font-size: 1.437em;}
+.naslovnicaBesedilo { text-align: center; font-size: 1.375em;}
+.podnaslov { text-align: center; font-size: 1.687em;}
+.note-aside {
+    font-size: 0.875em;
+    line-height: 1.00;
+    font-style: italic; }
+.CIP-obroba { 
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-right:0px;
+  margin-left:0px;
+  border-style:solid;
+  border-width:0.2px;
+  padding:10px; }
+
+.subtitle {
+  color: #8a8a8a;
+  font-size: 80%;}
+
+/* ------------------
+ Novi dodani po prehodu na tei stylesheets
+---------------------- */
+span.numberParagraph:before{
+      content:"[";
+}
+span.numberParagraph:after{
+      content:"] ";
+}
+span.numberParagraph{
+      font-size:smaller;
+      color:grey;
+}
+
+span.headingNumber{
+    font-size:smaller;
+    color:grey;
+}
+
+h2{
+    text-align:center;
+}
+
+figure{
+    text-align:center;
+}
+
+a sup:before{
+    content:"[";
+}
+a sup:after{
+    content:"]";
+}
+
+div.notes{
+    border-top:1pt solid black;
+}
+div.noteHeading{
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+    font-weight: bold;
+    font-size: 140%;
+    
+}
+div.noteHeading:after{
+    content:":";
+}
+
+a.back-to-top {
+	display: none;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+
+/* literal code: from tei.css; 
+*  dodam overflow-x:auto za primere, ko so izpisane kode preširoke za manjše zaslone (jih scrolla levo in desno);
+*  dodam text-align: left; zaradi primerov, ko damo kodo egXML v figure element
+*/
+
+div.cdata{
+    white-space:pre;
+    clear:both;
+}
+
+pre,
+div.pre,
+div.pre_eg,
+pre.eg,
+div.eg{
+    clear:both;
+    margin-top:1em;
+    margin-bottom:1em;
+    border-top-width:4px;
+    border-bottom-width:4px;
+    border-left-width:2px;
+    border-right-width:2px;
+    border-style:solid;
+    padding-top:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    padding-left:10px;
+    color:#000000;
+    line-height:1.1em;
+    font-family:monospace;
+    font-size:10pt;
+    white-space:pre;
+    overflow-x: auto;
+    text-align: left;
+}
+
+div.egXML_valid{
+    background-color:#f7f9f6;
+    border-color:#c5d8bb;
+}
+div.egXML_feasible{
+    background-color:#fff9f3;
+    border-color:#ffe1ad;
+}
+div.egXML_invalid{
+    border-color:#ffe7e8;
+    background-color:#fdbbac;
+}
+/* moji barvni dodatki */
+span.element {
+    color: #000096 !important;
+    font-weight: bold !important;
+}
+span.attribute {
+    color: #f5844c !important;
+}
+span.attributevalue {
+    color: #993300 !important;
+}
+span.comment{
+    color: #006400 !important;
+}
+
+
