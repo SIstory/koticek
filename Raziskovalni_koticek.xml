@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Raziskovalni kotiček Inštituta za novejšo zgodovino</title>
+                <respStmt>
+                    <resp>Urednika</resp>
+                    <name>Žarko Lazarević</name>
+                    <name>Maja Lukanc</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Avtorja razstav</resp>
+                    <name>Ivan Smiljanić</name>
+                    <name>Tjaša Konovšek</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart>Raziskovalni kotiček Inštituta za novejšo zgodovino</titlePart>
+                </docTitle>
+                <graphic url="https://www.inz.si/f/pics/Izlozbeno_okno/Naslovnica_h1.jpg"/>
+            </titlePage>
+            <divGen type="cip" xml:id="cip">
+                <head>Kolofon</head>
+            </divGen>
+            <divGen type="search" xml:id="search">
+                <head>Iskalnik</head>
+            </divGen>
+        </front>
+        <body>
+            <div type="part" xml:id="exhibition01">
+                <docAuthor>Ivan Smiljanić</docAuthor>
+                <head>Spomenik žrtvam, ustreljenim na Suhem bajerju</head>
+                <p style="text-align:justify"><hi rend="bold">Na severozahodnem pobočju
+                        ljubljanskega Golovca se nahaja globel, znana kot Suhi bajer. Med prvo
+                        svetovno vojno je bil bajer prizorišče usmrtitev domnevnih državnih
+                        sovražnikov Avstro-Ogrske. V Kraljevini Srbov, Hrvatov in Slovencev so
+                        žrtve, čeprav so v glavnem ostale neidentificirane, postale junaki, ki so
+                        padli za osvoboditev in nastanek nove države, zato so jih slavili s
+                        komemoracijami in odkritjem spomenika, ki stoji še danes.</hi></p>
+                <p style="text-align:justify">Suhi bajer na Golovcu je bil med letoma 1915 in 1917
+                    kraj usmrtitve najmanj 23 posameznikov, ki so jih avstrijske oblasti pred naglim
+                    sodiščem obsodile na smrt zaradi nepremišljenih besed, izrečenih proti Avstriji
+                    ali v podporo njenim sovražnicam, in zaradi drugih protidržavnih dejanj, kot je
+                    dezerterstvo.</p>
+                <p rend="bluebox" style="text-align:justify">Morda najbolj znana žrtev, ustreljena
+                    na bajerju, je bil gostilničar Ivan Brence z Dovjega, ki je bil obsojen zaradi
+                    pripombe o norosti cesarja Franca Jožefa, ko so mu prišli zaplenit živino. V
+                    spominu je ostal zaradi odločnega vztrajanja pri svojih besedah, ki so ga stale
+                    življenja. Brencetovo neomajnost simbolizira njegova izjava: »Kar sem rekel, sem
+                    rekel!« </p>
+                <p style="text-align:justify">Po koncu prve svetovne vojne so žrtve Suhega bajerja v
+                    kontekstu Kraljevine Srbov, Hrvatov in Slovencev postale mučeniki avstrijske
+                    tiranije nad lastnim ljudstvom in junaki, ki so padli za osvoboditev
+                    južnoslovanskih narodov. </p>
+                <figure rend="imageviewer" xml:id="figure-1" n="1">
+                    <head>Usmrtitev na Suhem bajerju. Vir: Wikimedia Commons</head>
+                    <graphic
+                        url="01-figure-1.jpg"/>
+                    <graphic
+                        url="01-figure-1-normal.jpg"/>
+                </figure>
+                <p rend="bluebox" style="text-align:justify">Suhi bajer je Slovence tudi razdvajal.
+                    Pogosto so ga omenjali v dnevnopolitičnih razpravah skozi dvajseta leta 20.
+                    stoletja, saj je na pripadnike Slovenske ljudske stranke pogosto letel očitek,
+                    da so avstrijskemu režimu zvesto pomagali pri naznanjanju politično sumljivih
+                    oseb, ki so končale v zaporu ali pred strelskim vodom. </p>
+                <p style="text-align:justify">S pomočjo pričevalcev in sorodnikov je ljubljanska
+                    občina skušala identificirati žrtve, vendar je bila uspešna le pri slabi
+                    polovici primerov. Med letoma 1919 in 1922 so iz bajerja izkopali posmrtne
+                    ostanke treh žrtev, ki so jih slavnostno prenesli na domača pokopališča. Leta
+                    1924 je urejanje bajerja prevzel rajonski odbor nacionalistične organizacije
+                    Orjuna, zlasti njegov predsednik Karel Kalin, ki je čistil grobove in
+                    organiziral komemoracije ob 1. novembru. </p>
+                <figure rend="imageviewer" xml:id="figure-2" n="2">
+                    <head>Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
+                    <graphic
+                        url="01-figure-2.jpg"/>
+                    <graphic
+                        url="01-figure-2-normal.jpg"/>
+                </figure>
+                <figure rend="imageviewer" xml:id="figure-3" n="3">
+                    <head>Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
+                    <graphic
+                        url="01-figure-3.jpg"/>
+                    <graphic
+                        url="01-figure-3-normal.jpg"/>
+                </figure>
+                <p style="text-align:justify">Leta 1927 je bil ustanovljen odbor za postavitev
+                    spomenika na Suhem bajerju, ki ga je vodil Kalin. Zbiranje prispevkov je trajalo
+                    več let in spomenik je bil svečano odkrit 25. novembra 1934. V obeležje v obliki
+                    zidanega kamnitega kvadra je bila vstavljena osemkotna spominska plošča z
+                    napisom v slavo ustreljenim žrtvam ter reliefom avstrijskega orla z mečem v
+                    krempljih, ki visi nad ljubljanskim gradom in lipovo vejico. Pod ploščo je bil
+                    tik pred odkritjem dodan še napis »Čuvali bomo Jugoslavijo«, ki se je nanašal na
+                    domnevne zadnje besede kralja Aleksandra, ubitega nekaj tednov pred
+                    odkritjem.</p>
+                <p style="text-align:justify">Preostale grobove so s Suhega bajerja novembra 1939
+                    izkopali člani komisije beograjskega pravosodnega ministrstva in jih prenesli v
+                    novo kostnico na Žalah. </p>
+                <p style="text-align:justify">Po drugi svetovni vojni je spomin na žrtve Suhega
+                    bajerja ugasnil. Danes spomenik še stoji, vendar je težko dostopen, zanemarjen
+                    in se ruši.</p>
+                <figure rend="imageviewer" xml:id="figure-4" n="4">
+                    <head>Spomenik danes. Foto: Ivan Smiljanić</head>
+                    <graphic
+                        url="01-figure-4.jpg"/>
+                    <graphic
+                        url="01-figure-4-normal.jpg"/>
+                </figure>
+                <figure rend="imageviewer" xml:id="figure-5" n="5">
+                    <head>Plošča na spomeniku. Foto: Ivan Smiljanić</head>
+                    <graphic
+                        url="01-figure-5.jpg"/>
+                    <graphic
+                        url="01-figure-5-normal.jpg"/>
+                </figure>
+            </div>
+            <div type="part" xml:id="exhibition02">
+                <head>2. Razstava</head>
+                <docAuthor>Tjaša Konovšek</docAuthor>
+                <p style="text-align:justify;">Leta 1989 je v Socialistični republiki Sloveniji
+                    zakrožila ideja o referendumu kot sredstvu za legitimacijo politike slovenskega
+                    republiškega vodstva v odnosu do federacije. Referendum, ki je bil v času
+                    socializma ustavno dovoljen, čeprav niso bili postopki za njegovo izvedbo do
+                    leta 1989 nikdar natančno določeni, je v kratkem času pridobil težo tako s
+                    političnega kot s pravnega vidika, kot sredstvo za izražanje neposredne želje
+                    volivcev pa je načeloma užival tudi visoko podporo javnosti.</p>
+                <p style="text-align:justify;">V politično zaostrenih razmerah, ko sta leta 1989
+                    Socialistična republika Srbija in Socialistična republika Slovenija z amandmaji
+                    spremenili svoji ustavi, tako da se nista več skladali z ustavo federacije, so
+                    politična vodstva republik iskala argumente, s katerimi bi utemeljila svoje
+                    ravnanje. Slovensko politično vodstvo se je med drugim večkrat zanašalo na
+                    slovensko javnost. Kot ena izmed možnosti je tega leta v ospredje stopila
+                    uporaba referenduma kot neposrednega načina odločanja. Njegov morebiten
+                    pozitiven rezultat bi bil jasen signal slovenskemu političnemu vodstvu, hkrati
+                    pa bi utrdil slovenske politične zahteve v mednarodnem prostoru.</p>
+                <figure rend="imageviewer" xml:id="figure-6" n="6">
+                    <head>[foto 1 – v pdf dokumentu na strani 16 zgoraj levo,
+                    kar je označeno z okvirčkom] Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem
+                    LXXI sta natančneje določala postopke za spremembo ustave, vključno z uporabo
+                    referenduma. Uradni list 32/1989 (2. oktober 1989).</head>
+                <graphic url="02-figure-1"></graphic>
+                </figure>
+                <p style="text-align:justify;">Glede izvedbe referenduma je tako v strokovnih kot v
+                    političnih krogih vladala skepsa. Avtorji strokovnih razprav o “političnem
+                    referendumu”, kakor so ga imenovali, so opozarjali na možnost izigravanja
+                    referenduma: njegov rezultat je bil za državo v vsakem primeru zavezujoč, in to
+                    ne glede na to, ali bi bila želja volivcev politično ugodna ali ne, zaradi česar
+                    je do njegove izvedbe vladalo odklonilno vzdušje. Prav tako ni bilo jasno, ali
+                    naj se referendum izvede zgolj v posameznih republikah ali celotni federaciji
+                    ter kako naj se rezultat referenduma prevede na raven federacije. Ta določila bi
+                    lahko bistveno vplivala na interpretacijo referendumskih rezultatov.</p>
+                <figure rend="imageviewer" xml:id="figure-7" n="7">
+                    <head>[foto 2 – sken naslovnice] Milan Balažič (ur.),
+                    Politični referendumi – sredstvo manipulacije ali demokracije? Ljubljana:
+                    Komunist, 1989.</head>
+                    <graphic url="02-figure-2"></graphic></figure>
+                <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v
+                    okviru Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z
+                    anketo odločilo preveriti razpoloženje javnosti do izvedbe referenduma, s
+                    katerim bi bilo možno ugotoviti stališče ljudi do položaja Slovenije v
+                    federaciji in njihov odnos do aktualne republiške politike. Pilotno raziskavo je
+                    RK naročila pri oddelku razvojnega trženja časnika Delo.</p>
+                <p style="text-align:justify;">Odgovori, ki so jih v telefonskih pogovorih podali
+                    anketiranci, so izražali visoko stopnjo podpore slovenskemu političnemu vodstvu.
+                    Rezultati so kazali, da javnost zaupa procesoma demokratizacije in politične
+                    pluralizacije, ki sta se nakazovala – čeprav nikakor ni bilo jasno, kakšne bodo
+                    njune posledice. Na vprašanje, ali bi na referendumu, ki bi se potencialno
+                    izvedel vzporedno z aprilskimi volitvami za slovenskega člana federalnega
+                    predsedstva, anketiranci podprli ali zavrnili politično usmeritev Slovenije, je
+                    kar 92 % vprašanih izrazilo podporo aktualni politični usmeritvi, ki bi jo bili
+                    pripravljeni potrditi tudi na referendumu. Anketiranci so se strinjali, da se
+                    slovensko politično vodstvo dovolj zavzema za mir in sožitje znotraj
+                    Jugoslavije, da ustrezno brani zahteve po avtonomiji republik v odnosu do
+                    federacije in uspešno zagovarja slovenske interese, podprli bi tudi svobodo
+                    političnega združevanja.</p>
+                <figure rend="imageviewer" xml:id="figure-8" n="8"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
+                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
+                    političnega vodstva, marec 1989«.</head>
+                    <graphic url="02-figure-3"></graphic></figure>
+                <figure rend="imageviewer" xml:id="figure-9" n="9"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
+                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
+                    političnega vodstva, marec 1989«.</head>
+                    <graphic url="02-figure-4"></graphic></figure>
+                <figure rend="imageviewer" xml:id="figure-10" n="10"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
+                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
+                    političnega vodstva, marec 1989«.</head>
+                    <graphic url="02-figure-5"></graphic></figure>
+                <p style="text-align:justify;">V času socializma referendum dejansko ni bil
+                    izveden, prav tako ni postal neposredna podlaga za kasnejše predloge ali izvedbo
+                    plebiscita decembra 1990. Iz gradiva ni razvidno, ali je bilo referendumsko
+                    vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
+                    natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
+                    da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
+                    političnega vodstva in visoke podpore s strani javnosti.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
