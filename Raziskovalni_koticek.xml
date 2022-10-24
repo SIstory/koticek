@@ -29,7 +29,7 @@
                 <docTitle>
                     <titlePart>Raziskovalni kotiček Inštituta za novejšo zgodovino</titlePart>
                 </docTitle>
-                <graphic url="https://www.inz.si/f/pics/Izlozbeno_okno/Naslovnica_h1.jpg"/>
+                <figure><graphic url="https://www.inz.si/f/pics/Izlozbeno_okno/Naslovnica_h1.jpg"/></figure>
             </titlePage>
             <divGen type="cip" xml:id="cip">
                 <head>Kolofon</head>
@@ -66,10 +66,8 @@
                     južnoslovanskih narodov. </p>
                 <figure rend="imageviewer" xml:id="figure-1" n="1">
                     <head>Usmrtitev na Suhem bajerju. Vir: Wikimedia Commons</head>
-                    <graphic
-                        url="01-figure-1.jpg"/>
-                    <graphic
-                        url="01-figure-1-normal.jpg"/>
+                    <graphic url="01-figure-1.jpg"/>
+                    <graphic url="01-figure-1-normal.jpg"/>
                 </figure>
                 <p rend="bluebox" style="text-align:justify">Suhi bajer je Slovence tudi razdvajal.
                     Pogosto so ga omenjali v dnevnopolitičnih razpravah skozi dvajseta leta 20.
@@ -85,17 +83,13 @@
                     organiziral komemoracije ob 1. novembru. </p>
                 <figure rend="imageviewer" xml:id="figure-2" n="2">
                     <head>Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
-                    <graphic
-                        url="01-figure-2.jpg"/>
-                    <graphic
-                        url="01-figure-2-normal.jpg"/>
+                    <graphic url="01-figure-2.jpg"/>
+                    <graphic url="01-figure-2-normal.jpg"/>
                 </figure>
                 <figure rend="imageviewer" xml:id="figure-3" n="3">
                     <head>Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
-                    <graphic
-                        url="01-figure-3.jpg"/>
-                    <graphic
-                        url="01-figure-3-normal.jpg"/>
+                    <graphic url="01-figure-3.jpg"/>
+                    <graphic url="01-figure-3-normal.jpg"/>
                 </figure>
                 <p style="text-align:justify">Leta 1927 je bil ustanovljen odbor za postavitev
                     spomenika na Suhem bajerju, ki ga je vodil Kalin. Zbiranje prispevkov je trajalo
@@ -114,21 +108,17 @@
                     in se ruši.</p>
                 <figure rend="imageviewer" xml:id="figure-4" n="4">
                     <head>Spomenik danes. Foto: Ivan Smiljanić</head>
-                    <graphic
-                        url="01-figure-4.jpg"/>
-                    <graphic
-                        url="01-figure-4-normal.jpg"/>
+                    <graphic url="01-figure-4.jpg"/>
+                    <graphic url="01-figure-4-normal.jpg"/>
                 </figure>
                 <figure rend="imageviewer" xml:id="figure-5" n="5">
                     <head>Plošča na spomeniku. Foto: Ivan Smiljanić</head>
-                    <graphic
-                        url="01-figure-5.jpg"/>
-                    <graphic
-                        url="01-figure-5-normal.jpg"/>
+                    <graphic url="01-figure-5.jpg"/>
+                    <graphic url="01-figure-5-normal.jpg"/>
                 </figure>
             </div>
             <div type="part" xml:id="exhibition02">
-                <head>2. Razstava</head>
+                <head>“Politični referendum” v Socialistični republiki Sloveniji leta 1989</head>
                 <docAuthor>Tjaša Konovšek</docAuthor>
                 <p style="text-align:justify;">Leta 1989 je v Socialistični republiki Sloveniji
                     zakrožila ideja o referendumu kot sredstvu za legitimacijo politike slovenskega
@@ -146,12 +136,12 @@
                     uporaba referenduma kot neposrednega načina odločanja. Njegov morebiten
                     pozitiven rezultat bi bil jasen signal slovenskemu političnemu vodstvu, hkrati
                     pa bi utrdil slovenske politične zahteve v mednarodnem prostoru.</p>
-                <figure rend="imageviewer" xml:id="figure-6" n="6">
-                    <head>[foto 1 – v pdf dokumentu na strani 16 zgoraj levo,
-                    kar je označeno z okvirčkom] Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem
-                    LXXI sta natančneje določala postopke za spremembo ustave, vključno z uporabo
-                    referenduma. Uradni list 32/1989 (2. oktober 1989).</head>
-                <graphic url="02-figure-1"></graphic>
+                <figure xml:id="figure-6" n="6">
+                    <graphic url="02-figure-1.jpg"/><!--
+                    <graphic url="02-figure-1-normal.jpg"/>-->
+                    <head>Slika 1: Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem LXXI sta
+                        natančneje določala postopke za spremembo ustave, vključno z uporabo
+                        referenduma. Uradni list 32/1989 (2. oktober 1989).</head>
                 </figure>
                 <p style="text-align:justify;">Glede izvedbe referenduma je tako v strokovnih kot v
                     političnih krogih vladala skepsa. Avtorji strokovnih razprav o “političnem
@@ -163,16 +153,17 @@
                     ter kako naj se rezultat referenduma prevede na raven federacije. Ta določila bi
                     lahko bistveno vplivala na interpretacijo referendumskih rezultatov.</p>
                 <figure rend="imageviewer" xml:id="figure-7" n="7">
-                    <head>[foto 2 – sken naslovnice] Milan Balažič (ur.),
-                    Politični referendumi – sredstvo manipulacije ali demokracije? Ljubljana:
-                    Komunist, 1989.</head>
-                    <graphic url="02-figure-2"></graphic></figure>
-                <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v
-                    okviru Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z
-                    anketo odločilo preveriti razpoloženje javnosti do izvedbe referenduma, s
-                    katerim bi bilo možno ugotoviti stališče ljudi do položaja Slovenije v
-                    federaciji in njihov odnos do aktualne republiške politike. Pilotno raziskavo je
-                    RK naročila pri oddelku razvojnega trženja časnika Delo.</p>
+                    <graphic url="02-figure-2.jpg"/>
+                    <graphic url="02-figure-2-normal.jpg"/>
+                    <head>Slika 2: Milan Balažič (ur.), Politični referendumi –
+                        sredstvo manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
+                </figure>
+                <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v okviru
+                    Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z anketo
+                    odločilo preveriti razpoloženje javnosti do izvedbe referenduma, s katerim bi
+                    bilo možno ugotoviti stališče ljudi do položaja Slovenije v federaciji in njihov
+                    odnos do aktualne republiške politike. Pilotno raziskavo je RK naročila pri
+                    oddelku razvojnega trženja časnika Delo.</p>
                 <p style="text-align:justify;">Odgovori, ki so jih v telefonskih pogovorih podali
                     anketiranci, so izražali visoko stopnjo podpore slovenskemu političnemu vodstvu.
                     Rezultati so kazali, da javnost zaupa procesoma demokratizacije in politične
@@ -186,20 +177,23 @@
                     Jugoslavije, da ustrezno brani zahteve po avtonomiji republik v odnosu do
                     federacije in uspešno zagovarja slovenske interese, podprli bi tudi svobodo
                     političnega združevanja.</p>
-                <figure rend="imageviewer" xml:id="figure-8" n="8"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
-                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
-                    političnega vodstva, marec 1989«.</head>
-                    <graphic url="02-figure-3"></graphic></figure>
-                <figure rend="imageviewer" xml:id="figure-9" n="9"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
-                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
-                    političnega vodstva, marec 1989«.</head>
-                    <graphic url="02-figure-4"></graphic></figure>
-                <figure rend="imageviewer" xml:id="figure-10" n="10"><head>[foto 3, 4, 5 – arhivsko gradivo] SI AS 1944, t. e.
-                    232, p. e. 232/3839. »Stališča in mnenja respondentov o usmeritvah slovenskega
-                    političnega vodstva, marec 1989«.</head>
-                    <graphic url="02-figure-5"></graphic></figure>
-                <p style="text-align:justify;">V času socializma referendum dejansko ni bil
-                    izveden, prav tako ni postal neposredna podlaga za kasnejše predloge ali izvedbo
+                <figure rend="imageviewer" xml:id="figure-8" n="8">
+                    <graphic url="02-figure-3.jpg"/>
+                    <graphic url="02-figure-3-normal.jpg"/>
+                </figure>
+                <figure rend="imageviewer" xml:id="figure-9" n="9">
+                    <graphic url="02-figure-4.jpg"/>
+                    <graphic url="02-figure-4-normal.jpg"></graphic>
+                </figure>
+                <figure rend="imageviewer" xml:id="figure-10" n="10">
+                    <graphic url="02-figure-5.jpg"/>
+                    <graphic url="02-figure-5-normal.jpg"></graphic>
+                    <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839.
+                        »Stališča in mnenja respondentov o usmeritvah slovenskega političnega
+                        vodstva, marec 1989«.</head>
+                </figure>
+                <p style="text-align:justify;">V času socializma referendum dejansko ni bil izveden,
+                    prav tako ni postal neposredna podlaga za kasnejše predloge ali izvedbo
                     plebiscita decembra 1990. Iz gradiva ni razvidno, ali je bilo referendumsko
                     vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
                     natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
