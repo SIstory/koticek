@@ -40,8 +40,10 @@
         </front>
         <body>
             <div type="part" xml:id="exhibition01">
+                <head>Spomenik žrtvam, ustreljenim na<lb/>Suhem bajerju</head>
+                <space></space>
                 <docAuthor>Ivan Smiljanić</docAuthor>
-                <head>Spomenik žrtvam, ustreljenim na Suhem bajerju</head>
+                <space></space>
                 <p style="text-align:justify"><hi rend="bold">Na severozahodnem pobočju
                         ljubljanskega Golovca se nahaja globel, znana kot Suhi bajer. Med prvo
                         svetovno vojno je bil bajer prizorišče usmrtitev domnevnih državnih
@@ -53,19 +55,19 @@
                     kraj usmrtitve najmanj 23 posameznikov, ki so jih avstrijske oblasti pred naglim
                     sodiščem obsodile na smrt zaradi nepremišljenih besed, izrečenih proti Avstriji
                     ali v podporo njenim sovražnicam, in zaradi drugih protidržavnih dejanj, kot je
-                    dezerterstvo.</p>
+                    dezerterstvo.<lb/></p>
                 <p rend="bluebox" style="text-align:justify">Morda najbolj znana žrtev, ustreljena
                     na bajerju, je bil gostilničar Ivan Brence z Dovjega, ki je bil obsojen zaradi
                     pripombe o norosti cesarja Franca Jožefa, ko so mu prišli zaplenit živino. V
                     spominu je ostal zaradi odločnega vztrajanja pri svojih besedah, ki so ga stale
                     življenja. Brencetovo neomajnost simbolizira njegova izjava: »Kar sem rekel, sem
                     rekel!« </p>
-                <p style="text-align:justify">Po koncu prve svetovne vojne so žrtve Suhega bajerja v
+                <p style="text-align:justify"><lb/>Po koncu prve svetovne vojne so žrtve Suhega bajerja v
                     kontekstu Kraljevine Srbov, Hrvatov in Slovencev postale mučeniki avstrijske
                     tiranije nad lastnim ljudstvom in junaki, ki so padli za osvoboditev
                     južnoslovanskih narodov. </p>
                 <figure rend="imageviewer" xml:id="figure-1" n="1">
-                    <head>Usmrtitev na Suhem bajerju. Vir: Wikimedia Commons</head>
+                    <head><hi rend="bold">Slika 1</hi>: Usmrtitev na Suhem bajerju. Vir: Wikimedia Commons</head>
                     <graphic url="01-figure-1.jpg"/>
                     <graphic url="01-figure-1-normal.jpg"/>
                 </figure>
@@ -82,12 +84,12 @@
                     Orjuna, zlasti njegov predsednik Karel Kalin, ki je čistil grobove in
                     organiziral komemoracije ob 1. novembru. </p>
                 <figure rend="imageviewer" xml:id="figure-2" n="2">
-                    <head>Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
+                    <head>Slika 2: Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
                     <graphic url="01-figure-2.jpg"/>
                     <graphic url="01-figure-2-normal.jpg"/>
                 </figure>
                 <figure rend="imageviewer" xml:id="figure-3" n="3">
-                    <head>Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
+                    <head>Slika 3: Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
                     <graphic url="01-figure-3.jpg"/>
                     <graphic url="01-figure-3-normal.jpg"/>
                 </figure>
@@ -107,19 +109,21 @@
                     bajerja ugasnil. Danes spomenik še stoji, vendar je težko dostopen, zanemarjen
                     in se ruši.</p>
                 <figure rend="imageviewer" xml:id="figure-4" n="4">
-                    <head>Spomenik danes. Foto: Ivan Smiljanić</head>
+                    <head>Slika 4: Spomenik danes. Foto: Ivan Smiljanić</head>
                     <graphic url="01-figure-4.jpg"/>
                     <graphic url="01-figure-4-normal.jpg"/>
                 </figure>
                 <figure rend="imageviewer" xml:id="figure-5" n="5">
-                    <head>Plošča na spomeniku. Foto: Ivan Smiljanić</head>
+                    <head>Slika 5: Plošča na spomeniku. Foto: Ivan Smiljanić</head>
                     <graphic url="01-figure-5.jpg"/>
                     <graphic url="01-figure-5-normal.jpg"/>
                 </figure>
             </div>
             <div type="part" xml:id="exhibition02">
                 <head>“Politični referendum” v Socialistični republiki Sloveniji leta 1989</head>
+                <space></space>
                 <docAuthor>Tjaša Konovšek</docAuthor>
+                <space></space>
                 <p style="text-align:justify;">Leta 1989 je v Socialistični republiki Sloveniji
                     zakrožila ideja o referendumu kot sredstvu za legitimacijo politike slovenskega
                     republiškega vodstva v odnosu do federacije. Referendum, ki je bil v času
@@ -136,11 +140,11 @@
                     uporaba referenduma kot neposrednega načina odločanja. Njegov morebiten
                     pozitiven rezultat bi bil jasen signal slovenskemu političnemu vodstvu, hkrati
                     pa bi utrdil slovenske politične zahteve v mednarodnem prostoru.</p>
-                <figure xml:id="figure-6" n="6">
-                    <graphic url="02-figure-1.jpg"/><!--
-                    <graphic url="02-figure-1-normal.jpg"/>-->
+                <figure rend="imageviewer1" xml:id="figure-6" n="6">
+                    <graphic url="02-figure-1.jpg"/>
+                    <graphic url="02-figure-1-normal.jpg"/>
                     <head>Slika 1: Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem LXXI sta
-                        natančneje določala postopke za spremembo ustave, vključno z uporabo
+                        natančneje določala</head><head> postopke za spremembo ustave, vključno z uporabo
                         referenduma. Uradni list 32/1989 (2. oktober 1989).</head>
                 </figure>
                 <p style="text-align:justify;">Glede izvedbe referenduma je tako v strokovnih kot v
@@ -156,7 +160,7 @@
                     <graphic url="02-figure-2.jpg"/>
                     <graphic url="02-figure-2-normal.jpg"/>
                     <head>Slika 2: Milan Balažič (ur.), Politični referendumi –
-                        sredstvo manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
+                        sredstvo</head><head> manipulacije ali demokracije?Ljubljana: Komunist, 1989.</head>
                 </figure>
                 <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v okviru
                     Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z anketo
@@ -177,19 +181,19 @@
                     Jugoslavije, da ustrezno brani zahteve po avtonomiji republik v odnosu do
                     federacije in uspešno zagovarja slovenske interese, podprli bi tudi svobodo
                     političnega združevanja.</p>
-                <figure rend="imageviewer" xml:id="figure-8" n="8">
+                <figure rend="imageviewer2" xml:id="figure-8" n="8">
                     <graphic url="02-figure-3.jpg"/>
                     <graphic url="02-figure-3-normal.jpg"/>
                 </figure>
-                <figure rend="imageviewer" xml:id="figure-9" n="9">
+                <figure rend="imageviewer2" xml:id="figure-9" n="9">
                     <graphic url="02-figure-4.jpg"/>
                     <graphic url="02-figure-4-normal.jpg"></graphic>
                 </figure>
-                <figure rend="imageviewer" xml:id="figure-10" n="10">
+                <figure rend="imageviewer2" xml:id="figure-10" n="10">
                     <graphic url="02-figure-5.jpg"/>
                     <graphic url="02-figure-5-normal.jpg"></graphic>
                     <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839.
-                        »Stališča in mnenja respondentov o usmeritvah slovenskega političnega
+                        »Stališča in mnenja</head><head> respondentovo usmeritvah slovenskega političnega
                         vodstva, marec 1989«.</head>
                 </figure>
                 <p style="text-align:justify;">V času socializma referendum dejansko ni bil izveden,
