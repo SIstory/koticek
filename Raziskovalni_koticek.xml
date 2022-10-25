@@ -108,15 +108,18 @@
                 <p style="text-align:justify">Po drugi svetovni vojni je spomin na žrtve Suhega
                     bajerja ugasnil. Danes spomenik še stoji, vendar je težko dostopen, zanemarjen
                     in se ruši.</p>
-                <figure rend="imageviewer" xml:id="figure-4" n="4">
+                <figure rend="imageviewer2" xml:id="figure-4" n="4">
                     <head>Slika 4: Spomenik danes. Foto: Ivan Smiljanić</head>
                     <graphic url="01-figure-4.jpg"/>
                     <graphic url="01-figure-4-normal.jpg"/>
                 </figure>
-                <figure rend="imageviewer" xml:id="figure-5" n="5">
+                <figure rend="imageviewer2" xml:id="figure-5" n="5">
                     <head>Slika 5: Plošča na spomeniku. Foto: Ivan Smiljanić</head>
                     <graphic url="01-figure-5.jpg"/>
                     <graphic url="01-figure-5-normal.jpg"/>
+                </figure>
+                <figure rend="imageviewer2" xml:id="Plakat-01">
+                    <graphic url="01-plakat.jpg"/>
                 </figure>
             </div>
             <div type="part" xml:id="exhibition02">
@@ -202,7 +205,10 @@
                     vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
                     natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
                     da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
-                    političnega vodstva in visoke podpore s strani javnosti.</p>
+                    političnega vodstva in visoke podpore s strani javnosti.</p>                
+                <figure rend="imageviewer2" xml:id="Plakat-02">
+                    <graphic url="02-plakat.jpg"/>
+                </figure>
             </div>
         </body>
     </text>
