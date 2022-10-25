@@ -118,6 +118,7 @@
                     <graphic url="01-figure-5.jpg"/>
                     <graphic url="01-figure-5-normal.jpg"/>
                 </figure>
+                <milestone unit="section" n="***"/>
                 <figure rend="imageviewer2" xml:id="Plakat-01">
                     <graphic url="01-plakat.jpg"/>
                     <graphic url="01-plakat-normal.jpg"/>
@@ -206,7 +207,8 @@
                     vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
                     natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
                     da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
-                    političnega vodstva in visoke podpore s strani javnosti.</p>                
+                    političnega vodstva in visoke podpore s strani javnosti.</p>                  
+                <milestone unit="section" n="***"/>
                 <figure rend="imageviewer2" xml:id="Plakat-02">
                     <graphic url="02-plakat.jpg"/>
                     <graphic url="02-plakat-normal.jpg"/>
