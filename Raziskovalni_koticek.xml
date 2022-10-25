@@ -120,6 +120,7 @@
                 </figure>
                 <figure rend="imageviewer2" xml:id="Plakat-01">
                     <graphic url="01-plakat.jpg"/>
+                    <graphic url="01-plakat-normal.jpg"/>
                 </figure>
             </div>
             <div type="part" xml:id="exhibition02">
@@ -208,6 +209,7 @@
                     političnega vodstva in visoke podpore s strani javnosti.</p>                
                 <figure rend="imageviewer2" xml:id="Plakat-02">
                     <graphic url="02-plakat.jpg"/>
+                    <graphic url="02-plakat-normal.jpg"/>
                 </figure>
             </div>
         </body>
