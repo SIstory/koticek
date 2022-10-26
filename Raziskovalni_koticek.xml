@@ -119,7 +119,7 @@
                     <graphic url="01-figure-5-normal.jpg"/>
                 </figure>
                 <milestone unit="section" n="***"/>
-                <figure rend="imageviewer2" xml:id="Plakat-01">
+                <figure rend="imageviewer4" xml:id="Plakat-01">
                     <graphic url="01-plakat.jpg"/>
                     <graphic url="01-plakat-normal.jpg"/>
                 </figure>
@@ -165,7 +165,7 @@
                     <graphic url="02-figure-2.jpg"/>
                     <graphic url="02-figure-2-normal.jpg"/>
                     <head>Slika 2: Milan Balažič (ur.), Politični referendumi –
-                        sredstvo</head><head> manipulacije ali demokracije?Ljubljana: Komunist, 1989.</head>
+                        sredstvo</head> <head>manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
                 </figure>
                 <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v okviru
                     Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z anketo
@@ -190,11 +190,11 @@
                     <graphic url="02-figure-3.jpg"/>
                     <graphic url="02-figure-3-normal.jpg"/>
                 </figure>
-                <figure rend="imageviewer2" xml:id="figure-9" n="9">
+                <figure rend="imageviewer3" xml:id="figure-9" n="9">
                     <graphic url="02-figure-4.jpg"/>
                     <graphic url="02-figure-4-normal.jpg"></graphic>
                 </figure>
-                <figure rend="imageviewer2" xml:id="figure-10" n="10">
+                <figure rend="imageviewer3" xml:id="figure-10" n="10">
                     <graphic url="02-figure-5.jpg"/>
                     <graphic url="02-figure-5-normal.jpg"></graphic>
                     <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839.
@@ -209,7 +209,7 @@
                     da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
                     političnega vodstva in visoke podpore s strani javnosti.</p>                  
                 <milestone unit="section" n="***"/>
-                <figure rend="imageviewer2" xml:id="Plakat-02">
+                <figure rend="imageviewer4" xml:id="Plakat-02">
                     <graphic url="02-plakat.jpg"/>
                     <graphic url="02-plakat-normal.jpg"/>
                 </figure>

@@ -1,0 +1,37 @@
+
+/* Master styles */
+
+a {
+  color: #2D6764;
+  text-decoration: underline;
+}
+button, .button { 
+    background-color: #2D6764;
+    text-decoration: none;
+    }
+    
+.menu .active > a {
+    color: #FFFFFF;
+    background: #2D6764;
+    }
+    
+.tipue_search_button
+{
+     width: 100px;
+     height: 37px;
+     border: 0;
+     border-radius: 1px;
+     background: #2D6764 url('search.png') no-repeat center;
+	outline: none;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
