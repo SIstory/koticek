@@ -15,8 +15,19 @@
                     <name>Tjaša Konovšek</name>
                 </respStmt>
             </titleStmt>
+            <editionStmt>
+                <edition>Editon 1.0</edition>
+            </editionStmt>
             <publicationStmt>
-                <p>unknown</p>
+                <publisher>Inštitut za novejšo zgodovino</publisher>
+                <pubPlace>Ljubljana</pubPlace>
+                <date when="2022">2022 - </date>
+                <availability>
+                    <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+                    <p style="text-align:justify;">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
+                        Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
+                    </p>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>Converted from a Word document</p>
