@@ -12,7 +12,9 @@
                 <respStmt>
                     <resp>Avtorja razstav</resp>
                     <name>Ivan Smiljanić</name>
-                    <name>Tjaša Konovšek</name>
+                    <name>dr. Tjaša Konovšek</name>
+                    <name>dr. Marta Rendla</name>
+                    <name>dr. Janja Sedlaček</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -223,6 +225,209 @@
                 <figure rend="imageviewer4" xml:id="Plakat-02">
                     <graphic url="02-plakat.jpg"/>
                     <graphic url="02-plakat-normal.jpg"/>
+                </figure>
+            </div>
+            <div type="part" xml:id="exhibition03">
+                <head>Industrializacija, urbanizacija in onesnaženost okolja v
+                    socialistični Sloveniji</head>
+                <space></space>
+                <docAuthor>dr. Marta Rendla</docAuthor>
+                <docAuthor>dr. Janja Sedlaček</docAuthor>
+                <space></space>
+                <p style="text-align:justify;">V Sloveniji se je v času socializma odvijala pospešena industrializacija.
+                    Industrijska proizvodnja se je v obdobju 1939−1972 podeseterila, stopnja gospodarske
+                    rasti Slovenije v letih 1953−1972 je bila med najvišjimi na svetu. V industriji je
+                    imela (kljub različnim poudarkom v različnih obdobjih) vse do razpada države
+                    pomembno mesto težka industrija s škodljivimi učinki na okolje. Sprva se je
+                    industrializacija krepila zlasti v tako imenovanem industrijskem polmesecu, kjer so
+                    bili ob glavnih železniških progah že razmeščeni predvojni industrijski centri.
+                    Kasneje se je prostorsko razpršila. Pospešeno in razpršeno industrializacijo je
+                    spremljala prav takšna urbanizacija. Intenziven razvoj je doživljala zlasti v 60. in
+                    70. letih. Zaradi kasnejše suburbanizacije je na začetku 90. let Slovenijo z
+                    51,5-odstotno urbaniziranostjo še vedno označevala hipo-urbaniziranost. Razpršenost
+                    industrializacije in urbanizacije je imela v luči onesnaževanja tako negativne kot
+                    pozitivne učinke – onesnaževanje je seglo v vse predele Slovenije, hkrati pa so bili
+                    njegovi učinki razpršeni in ne koncentrirani le v določenih industrijskih centrih. </p>
+                <p style="text-align:justify;">Intenzivnost industrializacije in urbanizacije se je začela kmalu odražati na okolju.
+                    V 60. letih so v prehrani ljudi iz okolice topilnic svinca in cinka v Celju in
+                    Mežici izmerili 50-krat povečane količine svinca, v zemlji in zelenjavi pa tudi
+                    nenormalne količine žvepla. Pri Kidričevem in v Idriji so leta 1970 izmerili do 15
+                    mg živega srebra v kilogramu travniških rastlin, pri Kidričevem je bil poleg tega v
+                    prsti tudi fluor. </p>
+                <p style="text-align:justify;">Zaskrbljujoče je bilo tudi onesnaženje voda. Slovenske reke so bile sredi 70. let
+                    tako onesnažene, kot da bi ob njih bivalo 7-8 milijonov ljudi (populacijski
+                    ekvivalent ali PE). Razmerje med populacijskim in industrijskim onesnaževanjem je
+                    bilo 1:4. Ponekod je bilo problematično tudi onesnaženje podtalnice in kraških
+                    izvirov. Kakovost voda se je najbolj poslabšala v letih 1960−1975. Sredi 80. let je
+                    bilo v uporabi 121 mehansko-bioloških čistilnih naprav, a te so očistile le 15 %
+                    vseh odpadnih voda. Največje breme onesnaževanja je predstavljala industrija v
+                    večjih industrijskih centrih (Ljubljana, Maribor, črni revirji, Celje, Ravne,
+                    Jesenice ipd.), največji onesnaževalci so bili papirna in prehrambna industrija,
+                    proizvodnja hišnih aparatov, usnjarska industrija, prašičje farme in separacije
+                    premoga. Več kot tretjina onesnaženja slovenskih rek pa je po ocenah strokovnjakov
+                    prihajala iz tujine.</p>                
+                <figure rend="imageviewer3" xml:id="figure-11" n="11">
+                    <graphic url="03-figure-1.jpg"/>
+                    <graphic url="03-figure-1-normal.jpg"/>
+                    <head>Slika 1: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                </figure>
+                <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost zraka. Že v 60. letih so tedaj še
+                    nesistematične meritve pokazale, da slovenska mesta sodijo med kraje z najbolj
+                    onesnaženim zrakom. Najvišja dnevna koncentracija imisije SO <hi rend="subscript">2</hi> je bila v Ljubljani izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi rend="superscript">3</hi> zraka je
+                    povprečna 24-urna koncentracija SO<hi rend="subscript">2</hi> za
+                    Jugoslavijo dopustno mejo presegla 16-krat. V letu 1975 se je v III. in IV.
+                    območje onesnaženosti zraka na 4-stopenjski lestvici uvrščalo 28 slovenskih
+                    naselij, leta 1987 pa že 44. V njih je živela četrtina prebivalcev Slovenije.
+                    Največji vir škodljivih snovi v zraku so bile termoelektrarne na premog −
+                    Termoelektrarna Šoštanj, Termoelektrarna Trbovlje in Termoelektrarna-Toplarna
+                    Ljubljana. Njihove emisije SO
+                    <hi rend="subscript">2</hi> so v 80. letih znašale približno 2/3 skupne emisije
+                    SO<hi rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 %
+                    emisij prispevali termoenergetski objekti, 12 % industrija, 1,5 % promet in 8,5
+                    % ogrevanje stanovanj in drugih objektov. Slovenija je leta 1975 dobila Zakon o
+                    varstvu zraka z normativi za emisijo in za dovoljene mejne emisije škodljivih
+                    snovi. Na osnovi slednjega se je v letih 1976−1977 začelo vzpostavljati osnovno
+                    mrežo postaj za merjenje onesnaženosti zraka in pripravljati sanacijske programe
+                    za največje industrijske onesnaževalce. 
+                </p>                
+                <figure rend="imageviewer3" xml:id="figure-12" n="12">
+                    <graphic url="03-figure-2.jpg"/>
+                    <graphic url="03-figure-2-normal.jpg"/>
+                    <head>Slika 2: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                </figure>
+                <p style="text-align:justify;">V 80. letih so bile poleg Ljubljane, Maribora, Celja najbolj degradirane regije
+                    metalurško usmerjena Mežiška dolina (z rudnikom svinca in cinka v Črni, Žerjavu in
+                    Mežici), obrobje Šaleške doline (Zavodnje nad Šoštanjem), Celjska in Ljubljanska
+                    kotlina, Zasavje (Trbovlje, Hrastnik, Zagorje) in Trata v industrijskem delu Škofje
+                    Loke. </p> 
+                <figure rend="imageviewer2" xml:id="figure-13" n="13">
+                    <graphic url="03-figure-3.jpg"/>
+                    <graphic url="03-figure-3-normal.jpg"/>
+                    <head>Slika 3: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                </figure>
+                <table rend="rules">
+                <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80. letih</head>
+                    <row>
+                        <cell rend="left">mesto</cell>
+                        <cell rend="left">SO<hi rend="subscript">2</hi>
+                            mikrog/m3</cell>
+                    </row>
+                    <row>
+                        <cell rend="left"> Ljubljana</cell>
+                        <cell rend="left">120</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Chichago</cell>
+                        <cell rend="left">23</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Varšava</cell>
+                        <cell rend="left">36</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Dunaj</cell>
+                        <cell rend="left">39</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Gradec</cell>
+                        <cell rend="left">40</cell>
+                    </row>
+                    <row>
+                        <cell rend="left"> Glasgow</cell>
+                        <cell rend="left">47</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Frankfurt</cell>
+                        <cell rend="left">50</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">London</cell>
+                        <cell rend="left">55</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Zagreb</cell>
+                        <cell rend="left">80</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Milano</cell>
+                        <cell rend="left">180</cell>
+                    </row>
+                </table>
+                <table rend="rules">
+                <head>Proizvodnja emisij SO<hi rend="subscript">2</hi> v kg/prebivalca na
+                    začetku 90. let </head>
+                    <row>
+                        <cell rend="left">država</cell>
+                        <cell rend="left">proizvodnja emisij SO<hi rend="subscript">2
+                        </hi>v kg/prebivalca</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Slovenija</cell>
+                        <cell rend="left">98</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Velika Britanija</cell>
+                        <cell rend="left">84</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Nemčija</cell>
+                        <cell rend="left">52</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Avstrija</cell>
+                        <cell rend="left">47</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">Švica</cell>
+                        <cell rend="left">20</cell>
+                    </row>
+                </table>
+                <p style="text-align:justify;">Proizvodnja okoljsko škodljivih surovin in reprodukcijskega materiala je v
+                    desetletjih po drugi svetovni vojni hitro naraščala. </p>
+                <table rend="rules">
+                <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v tonah
+                    (t)
+                </head>
+                    <row>
+                        <cell rend="left"/>
+                        <cell rend="left">1937</cell>
+                        <cell rend="left">1974</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">glinica</cell>
+                        <cell rend="left">3.500</cell>
+                        <cell rend="left">124.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">rafiniran svinec</cell>
+                        <cell rend="left">8.766.000</cell>
+                        <cell rend="left">26.335.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">živo srebro</cell>
+                        <cell rend="left">326.000</cell>
+                        <cell rend="left">546.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">žveplena kislina</cell>
+                        <cell rend="left">7.680.000</cell>
+                        <cell rend="left">93.200.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">umetna gnojila</cell>
+                        <cell rend="left">26.813.000</cell>
+                        <cell rend="left">48.379.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">azbestno-cementni izdelki</cell>
+                        <cell rend="left">7.600</cell>
+                        <cell rend="left">223.000</cell>
+                    </row>
+                </table>
+                <milestone unit="section" n="***"/>
+                <figure rend="imageviewer4" xml:id="Plakat-03">
+                    <graphic url="03-plakat.jpg"/>
+                    <graphic url="03-plakat-normal.jpg"/>
                 </figure>
             </div>
         </body>
