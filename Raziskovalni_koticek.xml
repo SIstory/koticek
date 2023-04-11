@@ -248,6 +248,46 @@
                     industrializacije in urbanizacije je imela v luči onesnaževanja tako negativne kot
                     pozitivne učinke – onesnaževanje je seglo v vse predele Slovenije, hkrati pa so bili
                     njegovi učinki razpršeni in ne koncentrirani le v določenih industrijskih centrih. </p>
+                <table rend="rules">
+                    <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v tonah
+                        (t)
+                    </head>
+                    <row>
+                        <cell rend="left"/>
+                        <cell rend="left">1937</cell>
+                        <cell rend="left">1974</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">glinica</cell>
+                        <cell rend="left">3.500</cell>
+                        <cell rend="left">124.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">rafiniran svinec</cell>
+                        <cell rend="left">8.766.000</cell>
+                        <cell rend="left">26.335.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">živo srebro</cell>
+                        <cell rend="left">326.000</cell>
+                        <cell rend="left">546.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">žveplena kislina</cell>
+                        <cell rend="left">7.680.000</cell>
+                        <cell rend="left">93.200.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">umetna gnojila</cell>
+                        <cell rend="left">26.813.000</cell>
+                        <cell rend="left">48.379.000</cell>
+                    </row>
+                    <row>
+                        <cell rend="left">azbestno-cementni izdelki</cell>
+                        <cell rend="left">7.600</cell>
+                        <cell rend="left">223.000</cell>
+                    </row>
+                </table>
                 <p style="text-align:justify;">Intenzivnost industrializacije in urbanizacije se je začela kmalu odražati na okolju.
                     V 60. letih so v prehrani ljudi iz okolice topilnic svinca in cinka v Celju in
                     Mežici izmerili 50-krat povečane količine svinca, v zemlji in zelenjavi pa tudi
@@ -266,10 +306,11 @@
                     proizvodnja hišnih aparatov, usnjarska industrija, prašičje farme in separacije
                     premoga. Več kot tretjina onesnaženja slovenskih rek pa je po ocenah strokovnjakov
                     prihajala iz tujine.</p>                
-                <figure rend="imageviewer3" xml:id="figure-11" n="11">
-                    <graphic url="03-figure-1.jpg"/>
-                    <graphic url="03-figure-1-normal.jpg"/>
-                    <head>Slika 1: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                <figure rend="imageviewer2" xml:id="figure-11" n="11">
+                    <graphic url="03-figure-3.jpg"/>
+                    <graphic url="03-figure-3-normal.jpg"/>
+                    <head>Slika 1: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije.
+                        </head>
                 </figure>
                 <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost zraka. Že v 60. letih so tedaj še
                     nesistematične meritve pokazale, da slovenska mesta sodijo med kraje z najbolj
@@ -293,17 +334,18 @@
                 <figure rend="imageviewer3" xml:id="figure-12" n="12">
                     <graphic url="03-figure-2.jpg"/>
                     <graphic url="03-figure-2-normal.jpg"/>
-                    <head>Slika 2: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                    <head>Slika 2: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.
+                        </head>
                 </figure>
                 <p style="text-align:justify;">V 80. letih so bile poleg Ljubljane, Maribora, Celja najbolj degradirane regije
                     metalurško usmerjena Mežiška dolina (z rudnikom svinca in cinka v Črni, Žerjavu in
                     Mežici), obrobje Šaleške doline (Zavodnje nad Šoštanjem), Celjska in Ljubljanska
                     kotlina, Zasavje (Trbovlje, Hrastnik, Zagorje) in Trata v industrijskem delu Škofje
                     Loke. </p> 
-                <figure rend="imageviewer2" xml:id="figure-13" n="13">
-                    <graphic url="03-figure-3.jpg"/>
-                    <graphic url="03-figure-3-normal.jpg"/>
-                    <head>Slika 3: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                <figure rend="imageviewer3" xml:id="figure-13" n="13">
+                    <graphic url="03-figure-1.jpg"/>
+                    <graphic url="03-figure-1-normal.jpg"/>
+                    <head>Slika 3: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
                 </figure>
                 <table rend="rules">
                 <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80. letih</head>
@@ -384,46 +426,7 @@
                 </table>
                 <p style="text-align:justify;">Proizvodnja okoljsko škodljivih surovin in reprodukcijskega materiala je v
                     desetletjih po drugi svetovni vojni hitro naraščala. </p>
-                <table rend="rules">
-                <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v tonah
-                    (t)
-                </head>
-                    <row>
-                        <cell rend="left"/>
-                        <cell rend="left">1937</cell>
-                        <cell rend="left">1974</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">glinica</cell>
-                        <cell rend="left">3.500</cell>
-                        <cell rend="left">124.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">rafiniran svinec</cell>
-                        <cell rend="left">8.766.000</cell>
-                        <cell rend="left">26.335.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">živo srebro</cell>
-                        <cell rend="left">326.000</cell>
-                        <cell rend="left">546.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">žveplena kislina</cell>
-                        <cell rend="left">7.680.000</cell>
-                        <cell rend="left">93.200.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">umetna gnojila</cell>
-                        <cell rend="left">26.813.000</cell>
-                        <cell rend="left">48.379.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">azbestno-cementni izdelki</cell>
-                        <cell rend="left">7.600</cell>
-                        <cell rend="left">223.000</cell>
-                    </row>
-                </table>
+                
                 <milestone unit="section" n="***"/>
                 <figure rend="imageviewer4" xml:id="Plakat-03">
                     <graphic url="03-plakat.jpg"/>
