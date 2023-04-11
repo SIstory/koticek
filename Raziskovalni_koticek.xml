@@ -316,15 +316,14 @@
                 </figure>
                 <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost zraka. Že v 60. letih so tedaj še
                     nesistematične meritve pokazale, da slovenska mesta sodijo med kraje z najbolj
-                    onesnaženim zrakom. Najvišja dnevna koncentracija imisije SO <hi rend="subscript">2</hi> je bila v Ljubljani izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi rend="superscript">3</hi> zraka je
+                    onesnaženim zrakom. Najvišja dnevna koncentracija imisije SO<hi rend="subscript">2</hi> je bila v Ljubljani izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi rend="superscript">3</hi> zraka je
                     povprečna 24-urna koncentracija SO<hi rend="subscript">2</hi> za
                     Jugoslavijo dopustno mejo presegla 16-krat. V letu 1975 se je v III. in IV.
                     območje onesnaženosti zraka na 4-stopenjski lestvici uvrščalo 28 slovenskih
                     naselij, leta 1987 pa že 44. V njih je živela četrtina prebivalcev Slovenije.
                     Največji vir škodljivih snovi v zraku so bile termoelektrarne na premog −
                     Termoelektrarna Šoštanj, Termoelektrarna Trbovlje in Termoelektrarna-Toplarna
-                    Ljubljana. Njihove emisije SO
-                    <hi rend="subscript">2</hi> so v 80. letih znašale približno 2/3 skupne emisije
+                    Ljubljana. Njihove emisije SO<hi rend="subscript">2</hi> so v 80. letih znašale približno 2/3 skupne emisije
                     SO<hi rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 %
                     emisij prispevali termoenergetski objekti, 12 % industrija, 1,5 % promet in 8,5
                     % ogrevanje stanovanj in drugih objektov. Slovenija je leta 1975 dobila Zakon o
@@ -354,7 +353,7 @@
                     <row>
                         <cell rend="left">mesto</cell>
                         <cell rend="left">SO<hi rend="subscript">2</hi>
-                            mikrog/m3</cell>
+                            mikrog/m<hi rend="superscript">3</hi></cell>
                     </row>
                     <row>
                         <cell rend="left"> Ljubljana</cell>
