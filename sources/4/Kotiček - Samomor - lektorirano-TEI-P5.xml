@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Meta Remec</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2023-11-22</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2023-12-13T12:57:22Z</date><name>Meta Remec</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi rend="bold">Meta Remec</hi></p>
+            <p><hi rend="bold">»Zakaj so tako nesrečni?« Slovenci in samomor v 60. letih 20.
+                    stoletja</hi></p>
+            <p><hi rend="italic">Slovenija se je kot najbolj razvita med jugoslovanskimi republikami
+                    v šestdesetih letih prejšnjega stoletja ponašala z gospodarskim razvojem, nizko
+                    brezposelnostjo in rastjo življenjskega standarda. Idilično podobo napredka in
+                    blagostanja je kazila vse višja stopnja samomorilnosti, ki je ostajala visoko
+                    nad jugoslovanskim povprečjem in ki je bila za nasprotnike režima dokaz, da je
+                    novi ideologiji spodletelo ter da so ljudje nesrečni do te mere, da se umikajo v
+                    smrt. </hi></p>
+            <p>V šestdesetih letih se je problematika znašla v središču pozornosti. Statistični
+                podatki so nakazovali, da je v slabem stoletju prišlo do izrazitega skoka v stopnji
+                samomorilnosti z začetnih 3 samomorov na 100.000 v letu 1873 na 35–40 samomorov na
+                100.000 prebivalcev v šestdesetih letih 20. stoletja, kar naj bi nakazovalo, da se
+                je v dobrem stoletju v slovenski družbi zgodil popoln prelom, skrb pa je vzbujalo
+                zlasti prepričanje, da je do drastičnega skoka v stopnji samomorilnosti prišlo po
+                letu 1955. Analitiki so namreč upoštevali zgolj podatke o stopnji samomorilnosti med
+                letoma 1931 in 1934, ko je ta znašala 19/100.000 prebivalcev, spregledali pa so
+                dejstvo, da je stopnja samomorilnosti med letoma 1937 in 1939 v Dravski banovini že
+                znašala 26 samomorov na 100.000 prebivalcev in da se je, po začasnem upadu med
+                vojno, zgolj vrnila na raven, kjer je že bila pred izbruhom druge svetovne vojne.
+                Občutek krize je še poglabljala primerjava med stopnjami samomorilnosti v Sloveniji
+                in v drugih jugoslovanskih republikah, ki je dokazovala alarmantnost slovenske
+                realnosti in spodbudila nujo po ukrepanju na različnih ravneh. </p>
+            <p><hi rend="italic">Tabela 1: </hi>Stopnja samomorilnosti v Jugoslaviji v letih
+                1955–1964</p>
+            <table rend="rules">
+                <row>
+                    <cell rend="both">Jugoslavija</cell>
+                    <cell rend="both">BiH</cell>
+                    <cell rend="both">Črna gora </cell>
+                    <cell rend="both">Hrvaška</cell>
+                    <cell rend="both">Makedonija</cell>
+                    <cell rend="both">Srbija</cell>
+                    <cell rend="both">Vojvodina</cell>
+                    <cell rend="both">Kosovo</cell>
+                    <cell rend="both">Slovenija</cell>
+                </row>
+                <row>
+                    <cell rend="both">14,6</cell>
+                    <cell rend="both">8,9</cell>
+                    <cell rend="both">17,1</cell>
+                    <cell rend="both">16,8</cell>
+                    <cell rend="both">4,4</cell>
+                    <cell rend="both">11,8</cell>
+                    <cell rend="both">25,2</cell>
+                    <cell rend="both">4,2</cell>
+                    <cell rend="both">30,2</cell>
+                </row>
+            </table>
+            <p><hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš, 206.</hi></p>
+            <p>Analitiki so še na začetku šestdesetih let sicer poudarjali, da ni nikakršne potrebe
+                po dramatiziranju, saj naj bi statistični podatki pričali zgolj o razmerah, ki naj
+                bi bile ostanek preteklih časov in posledica starega, zatohlega, s katolištvom
+                prežetega predvojnega sveta, rešitev pa naj bi prinesel obračun z ostanki meščanske
+                ideologije, ki so še bili prisotni v družbi. Pričakovanja stroke in oblasti, da bo
+                uresničitev socialističnega sna že sama po sebi prinesla preobrat in upad števila
+                samomorov, se niso uresničila. Namesto da bi se Slovenija približala stopnji
+                samomorilnosti, ki je bila značilna za preostali del države, se je od nje le še bolj
+                oddaljevala. Nelagodje so vzbujali zlasti podatki o visoki stopnji samomorilnosti
+                med mladimi, višji tudi v primerjavi s podatki iz držav, ki so sicer prednjačile po
+                številu samomorov, in sredi šestdesetih let je v strokovni javnosti prevladalo
+                prepričanje, da je nujno aktivno ukrepati, vendar na način, ki ne bi vznemirjal
+                javnosti. </p>
+            <p><hi rend="italic">Tabela 2:</hi> Stopnja samomorilnosti po starostnih skupinah v letu
+                1964 s podatki za moško in žensko populacijo</p>
+            <table rend="rules">
+                <row>
+                    <cell rend="both"/>
+                    <cell rend="center" cols="2">Slovenija</cell>
+                    <cell rend="center" cols="2">Avstrija</cell>
+                    <cell rend="center" cols="2">Češkoslovaška</cell>
+                    <cell rend="center" cols="2">Finska</cell>
+                    <cell rend="center" cols="2">Madžarska</cell>
+                </row>
+                <row>
+                    <cell rend="both">Starost</cell>
+                    <cell rend="both">M</cell>
+                    <cell rend="both">Ž</cell>
+                    <cell rend="both">M</cell>
+                    <cell rend="both">Ž</cell>
+                    <cell rend="both">M</cell>
+                    <cell rend="both">Ž</cell>
+                    <cell rend="both">M</cell>
+                    <cell rend="both">Ž</cell>
+                    <cell rend="both">M</cell>
+                    <cell rend="both">Ž</cell>
+                </row>
+                <row>
+                    <cell rend="both">10–14</cell>
+                    <cell rend="both">5,3</cell>
+                    <cell rend="both">-</cell>
+                    <cell rend="both">2,4</cell>
+                    <cell rend="both">1,7</cell>
+                    <cell rend="both">2,4</cell>
+                    <cell rend="both">0,5</cell>
+                    <cell rend="both">2,1</cell>
+                    <cell rend="both">-</cell>
+                    <cell rend="both">5,0</cell>
+                    <cell rend="both">12,7</cell>
+                </row>
+                <row>
+                    <cell rend="both">15–19</cell>
+                    <cell rend="both">20,4</cell>
+                    <cell rend="both">14,5</cell>
+                    <cell rend="both">16,9</cell>
+                    <cell rend="both">6,5</cell>
+                    <cell rend="both">17,3</cell>
+                    <cell rend="both">7</cell>
+                    <cell rend="both">8,3</cell>
+                    <cell rend="both">2,3</cell>
+                    <cell rend="both">21,1</cell>
+                    <cell rend="both">15,4</cell>
+                </row>
+                <row>
+                    <cell rend="both">20–24</cell>
+                    <cell rend="both">40,4</cell>
+                    <cell rend="both">12,6</cell>
+                    <cell rend="both">27,2</cell>
+                    <cell rend="both">8,0</cell>
+                    <cell rend="both">29,8</cell>
+                    <cell rend="both">9,3</cell>
+                    <cell rend="both">23,2</cell>
+                    <cell rend="both">4,9</cell>
+                    <cell rend="both">40,9</cell>
+                    <cell rend="both">12,3</cell>
+                </row>
+                <row>
+                    <cell rend="both">25–29</cell>
+                    <cell rend="both">46,5</cell>
+                    <cell rend="both">7,9</cell>
+                    <cell rend="both">26,8</cell>
+                    <cell rend="both">13,3</cell>
+                    <cell rend="both">30,7</cell>
+                    <cell rend="both">8,6</cell>
+                    <cell rend="both">21,1</cell>
+                    <cell rend="both">9,0</cell>
+                    <cell rend="both">35,2</cell>
+                    <cell rend="both">14,7</cell>
+                </row>
+                <row>
+                    <cell rend="both">30–34</cell>
+                    <cell rend="both">44,6</cell>
+                    <cell rend="both">13,2</cell>
+                    <cell rend="both">32,5</cell>
+                    <cell rend="both">10</cell>
+                    <cell rend="both">35,5</cell>
+                    <cell rend="both">10,7</cell>
+                    <cell rend="both">42,0</cell>
+                    <cell rend="both">7,4</cell>
+                    <cell rend="both">44,3</cell>
+                    <cell rend="both">13,5</cell>
+                </row>
+            </table>
+            <p><hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš, 208.</hi>
+            </p>
+            <p>Poskusi, da bi problem obravnavali tiho in interno, niso uspeli. Prelomnica pa ni
+                bila število samomorov, ampak javno predvajanje filma Maka Sajka <hi rend="italic"
+                    >Samomorivci, pozor!</hi> leta 1967 v Beogradu. Film je osvetlil problem
+                samomorov mladih v Sloveniji, zgodba pa je odjeknila tako v domačem kot v tujem in
+                izseljenskem časopisju, ki je v naraščajoči stopnji samomorov med mladimi iskalo
+                znake propada socialističnega sistema. </p>
+            <p>Leta 1968 je škandal dobil še dodatno razsežnost: po samomorih Svita Brejca in
+                nekaterih drugih otrok javnih osebnosti se je začelo javno ugibanje o obstoju
+                samomorilskega kluba med študenti v Ljubljani, ki naj bi spodbujal mlade k samomoru.
+                Pristojni na ministrstvu za notranje zadeve so se odločili zadevo poglobljeno
+                raziskati in so začeli preiskavo z imenom <hi rend="italic">Hašiš</hi>, pri kateri
+                je sodelovala tudi SDV. Osrednji del preiskave so bili samomori Aleša Kermaunerja
+                (1946–1966), Borivoja Dedijerja (1945–1966) in Svita Brejca (1947–1968), ki naj bi
+                bili povod za vse druge in so odpirali vprašanje, ali so ti samomori nesmiselna
+                dejanja razvajencev ali racionalne odločitve in kot take kritika družbe. Zlasti Aleš
+                Kermauner je postajal legenda med mlajšo generacijo in po mnenju policijskih
+                preiskovalcev je obstajala realna nevarnost za nastanek mita o »slovenskem Palachu«,
+                kar so želeli na vsak način preprečiti. V strahu pred vplivi Zahoda, javnim mnenjem
+                in podtalnim družbenim vrenjem je oblast uporabljala različna sredstva nadzora nad
+                vpletenimi do konca policijske preiskave leta 1969 in še dlje. </p>
+            <p>Preiskava obstoja kluba samomorilcev ni potrdila. Z olajšanjem so ugotovili, da naj
+                bi šlo za propadle in izolirane posameznike, ki jih je socialistična družba, očitno
+                močna in notranje koherentna, že marginalizirala. Razlogi za obravnavane smrti so
+                bili označeni kot zasebni: bili naj bi osamljena dejanja osamljenih mladih ljudi,
+                brez občinstva ali višje resnice. Za režim je bilo vsekakor bolje, da so umirali
+                zaradi občutka osebne poraženosti ali celo zdolgočasenosti kot iz upora ali želje po
+                prevratu družbenega sistema. </p>
+            <p><hi rend="bold">Slikovno gradivo</hi></p>
+            <p><hi rend="bold">Slika 1:</hi> Članek <hi rend="italic">Klub samomorilcev – da ali
+                    ne?</hi> sproži vihar ugibanj o obstoju kluba samomorilcev med mladimi v
+                Ljubljani</p>
+            <p>Fornezzi, Tone, »Klub samomorilcev – da ali ne?«, <hi rend="italic">Tedenska
+                    tribuna</hi>, 19. 6. 1968, št. 25, 2. </p>
+            <p><hi rend="bold">Slika 2:</hi> Grozilno pismo domnevnega kluba samomorilcev</p>
+            <p>SI AS 1931, 1416, Hašiš, 110–111.</p>
+            <p><hi rend="bold">Slika 3:</hi> Aleš Kermauner, <hi rend="italic">Ste
+                nesrečni?</hi></p>
+            <p><hi rend="italic">Kermauner Aleš: Aleš Kermauner. Ljubljana: Kulturna komisija pri
+                    univerzitetnem odboru zveze študentov Jugoslavije, 1966.</hi></p>
+            <p><hi rend="italic">AS 1931, t. e. 1417, Aleš Kermauner.</hi></p>
+        </body>
+    </text>
+</TEI>

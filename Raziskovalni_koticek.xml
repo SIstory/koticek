@@ -15,6 +15,7 @@
                     <name>dr. Tjaša Konovšek</name>
                     <name>dr. Marta Rendla</name>
                     <name>dr. Janja Sedlaček</name>
+                    <name>dr. Meta Remec</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -26,8 +27,10 @@
                 <date when="2022">2022 - </date>
                 <availability>
                     <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
-                    <p style="text-align:justify;">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons
-                        Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna licenco</ref>
+                    <p style="text-align:justify;">To delo je ponujeno pod <ref
+                            target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
+                            Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
+                            licenco</ref>
                     </p>
                 </availability>
             </publicationStmt>
@@ -42,7 +45,9 @@
                 <docTitle>
                     <titlePart>Raziskovalni kotiček Inštituta za novejšo zgodovino</titlePart>
                 </docTitle>
-                <figure><graphic url="naslovna1.jpg"/></figure>
+                <figure>
+                    <graphic url="naslovna1.jpg"/>
+                </figure>
             </titlePage>
             <divGen type="cip" xml:id="cip">
                 <head>Kolofon</head>
@@ -54,9 +59,9 @@
         <body>
             <div type="part" xml:id="exhibition01">
                 <head>Spomenik žrtvam, ustreljenim na<lb/> Suhem bajerju</head>
-                <space></space>
+                <space/>
                 <docAuthor>Ivan Smiljanić</docAuthor>
-                <space></space>
+                <space/>
                 <p style="text-align:justify"><hi rend="bold">Na severozahodnem pobočju
                         ljubljanskega Golovca se nahaja globel, znana kot Suhi bajer. Med prvo
                         svetovno vojno je bil bajer prizorišče usmrtitev domnevnih državnih
@@ -75,12 +80,13 @@
                     spominu je ostal zaradi odločnega vztrajanja pri svojih besedah, ki so ga stale
                     življenja. Brencetovo neomajnost simbolizira njegova izjava: »Kar sem rekel, sem
                     rekel!« </p>
-                <p style="text-align:justify"><lb/>Po koncu prve svetovne vojne so žrtve Suhega bajerja v
-                    kontekstu Kraljevine Srbov, Hrvatov in Slovencev postale mučeniki avstrijske
-                    tiranije nad lastnim ljudstvom in junaki, ki so padli za osvoboditev
+                <p style="text-align:justify"><lb/>Po koncu prve svetovne vojne so žrtve Suhega
+                    bajerja v kontekstu Kraljevine Srbov, Hrvatov in Slovencev postale mučeniki
+                    avstrijske tiranije nad lastnim ljudstvom in junaki, ki so padli za osvoboditev
                     južnoslovanskih narodov. </p>
                 <figure rend="imageviewer" xml:id="figure-1" n="1">
-                    <head><hi rend="bold">Slika 1</hi>: Usmrtitev na Suhem bajerju. Vir: Wikimedia Commons</head>
+                    <head><hi rend="bold">Slika 1</hi>: Usmrtitev na Suhem bajerju. Vir: Wikimedia
+                        Commons</head>
                     <graphic url="01-figure-1.jpg"/>
                     <graphic url="01-figure-1-normal.jpg"/>
                 </figure>
@@ -139,9 +145,9 @@
             </div>
             <div type="part" xml:id="exhibition02">
                 <head>“Politični referendum” v Socialistični republiki Sloveniji leta 1989</head>
-                <space></space>
+                <space/>
                 <docAuthor>Tjaša Konovšek</docAuthor>
-                <space></space>
+                <space/>
                 <p style="text-align:justify;">Leta 1989 je v Socialistični republiki Sloveniji
                     zakrožila ideja o referendumu kot sredstvu za legitimacijo politike slovenskega
                     republiškega vodstva v odnosu do federacije. Referendum, ki je bil v času
@@ -162,8 +168,9 @@
                     <graphic url="02-figure-1.jpg"/>
                     <graphic url="02-figure-1-normal.jpg"/>
                     <head>Slika 1: Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem LXXI sta
-                        natančneje določala</head><head> postopke za spremembo ustave, vključno z uporabo
-                        referenduma. Uradni list 32/1989 (2. oktober 1989).</head>
+                        natančneje določala</head>
+                    <head> postopke za spremembo ustave, vključno z uporabo referenduma. Uradni list
+                        32/1989 (2. oktober 1989).</head>
                 </figure>
                 <p style="text-align:justify;">Glede izvedbe referenduma je tako v strokovnih kot v
                     političnih krogih vladala skepsa. Avtorji strokovnih razprav o “političnem
@@ -177,8 +184,8 @@
                 <figure rend="imageviewer" xml:id="figure-7" n="7">
                     <graphic url="02-figure-2.jpg"/>
                     <graphic url="02-figure-2-normal.jpg"/>
-                    <head>Slika 2: Milan Balažič (ur.), Politični referendumi –
-                        sredstvo</head> <head>manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
+                    <head>Slika 2: Milan Balažič (ur.), Politični referendumi – sredstvo</head>
+                    <head>manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
                 </figure>
                 <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v okviru
                     Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z anketo
@@ -205,14 +212,15 @@
                 </figure>
                 <figure rend="imageviewer3" xml:id="figure-9" n="9">
                     <graphic url="02-figure-4.jpg"/>
-                    <graphic url="02-figure-4-normal.jpg"></graphic>
+                    <graphic url="02-figure-4-normal.jpg"/>
                 </figure>
                 <figure rend="imageviewer3" xml:id="figure-10" n="10">
                     <graphic url="02-figure-5.jpg"/>
-                    <graphic url="02-figure-5-normal.jpg"></graphic>
-                    <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839.
-                        »Stališča in mnenja</head><head> respondentovo usmeritvah slovenskega političnega
-                        vodstva, marec 1989«.</head>
+                    <graphic url="02-figure-5-normal.jpg"/>
+                    <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839. »Stališča in
+                        mnenja</head>
+                    <head> respondentovo usmeritvah slovenskega političnega vodstva, marec
+                        1989«.</head>
                 </figure>
                 <p style="text-align:justify;">V času socializma referendum dejansko ni bil izveden,
                     prav tako ni postal neposredna podlaga za kasnejše predloge ali izvedbo
@@ -220,7 +228,7 @@
                     vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
                     natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
                     da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
-                    političnega vodstva in visoke podpore s strani javnosti.</p>                  
+                    političnega vodstva in visoke podpore s strani javnosti.</p>
                 <milestone unit="section" n="***"/>
                 <figure rend="imageviewer4" xml:id="Plakat-02">
                     <graphic url="02-plakat.jpg"/>
@@ -228,32 +236,34 @@
                 </figure>
             </div>
             <div type="part" xml:id="exhibition03">
-                <head>Industrializacija, urbanizacija in onesnaženost okolja v
-                    socialistični Sloveniji</head>
-                <space></space>
+                <head>Industrializacija, urbanizacija in onesnaženost okolja v socialistični
+                    Sloveniji</head>
+                <space/>
                 <docAuthor>dr. Marta Rendla</docAuthor>
                 <docAuthor>dr. Janja Sedlaček</docAuthor>
-                <space></space>
-                <p style="text-align:justify;">V Sloveniji se je v času socializma odvijala pospešena industrializacija.
-                    Industrijska proizvodnja se je v obdobju 1939−1972 podeseterila, stopnja gospodarske
-                    rasti Slovenije v letih 1953−1972 je bila med najvišjimi na svetu. V industriji je
-                    imela (kljub različnim poudarkom v različnih obdobjih) vse do razpada države
-                    pomembno mesto težka industrija s škodljivimi učinki na okolje. Sprva se je
-                    industrializacija krepila zlasti v tako imenovanem industrijskem polmesecu, kjer so
-                    bili ob glavnih železniških progah že razmeščeni predvojni industrijski centri.
-                    Kasneje se je prostorsko razpršila. Pospešeno in razpršeno industrializacijo je
-                    spremljala prav takšna urbanizacija. Intenziven razvoj je doživljala zlasti v 60. in
-                    70. letih. Zaradi kasnejše suburbanizacije je na začetku 90. let Slovenijo z
-                    51,5-odstotno urbaniziranostjo še vedno označevala hipo-urbaniziranost. Razpršenost
-                    industrializacije in urbanizacije je imela v luči onesnaževanja tako negativne kot
-                    pozitivne učinke – onesnaževanje je seglo v vse predele Slovenije, hkrati pa so bili
-                    njegovi učinki razpršeni in ne koncentrirani le v določenih industrijskih centrih. </p>
-                <p style="text-align:justify;">Proizvodnja okoljsko škodljivih surovin in reprodukcijskega materiala je v
-                    desetletjih po drugi svetovni vojni hitro naraščala. </p>
+                <space/>
+                <p style="text-align:justify;">V Sloveniji se je v času socializma odvijala
+                    pospešena industrializacija. Industrijska proizvodnja se je v obdobju 1939−1972
+                    podeseterila, stopnja gospodarske rasti Slovenije v letih 1953−1972 je bila med
+                    najvišjimi na svetu. V industriji je imela (kljub različnim poudarkom v
+                    različnih obdobjih) vse do razpada države pomembno mesto težka industrija s
+                    škodljivimi učinki na okolje. Sprva se je industrializacija krepila zlasti v
+                    tako imenovanem industrijskem polmesecu, kjer so bili ob glavnih železniških
+                    progah že razmeščeni predvojni industrijski centri. Kasneje se je prostorsko
+                    razpršila. Pospešeno in razpršeno industrializacijo je spremljala prav takšna
+                    urbanizacija. Intenziven razvoj je doživljala zlasti v 60. in 70. letih. Zaradi
+                    kasnejše suburbanizacije je na začetku 90. let Slovenijo z 51,5-odstotno
+                    urbaniziranostjo še vedno označevala hipo-urbaniziranost. Razpršenost
+                    industrializacije in urbanizacije je imela v luči onesnaževanja tako negativne
+                    kot pozitivne učinke – onesnaževanje je seglo v vse predele Slovenije, hkrati pa
+                    so bili njegovi učinki razpršeni in ne koncentrirani le v določenih
+                    industrijskih centrih. </p>
+                <p style="text-align:justify;">Proizvodnja okoljsko škodljivih surovin in
+                    reprodukcijskega materiala je v desetletjih po drugi svetovni vojni hitro
+                    naraščala. </p>
                 <table rend="rules">
-                    <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v tonah
-                        (t)
-                    </head>
+                    <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v
+                        tonah (t) </head>
                     <row>
                         <cell rend="left"/>
                         <cell rend="left">1937</cell>
@@ -290,70 +300,75 @@
                         <cell rend="left">223.000</cell>
                     </row>
                 </table>
-                <p style="text-align:justify;">Intenzivnost industrializacije in urbanizacije se je začela kmalu odražati na okolju.
-                    V 60. letih so v prehrani ljudi iz okolice topilnic svinca in cinka v Celju in
-                    Mežici izmerili 50-krat povečane količine svinca, v zemlji in zelenjavi pa tudi
-                    nenormalne količine žvepla. Pri Kidričevem in v Idriji so leta 1970 izmerili do 15
-                    mg živega srebra v kilogramu travniških rastlin, pri Kidričevem je bil poleg tega v
-                    prsti tudi fluor. </p>
-                <p style="text-align:justify;">Zaskrbljujoče je bilo tudi onesnaženje voda. Slovenske reke so bile sredi 70. let
-                    tako onesnažene, kot da bi ob njih bivalo 7-8 milijonov ljudi (populacijski
-                    ekvivalent ali PE). Razmerje med populacijskim in industrijskim onesnaževanjem je
-                    bilo 1:4. Ponekod je bilo problematično tudi onesnaženje podtalnice in kraških
-                    izvirov. Kakovost voda se je najbolj poslabšala v letih 1960−1975. Sredi 80. let je
-                    bilo v uporabi 121 mehansko-bioloških čistilnih naprav, a te so očistile le 15 %
-                    vseh odpadnih voda. Največje breme onesnaževanja je predstavljala industrija v
-                    večjih industrijskih centrih (Ljubljana, Maribor, črni revirji, Celje, Ravne,
-                    Jesenice ipd.), največji onesnaževalci so bili papirna in prehrambna industrija,
+                <p style="text-align:justify;">Intenzivnost industrializacije in urbanizacije se je
+                    začela kmalu odražati na okolju. V 60. letih so v prehrani ljudi iz okolice
+                    topilnic svinca in cinka v Celju in Mežici izmerili 50-krat povečane količine
+                    svinca, v zemlji in zelenjavi pa tudi nenormalne količine žvepla. Pri Kidričevem
+                    in v Idriji so leta 1970 izmerili do 15 mg živega srebra v kilogramu travniških
+                    rastlin, pri Kidričevem je bil poleg tega v prsti tudi fluor. </p>
+                <p style="text-align:justify;">Zaskrbljujoče je bilo tudi onesnaženje voda.
+                    Slovenske reke so bile sredi 70. let tako onesnažene, kot da bi ob njih bivalo
+                    7-8 milijonov ljudi (populacijski ekvivalent ali PE). Razmerje med populacijskim
+                    in industrijskim onesnaževanjem je bilo 1:4. Ponekod je bilo problematično tudi
+                    onesnaženje podtalnice in kraških izvirov. Kakovost voda se je najbolj
+                    poslabšala v letih 1960−1975. Sredi 80. let je bilo v uporabi 121
+                    mehansko-bioloških čistilnih naprav, a te so očistile le 15 % vseh odpadnih
+                    voda. Največje breme onesnaževanja je predstavljala industrija v večjih
+                    industrijskih centrih (Ljubljana, Maribor, črni revirji, Celje, Ravne, Jesenice
+                    ipd.), največji onesnaževalci so bili papirna in prehrambna industrija,
                     proizvodnja hišnih aparatov, usnjarska industrija, prašičje farme in separacije
-                    premoga. Več kot tretjina onesnaženja slovenskih rek pa je po ocenah strokovnjakov
-                    prihajala iz tujine.</p>                
+                    premoga. Več kot tretjina onesnaženja slovenskih rek pa je po ocenah
+                    strokovnjakov prihajala iz tujine.</p>
                 <figure rend="imageviewer2" xml:id="figure-11" n="11">
                     <graphic url="03-figure-3.jpg"/>
                     <graphic url="03-figure-3-normal.jpg"/>
-                    <head>Slika 1: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije.
-                        </head>
+                    <head>Slika 1: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro
+                        Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije. </head>
                 </figure>
-                <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost zraka. Že v 60. letih so tedaj še
-                    nesistematične meritve pokazale, da slovenska mesta sodijo med kraje z najbolj
-                    onesnaženim zrakom. Najvišja dnevna koncentracija imisije SO<hi rend="subscript">2</hi> je bila v Ljubljani izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi rend="superscript">3</hi> zraka je
-                    povprečna 24-urna koncentracija SO<hi rend="subscript">2</hi> za
-                    Jugoslavijo dopustno mejo presegla 16-krat. V letu 1975 se je v III. in IV.
-                    območje onesnaženosti zraka na 4-stopenjski lestvici uvrščalo 28 slovenskih
-                    naselij, leta 1987 pa že 44. V njih je živela četrtina prebivalcev Slovenije.
-                    Največji vir škodljivih snovi v zraku so bile termoelektrarne na premog −
-                    Termoelektrarna Šoštanj, Termoelektrarna Trbovlje in Termoelektrarna-Toplarna
-                    Ljubljana. Njihove emisije SO<hi rend="subscript">2</hi> so v 80. letih znašale približno 2/3 skupne emisije
-                    SO<hi rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 %
-                    emisij prispevali termoenergetski objekti, 12 % industrija, 1,5 % promet in 8,5
-                    % ogrevanje stanovanj in drugih objektov. Slovenija je leta 1975 dobila Zakon o
+                <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost
+                    zraka. Že v 60. letih so tedaj še nesistematične meritve pokazale, da slovenska
+                    mesta sodijo med kraje z najbolj onesnaženim zrakom. Najvišja dnevna
+                    koncentracija imisije SO<hi rend="subscript">2</hi> je bila v Ljubljani
+                    izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi
+                        rend="superscript">3</hi> zraka je povprečna 24-urna koncentracija SO<hi
+                        rend="subscript">2</hi> za Jugoslavijo dopustno mejo presegla 16-krat. V
+                    letu 1975 se je v III. in IV. območje onesnaženosti zraka na 4-stopenjski
+                    lestvici uvrščalo 28 slovenskih naselij, leta 1987 pa že 44. V njih je živela
+                    četrtina prebivalcev Slovenije. Največji vir škodljivih snovi v zraku so bile
+                    termoelektrarne na premog − Termoelektrarna Šoštanj, Termoelektrarna Trbovlje in
+                    Termoelektrarna-Toplarna Ljubljana. Njihove emisije SO<hi rend="subscript"
+                        >2</hi> so v 80. letih znašale približno 2/3 skupne emisije SO<hi
+                        rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 % emisij
+                    prispevali termoenergetski objekti, 12 % industrija, 1,5 % promet in 8,5 %
+                    ogrevanje stanovanj in drugih objektov. Slovenija je leta 1975 dobila Zakon o
                     varstvu zraka z normativi za emisijo in za dovoljene mejne emisije škodljivih
                     snovi. Na osnovi slednjega se je v letih 1976−1977 začelo vzpostavljati osnovno
                     mrežo postaj za merjenje onesnaženosti zraka in pripravljati sanacijske programe
-                    za največje industrijske onesnaževalce. 
-                </p>                
+                    za največje industrijske onesnaževalce. </p>
                 <figure rend="imageviewer3" xml:id="figure-12" n="12">
                     <graphic url="03-figure-2.jpg"/>
                     <graphic url="03-figure-2-normal.jpg"/>
-                    <head>Slika 2: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.
-                        </head>
+                    <head>Slika 2: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić,
+                        hrani: Muzej novejše in sodobne zgodovine Slovenije. </head>
                 </figure>
-                <p style="text-align:justify;">V 80. letih so bile poleg Ljubljane, Maribora, Celja najbolj degradirane regije
-                    metalurško usmerjena Mežiška dolina (z rudnikom svinca in cinka v Črni, Žerjavu in
-                    Mežici), obrobje Šaleške doline (Zavodnje nad Šoštanjem), Celjska in Ljubljanska
-                    kotlina, Zasavje (Trbovlje, Hrastnik, Zagorje) in Trata v industrijskem delu Škofje
-                    Loke. </p> 
+                <p style="text-align:justify;">V 80. letih so bile poleg Ljubljane, Maribora, Celja
+                    najbolj degradirane regije metalurško usmerjena Mežiška dolina (z rudnikom
+                    svinca in cinka v Črni, Žerjavu in Mežici), obrobje Šaleške doline (Zavodnje nad
+                    Šoštanjem), Celjska in Ljubljanska kotlina, Zasavje (Trbovlje, Hrastnik,
+                    Zagorje) in Trata v industrijskem delu Škofje Loke. </p>
                 <figure rend="imageviewer3" xml:id="figure-13" n="13">
                     <graphic url="03-figure-1.jpg"/>
                     <graphic url="03-figure-1-normal.jpg"/>
-                    <head>Slika 3: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani: Muzej novejše in sodobne zgodovine Slovenije.</head>
+                    <head>Slika 3: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani:
+                        Muzej novejše in sodobne zgodovine Slovenije.</head>
                 </figure>
                 <table rend="rules">
-                <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80. letih</head>
+                    <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80.
+                        letih</head>
                     <row>
                         <cell rend="left">mesto</cell>
-                        <cell rend="left">SO<hi rend="subscript">2</hi>
-                            mikrog/m<hi rend="superscript">3</hi></cell>
+                        <cell rend="left">SO<hi rend="subscript">2</hi> mikrog/m<hi
+                                rend="superscript">3</hi></cell>
                     </row>
                     <row>
                         <cell rend="left"> Ljubljana</cell>
@@ -397,12 +412,12 @@
                     </row>
                 </table>
                 <table rend="rules">
-                <head>Proizvodnja emisij SO<hi rend="subscript">2</hi> v kg/prebivalca na
-                    začetku 90. let </head>
+                    <head>Proizvodnja emisij SO<hi rend="subscript">2</hi> v kg/prebivalca na
+                        začetku 90. let </head>
                     <row>
                         <cell rend="left">država</cell>
-                        <cell rend="left">proizvodnja emisij SO<hi rend="subscript">2
-                        </hi>v kg/prebivalca</cell>
+                        <cell rend="left">proizvodnja emisij SO<hi rend="subscript">2 </hi>v
+                            kg/prebivalca</cell>
                     </row>
                     <row>
                         <cell rend="left">Slovenija</cell>
@@ -429,6 +444,231 @@
                 <figure rend="imageviewer4" xml:id="Plakat-03">
                     <graphic url="03-plakat.jpg"/>
                     <graphic url="03-plakat-normal.jpg"/>
+                </figure>
+            </div>
+            <div type="part" xml:id="exhibition04">
+                <head>»Zakaj so tako nesrečni?« Slovenci in samomor v 60. letih 20. stoletja</head>
+                <space/>
+                <docAuthor>Meta Remec</docAuthor>
+                <space/>
+                <p style="text-align:justify;"><hi rend="italic">Slovenija se je kot najbolj razvita
+                        med jugoslovanskimi republikami v šestdesetih letih prejšnjega stoletja
+                        ponašala z gospodarskim razvojem, nizko brezposelnostjo in rastjo
+                        življenjskega standarda. Idilično podobo napredka in blagostanja je kazila
+                        vse višja stopnja samomorilnosti, ki je ostajala visoko nad jugoslovanskim
+                        povprečjem in ki je bila za nasprotnike režima dokaz, da je novi ideologiji
+                        spodletelo ter da so ljudje nesrečni do te mere, da se umikajo v smrt.
+                    </hi></p>
+                <p style="text-align:justify;">V šestdesetih letih se je problematika znašla v
+                    središču pozornosti. Statistični podatki so nakazovali, da je v slabem stoletju
+                    prišlo do izrazitega skoka v stopnji samomorilnosti z začetnih 3 samomorov na
+                    100.000 v letu 1873 na 35–40 samomorov na 100.000 prebivalcev v šestdesetih
+                    letih 20. stoletja, kar naj bi nakazovalo, da se je v dobrem stoletju v
+                    slovenski družbi zgodil popoln prelom, skrb pa je vzbujalo zlasti prepričanje,
+                    da je do drastičnega skoka v stopnji samomorilnosti prišlo po letu 1955.
+                    Analitiki so namreč upoštevali zgolj podatke o stopnji samomorilnosti med letoma
+                    1931 in 1934, ko je ta znašala 19/100.000 prebivalcev, spregledali pa so
+                    dejstvo, da je stopnja samomorilnosti med letoma 1937 in 1939 v Dravski banovini
+                    že znašala 26 samomorov na 100.000 prebivalcev in da se je, po začasnem upadu
+                    med vojno, zgolj vrnila na raven, kjer je že bila pred izbruhom druge svetovne
+                    vojne. Občutek krize je še poglabljala primerjava med stopnjami samomorilnosti v
+                    Sloveniji in v drugih jugoslovanskih republikah, ki je dokazovala alarmantnost
+                    slovenske realnosti in spodbudila nujo po ukrepanju na različnih ravneh. </p>
+                <table rend="rules">
+                <head><hi rend="italic">Tabela 1: </hi>Stopnja
+                    samomorilnosti v Jugoslaviji v letih 1955–1964</head>
+                    <row>
+                        <cell rend="both">Jugoslavija</cell>
+                        <cell rend="both">BiH</cell>
+                        <cell rend="both">Črna gora </cell>
+                        <cell rend="both">Hrvaška</cell>
+                        <cell rend="both">Makedonija</cell>
+                        <cell rend="both">Srbija</cell>
+                        <cell rend="both">Vojvodina</cell>
+                        <cell rend="both">Kosovo</cell>
+                        <cell rend="both">Slovenija</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">14,6</cell>
+                        <cell rend="both">8,9</cell>
+                        <cell rend="both">17,1</cell>
+                        <cell rend="both">16,8</cell>
+                        <cell rend="both">4,4</cell>
+                        <cell rend="both">11,8</cell>
+                        <cell rend="both">25,2</cell>
+                        <cell rend="both">4,2</cell>
+                        <cell rend="both">30,2</cell>
+                    </row>
+                <note n=""><hi style="font-size:10pt">Vir: SI AS 1931, 1416,
+                        Hašiš, 206.</hi></note>
+                </table>
+                <lb/>
+                <p style="text-align:justify;">Analitiki so še na začetku šestdesetih let sicer
+                    poudarjali, da ni nikakršne potrebe po dramatiziranju, saj naj bi statistični
+                    podatki pričali zgolj o razmerah, ki naj bi bile ostanek preteklih časov in
+                    posledica starega, zatohlega, s katolištvom prežetega predvojnega sveta, rešitev
+                    pa naj bi prinesel obračun z ostanki meščanske ideologije, ki so še bili
+                    prisotni v družbi. Pričakovanja stroke in oblasti, da bo uresničitev
+                    socialističnega sna že sama po sebi prinesla preobrat in upad števila samomorov,
+                    se niso uresničila. Namesto da bi se Slovenija približala stopnji
+                    samomorilnosti, ki je bila značilna za preostali del države, se je od nje le še
+                    bolj oddaljevala. Nelagodje so vzbujali zlasti podatki o visoki stopnji
+                    samomorilnosti med mladimi, višji tudi v primerjavi s podatki iz držav, ki so
+                    sicer prednjačile po številu samomorov, in sredi šestdesetih let je v strokovni
+                    javnosti prevladalo prepričanje, da je nujno aktivno ukrepati, vendar na način,
+                    ki ne bi vznemirjal javnosti. </p>
+                <figure rend="imageviewer3" xml:id="figure-14" n="14">
+                    <graphic url="04-figure-1.jpg"/>
+                    <graphic url="04-figure-1-normal.jpg"/>
+                    <head>Slika 1: Članek <hi
+                        rend="italic">Klub samomorilcev – da ali ne?</hi> sproži vihar ugibanj o
+                        obstoju kluba samomorilcev med mladimi v Ljubljani </head><head>Fornezzi, Tone, »Klub samomorilcev – da ali ne?«, <hi
+                        rend="italic">Tedenska tribuna</hi>, 19. 6. 1968, št. 25, 2. </head>
+                </figure>
+                <table rend="rules">
+                <head><hi rend="italic">Tabela 2:</hi> Stopnja
+                    samomorilnosti po starostnih skupinah v letu 1964 s podatki za moško in žensko
+                    populacijo</head>
+                    <row>
+                        <cell rend="both"/>
+                        <cell rend="center" cols="2">Slovenija</cell>
+                        <cell rend="center" cols="2">Avstrija</cell>
+                        <cell rend="center" cols="2">Češkoslovaška</cell>
+                        <cell rend="center" cols="2">Finska</cell>
+                        <cell rend="center" cols="2">Madžarska</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">Starost</cell>
+                        <cell rend="both">M</cell>
+                        <cell rend="both">Ž</cell>
+                        <cell rend="both">M</cell>
+                        <cell rend="both">Ž</cell>
+                        <cell rend="both">M</cell>
+                        <cell rend="both">Ž</cell>
+                        <cell rend="both">M</cell>
+                        <cell rend="both">Ž</cell>
+                        <cell rend="both">M</cell>
+                        <cell rend="both">Ž</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">10–14</cell>
+                        <cell rend="both">5,3</cell>
+                        <cell rend="both">-</cell>
+                        <cell rend="both">2,4</cell>
+                        <cell rend="both">1,7</cell>
+                        <cell rend="both">2,4</cell>
+                        <cell rend="both">0,5</cell>
+                        <cell rend="both">2,1</cell>
+                        <cell rend="both">-</cell>
+                        <cell rend="both">5,0</cell>
+                        <cell rend="both">12,7</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">15–19</cell>
+                        <cell rend="both">20,4</cell>
+                        <cell rend="both">14,5</cell>
+                        <cell rend="both">16,9</cell>
+                        <cell rend="both">6,5</cell>
+                        <cell rend="both">17,3</cell>
+                        <cell rend="both">7</cell>
+                        <cell rend="both">8,3</cell>
+                        <cell rend="both">2,3</cell>
+                        <cell rend="both">21,1</cell>
+                        <cell rend="both">15,4</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">20–24</cell>
+                        <cell rend="both">40,4</cell>
+                        <cell rend="both">12,6</cell>
+                        <cell rend="both">27,2</cell>
+                        <cell rend="both">8,0</cell>
+                        <cell rend="both">29,8</cell>
+                        <cell rend="both">9,3</cell>
+                        <cell rend="both">23,2</cell>
+                        <cell rend="both">4,9</cell>
+                        <cell rend="both">40,9</cell>
+                        <cell rend="both">12,3</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">25–29</cell>
+                        <cell rend="both">46,5</cell>
+                        <cell rend="both">7,9</cell>
+                        <cell rend="both">26,8</cell>
+                        <cell rend="both">13,3</cell>
+                        <cell rend="both">30,7</cell>
+                        <cell rend="both">8,6</cell>
+                        <cell rend="both">21,1</cell>
+                        <cell rend="both">9,0</cell>
+                        <cell rend="both">35,2</cell>
+                        <cell rend="both">14,7</cell>
+                    </row>
+                    <row>
+                        <cell rend="both">30–34</cell>
+                        <cell rend="both">44,6</cell>
+                        <cell rend="both">13,2</cell>
+                        <cell rend="both">32,5</cell>
+                        <cell rend="both">10</cell>
+                        <cell rend="both">35,5</cell>
+                        <cell rend="both">10,7</cell>
+                        <cell rend="both">42,0</cell>
+                        <cell rend="both">7,4</cell>
+                        <cell rend="both">44,3</cell>
+                        <cell rend="both">13,5</cell>
+                    </row>
+                <note n=""><hi style="font-size:10pt">Vir: SI AS 1931, 1416,
+                        Hašiš, 208.</hi>
+                </note>
+                </table>
+                <lb/>
+                <p style="text-align:justify;">Poskusi, da bi problem obravnavali tiho in interno,
+                    niso uspeli. Prelomnica pa ni bila število samomorov, ampak javno predvajanje
+                    filma Maka Sajka <hi rend="italic">Samomorivci, pozor!</hi> leta 1967 v
+                    Beogradu. Film je osvetlil problem samomorov mladih v Sloveniji, zgodba pa je
+                    odjeknila tako v domačem kot v tujem in izseljenskem časopisju, ki je v
+                    naraščajoči stopnji samomorov med mladimi iskalo znake propada socialističnega
+                    sistema. </p>
+                <figure rend="imageviewer3" xml:id="figure-15" n="15">
+                    <graphic url="04-figure-2.jpg"/>
+                    <graphic url="04-figure-2-normal.jpg"/>
+                    <head><hi rend="bold">Slika 2:</hi> Grozilno pismo
+                        domnevnega kluba samomorilcev </head><head>SI AS 1931, 1416, Hašiš, 110–111.</head>
+                </figure>
+                <p style="text-align:justify;">Leta 1968 je škandal dobil še dodatno razsežnost: po
+                    samomorih Svita Brejca in nekaterih drugih otrok javnih osebnosti se je začelo
+                    javno ugibanje o obstoju samomorilskega kluba med študenti v Ljubljani, ki naj
+                    bi spodbujal mlade k samomoru. Pristojni na ministrstvu za notranje zadeve so se
+                    odločili zadevo poglobljeno raziskati in so začeli preiskavo z imenom <hi
+                        rend="italic">Hašiš</hi>, pri kateri je sodelovala tudi SDV. Osrednji del
+                    preiskave so bili samomori Aleša Kermaunerja (1946–1966), Borivoja Dedijerja
+                    (1945–1966) in Svita Brejca (1947–1968), ki naj bi bili povod za vse druge in so
+                    odpirali vprašanje, ali so ti samomori nesmiselna dejanja razvajencev ali
+                    racionalne odločitve in kot take kritika družbe. Zlasti Aleš Kermauner je
+                    postajal legenda med mlajšo generacijo in po mnenju policijskih preiskovalcev je
+                    obstajala realna nevarnost za nastanek mita o »slovenskem Palachu«, kar so
+                    želeli na vsak način preprečiti. V strahu pred vplivi Zahoda, javnim mnenjem in
+                    podtalnim družbenim vrenjem je oblast uporabljala različna sredstva nadzora nad
+                    vpletenimi do konca policijske preiskave leta 1969 in še dlje. </p>
+                <p style="text-align:justify;">Preiskava obstoja kluba samomorilcev ni potrdila. Z
+                    olajšanjem so ugotovili, da naj bi šlo za propadle in izolirane posameznike, ki
+                    jih je socialistična družba, očitno močna in notranje koherentna, že
+                    marginalizirala. Razlogi za obravnavane smrti so bili označeni kot zasebni: bili
+                    naj bi osamljena dejanja osamljenih mladih ljudi, brez občinstva ali višje
+                    resnice. Za režim je bilo vsekakor bolje, da so umirali zaradi občutka osebne
+                    poraženosti ali celo zdolgočasenosti kot iz upora ali želje po prevratu
+                    družbenega sistema. </p>
+                <figure rend="imageviewer3" xml:id="figure-16" n="16">
+                    <graphic url="04-figure-3.jpg"/>
+                    <graphic url="04-figure-3-normal.jpg"/>
+                    <head><hi rend="bold">Slika 3:</hi> Aleš Kermauner, <hi
+                        rend="italic">Ste nesrečni?</hi></head><head><hi rend="italic">Kermauner Aleš: Aleš Kermauner.
+                        Ljubljana: Kulturna komisija pri univerzitetnem odboru zveze študentov
+                        Jugoslavije, 1966.</hi> <hi rend="italic">AS 1931, t. e. 1417, Aleš
+                        Kermauner.</hi></head>
+                </figure>
+                <milestone unit="section" n="***"/>
+                <figure rend="imageviewer4" xml:id="Plakat-04">
+                    <graphic url="04-plakat.jpg"/>
+                    <graphic url="04-plakat-normal.jpg"/>
                 </figure>
             </div>
         </body>
