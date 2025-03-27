@@ -39,7 +39,7 @@
    <xsl:param name="path-general">https://www2.sistory.si/publikacije/</xsl:param>
 
    <!-- Iz datoteke ../../../../publikacije-XSLT/sistory/html5-foundation6-chs/to.xsl -->
-   <xsl:param name="outputDir">docs/</xsl:param>
+   <xsl:param name="outputDir">docs11/</xsl:param>
 
    <xsl:param name="homeLabel">Raziskovalni kotiček</xsl:param>
    <xsl:param name="homeURL">https://www.inz.si</xsl:param>

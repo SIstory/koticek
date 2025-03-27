@@ -17,6 +17,7 @@
                     <name>dr. Janja Sedlaček</name>
                     <name>dr. Meta Remec</name>
                     <name>dr. Jurij Hadalin</name>
+                    <name>dr. Maja Lukanc</name>
                 </respStmt>
             </titleStmt>
             <editionStmt>
@@ -803,6 +804,11 @@
                     <graphic url="05-plakat.png"/>
                     <graphic url="05-plakat-normal.png"/>
                 </figure>
+            </div>
+            <div type="part" xml:id="exhibition06">
+                <head>Študent naj bo! Študijske izmenjave med Poljsko in Jugoslavijo, 1956–1965</head>
+                <space/>
+                <p></p>
             </div>
         </body>
     </text>
