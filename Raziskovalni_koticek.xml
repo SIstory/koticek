@@ -1,120 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Raziskovalni kotiček Inštituta za novejšo zgodovino</title>
-                <respStmt>
-                    <resp>Urednika</resp>
-                    <name>Žarko Lazarević</name>
-                    <name>Maja Lukanc</name>
-                </respStmt>
-                <respStmt>
-                    <resp>Avtorja razstav</resp>
-                    <name>Ivan Smiljanić</name>
-                    <name>dr. Tjaša Konovšek</name>
-                    <name>dr. Marta Rendla</name>
-                    <name>dr. Janja Sedlaček</name>
-                    <name>dr. Meta Remec</name>
-                    <name>dr. Jurij Hadalin</name>
-                    <name>dr. Maja Lukanc</name>
-                </respStmt>
-            </titleStmt>
-            <editionStmt>
-                <edition>Edition 1.0</edition>
-            </editionStmt>
-            <publicationStmt>
-                <publisher>Inštitut za novejšo zgodovino</publisher>
-                <pubPlace>Ljubljana</pubPlace>
-                <date when="2022">2022 - </date>
-                <availability>
-                    <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
-                    <p style="text-align:justify;">To delo je ponujeno pod <ref
-                            target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raziskovalni kotiček Inštituta za novejšo zgodovino</title>
+            <respStmt>
+               <resp>Urednika</resp>
+               <name>Žarko Lazarević</name>
+               <name>Maja Lukanc</name>
+            </respStmt>
+            <respStmt>
+               <resp>Avtorja razstav</resp>
+               <name>Ivan Smiljanić</name>
+               <name>dr. Tjaša Konovšek</name>
+               <name>dr. Marta Rendla</name>
+               <name>dr. Janja Sedlaček</name>
+               <name>dr. Meta Remec</name>
+               <name>dr. Jurij Hadalin</name>
+               <name>dr. Maja Lukanc</name>
+               <name>dr. Lev Centrih</name>
+               <name>dr. Nataša Henig Miščič</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Edition 1.0</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Inštitut za novejšo zgodovino</publisher>
+            <pubPlace>Ljubljana</pubPlace>
+            <date when="2022">2022 - </date>
+            <availability>
+               <licence>http://creativecommons.org/licenses/by-nc-nd/4.0/</licence>
+               <p style="text-align:justify;">To delo je ponujeno pod <ref target="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative
                             Commons Priznanje avtorstva-Nekomercialno-Brez predelav 4.0 Mednarodna
                             licenco</ref>
-                    </p>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Converted from a Word document</p>
-            </sourceDesc>
-        </fileDesc>
-    </teiHeader>
-    <text>
-        <front>
-            <titlePage>
-                <docTitle>
-                    <titlePart>Raziskovalni kotiček Inštituta za novejšo zgodovino</titlePart>
-                </docTitle>
-                <figure>
-                    <graphic url="naslovna1.jpg"/>
-                </figure>
-            </titlePage>
-            <divGen type="cip" xml:id="cip">
-                <head>Kolofon</head>
-            </divGen>
-            <divGen type="search" xml:id="search">
-                <head>Iskalnik</head>
-            </divGen>
-        </front>
-        <body>
-            <div type="part" xml:id="exhibition01">
-                <head>Spomenik žrtvam, ustreljenim na<lb/> Suhem bajerju</head>
-                <space/>
-                <docAuthor>Ivan Smiljanić</docAuthor>
-                <space/>
-                <p style="text-align:justify"><hi rend="bold">Na severozahodnem pobočju
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from a Word document</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <titlePage>
+            <docTitle>
+               <titlePart>Raziskovalni kotiček Inštituta za novejšo zgodovino</titlePart>
+            </docTitle>
+            <figure>
+               <graphic url="naslovna1.jpg"/>
+            </figure>
+         </titlePage>
+         <divGen type="cip" xml:id="cip">
+            <head>Kolofon</head>
+         </divGen>
+         <divGen type="search" xml:id="search">
+            <head>Iskalnik</head>
+         </divGen>
+      </front>
+      <body>
+         <div type="part" xml:id="exhibition01">
+            <head xml:id="head-3">Spomenik žrtvam, ustreljenim na<lb/> Suhem bajerju</head>
+            <space xml:id="space-1"/>
+            <docAuthor xml:id="docAuthor-1">Ivan Smiljanić</docAuthor>
+            <space xml:id="space-2"/>
+            <p style="text-align:justify" xml:id="p-3">
+               <hi rend="bold">Na severozahodnem pobočju
                         ljubljanskega Golovca se nahaja globel, znana kot Suhi bajer. Med prvo
                         svetovno vojno je bil bajer prizorišče usmrtitev domnevnih državnih
                         sovražnikov Avstro-Ogrske. V Kraljevini Srbov, Hrvatov in Slovencev so
                         žrtve, čeprav so v glavnem ostale neidentificirane, postale junaki, ki so
                         padli za osvoboditev in nastanek nove države, zato so jih slavili s
-                        komemoracijami in odkritjem spomenika, ki stoji še danes.</hi></p>
-                <p style="text-align:justify">Suhi bajer na Golovcu je bil med letoma 1915 in 1917
+                        komemoracijami in odkritjem spomenika, ki stoji še danes.</hi>
+            </p>
+            <p style="text-align:justify" xml:id="p-4">Suhi bajer na Golovcu je bil med letoma 1915 in 1917
                     kraj usmrtitve najmanj 23 posameznikov, ki so jih avstrijske oblasti pred naglim
                     sodiščem obsodile na smrt zaradi nepremišljenih besed, izrečenih proti Avstriji
                     ali v podporo njenim sovražnicam, in zaradi drugih protidržavnih dejanj, kot je
-                    dezerterstvo.<lb/></p>
-                <p rend="bluebox" style="text-align:justify">Morda najbolj znana žrtev, ustreljena
+                    dezerterstvo.<lb/>
+            </p>
+            <p rend="bluebox" style="text-align:justify" xml:id="p-5">Morda najbolj znana žrtev, ustreljena
                     na bajerju, je bil gostilničar Ivan Brence z Dovjega, ki je bil obsojen zaradi
                     pripombe o norosti cesarja Franca Jožefa, ko so mu prišli zaplenit živino. V
                     spominu je ostal zaradi odločnega vztrajanja pri svojih besedah, ki so ga stale
                     življenja. Brencetovo neomajnost simbolizira njegova izjava: »Kar sem rekel, sem
                     rekel!« </p>
-                <p style="text-align:justify"><lb/>Po koncu prve svetovne vojne so žrtve Suhega
+            <p style="text-align:justify" xml:id="p-6">
+               <lb/>Po koncu prve svetovne vojne so žrtve Suhega
                     bajerja v kontekstu Kraljevine Srbov, Hrvatov in Slovencev postale mučeniki
                     avstrijske tiranije nad lastnim ljudstvom in junaki, ki so padli za osvoboditev
                     južnoslovanskih narodov. </p>
-                <figure rend="imageviewer" xml:id="figure-1" n="1">
-                    <head><hi rend="bold">Slika 1</hi>: Usmrtitev na Suhem bajerju. Vir: Wikimedia
+            <figure rend="imageviewer" xml:id="figure-1" n="1">
+               <head>
+                  <hi rend="bold">Slika 1</hi>: Usmrtitev na Suhem bajerju. Vir: Wikimedia
                         Commons</head>
-                    <graphic url="01-figure-1.jpg"/>
-                    <graphic url="01-figure-1-normal.jpg"/>
-                </figure>
-                <p rend="bluebox" style="text-align:justify">Suhi bajer je Slovence tudi razdvajal.
+               <graphic url="01-figure-1.jpg"/>
+               <graphic url="01-figure-1-normal.jpg"/>
+            </figure>
+            <p rend="bluebox" style="text-align:justify" xml:id="p-7">Suhi bajer je Slovence tudi razdvajal.
                     Pogosto so ga omenjali v dnevnopolitičnih razpravah skozi dvajseta leta 20.
                     stoletja, saj je na pripadnike Slovenske ljudske stranke pogosto letel očitek,
                     da so avstrijskemu režimu zvesto pomagali pri naznanjanju politično sumljivih
                     oseb, ki so končale v zaporu ali pred strelskim vodom. </p>
-                <p style="text-align:justify">S pomočjo pričevalcev in sorodnikov je ljubljanska
+            <p style="text-align:justify" xml:id="p-8">S pomočjo pričevalcev in sorodnikov je ljubljanska
                     občina skušala identificirati žrtve, vendar je bila uspešna le pri slabi
                     polovici primerov. Med letoma 1919 in 1922 so iz bajerja izkopali posmrtne
                     ostanke treh žrtev, ki so jih slavnostno prenesli na domača pokopališča. Leta
                     1924 je urejanje bajerja prevzel rajonski odbor nacionalistične organizacije
                     Orjuna, zlasti njegov predsednik Karel Kalin, ki je čistil grobove in
                     organiziral komemoracije ob 1. novembru. </p>
-                <figure rend="imageviewer" xml:id="figure-2" n="2">
-                    <head>Slika 2: Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
-                    <graphic url="01-figure-2.jpg"/>
-                    <graphic url="01-figure-2-normal.jpg"/>
-                </figure>
-                <figure rend="imageviewer" xml:id="figure-3" n="3">
-                    <head>Slika 3: Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
-                    <graphic url="01-figure-3.jpg"/>
-                    <graphic url="01-figure-3-normal.jpg"/>
-                </figure>
-                <p style="text-align:justify">Leta 1927 je bil ustanovljen odbor za postavitev
+            <figure rend="imageviewer" xml:id="figure-2" n="2">
+               <head>Slika 2: Grobovi na Suhem bajerju. Vir: Jutro, 16. 1. 1927.</head>
+               <graphic url="01-figure-2.jpg"/>
+               <graphic url="01-figure-2-normal.jpg"/>
+            </figure>
+            <figure rend="imageviewer" xml:id="figure-3" n="3">
+               <head>Slika 3: Odkritje spomenika. Vir: Tedenske slike, 30. 5. 1935.</head>
+               <graphic url="01-figure-3.jpg"/>
+               <graphic url="01-figure-3-normal.jpg"/>
+            </figure>
+            <p style="text-align:justify" xml:id="p-9">Leta 1927 je bil ustanovljen odbor za postavitev
                     spomenika na Suhem bajerju, ki ga je vodil Kalin. Zbiranje prispevkov je trajalo
                     več let in spomenik je bil svečano odkrit 25. novembra 1934. V obeležje v obliki
                     zidanega kamnitega kvadra je bila vstavljena osemkotna spominska plošča z
@@ -123,41 +129,41 @@
                     tik pred odkritjem dodan še napis »Čuvali bomo Jugoslavijo«, ki se je nanašal na
                     domnevne zadnje besede kralja Aleksandra, ubitega nekaj tednov pred
                     odkritjem.</p>
-                <p style="text-align:justify">Preostale grobove so s Suhega bajerja novembra 1939
+            <p style="text-align:justify" xml:id="p-10">Preostale grobove so s Suhega bajerja novembra 1939
                     izkopali člani komisije beograjskega pravosodnega ministrstva in jih prenesli v
                     novo kostnico na Žalah. </p>
-                <p style="text-align:justify">Po drugi svetovni vojni je spomin na žrtve Suhega
+            <p style="text-align:justify" xml:id="p-11">Po drugi svetovni vojni je spomin na žrtve Suhega
                     bajerja ugasnil. Danes spomenik še stoji, vendar je težko dostopen, zanemarjen
                     in se ruši.</p>
-                <figure rend="imageviewer2" xml:id="figure-4" n="4">
-                    <head>Slika 4: Spomenik danes. Foto: Ivan Smiljanić</head>
-                    <graphic url="01-figure-4.jpg"/>
-                    <graphic url="01-figure-4-normal.jpg"/>
-                </figure>
-                <figure rend="imageviewer2" xml:id="figure-5" n="5">
-                    <head>Slika 5: Plošča na spomeniku. Foto: Ivan Smiljanić</head>
-                    <graphic url="01-figure-5.jpg"/>
-                    <graphic url="01-figure-5-normal.jpg"/>
-                </figure>
-                <milestone unit="section" n="***"/>
-                <figure rend="imageviewer4" xml:id="Plakat-01">
-                    <graphic url="01-plakat.jpg"/>
-                    <graphic url="01-plakat-normal.jpg"/>
-                </figure>
-            </div>
-            <div type="part" xml:id="exhibition02">
-                <head>“Politični referendum” v Socialistični republiki Sloveniji leta 1989</head>
-                <space/>
-                <docAuthor>Tjaša Konovšek</docAuthor>
-                <space/>
-                <p style="text-align:justify;">Leta 1989 je v Socialistični republiki Sloveniji
+            <figure rend="imageviewer2" xml:id="figure-4" n="4">
+               <head>Slika 4: Spomenik danes. Foto: Ivan Smiljanić</head>
+               <graphic url="01-figure-4.jpg"/>
+               <graphic url="01-figure-4-normal.jpg"/>
+            </figure>
+            <figure rend="imageviewer2" xml:id="figure-5" n="5">
+               <head>Slika 5: Plošča na spomeniku. Foto: Ivan Smiljanić</head>
+               <graphic url="01-figure-5.jpg"/>
+               <graphic url="01-figure-5-normal.jpg"/>
+            </figure>
+            <milestone unit="section" n="***" xml:id="milestone-1"/>
+            <figure rend="imageviewer4" xml:id="Plakat-01">
+               <graphic url="01-plakat.jpg"/>
+               <graphic url="01-plakat-normal.jpg"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition02">
+            <head xml:id="head-9">“Politični referendum” v Socialistični republiki Sloveniji leta 1989</head>
+            <space xml:id="space-3"/>
+            <docAuthor xml:id="docAuthor-2">Tjaša Konovšek</docAuthor>
+            <space xml:id="space-4"/>
+            <p style="text-align:justify;" xml:id="p-12">Leta 1989 je v Socialistični republiki Sloveniji
                     zakrožila ideja o referendumu kot sredstvu za legitimacijo politike slovenskega
                     republiškega vodstva v odnosu do federacije. Referendum, ki je bil v času
                     socializma ustavno dovoljen, čeprav niso bili postopki za njegovo izvedbo do
                     leta 1989 nikdar natančno določeni, je v kratkem času pridobil težo tako s
                     političnega kot s pravnega vidika, kot sredstvo za izražanje neposredne želje
                     volivcev pa je načeloma užival tudi visoko podporo javnosti.</p>
-                <p style="text-align:justify;">V politično zaostrenih razmerah, ko sta leta 1989
+            <p style="text-align:justify;" xml:id="p-13">V politično zaostrenih razmerah, ko sta leta 1989
                     Socialistična republika Srbija in Socialistična republika Slovenija z amandmaji
                     spremenili svoji ustavi, tako da se nista več skladali z ustavo federacije, so
                     politična vodstva republik iskala argumente, s katerimi bi utemeljila svoje
@@ -166,15 +172,15 @@
                     uporaba referenduma kot neposrednega načina odločanja. Njegov morebiten
                     pozitiven rezultat bi bil jasen signal slovenskemu političnemu vodstvu, hkrati
                     pa bi utrdil slovenske politične zahteve v mednarodnem prostoru.</p>
-                <figure rend="imageviewer1" xml:id="figure-6" n="6">
-                    <graphic url="02-figure-1.jpg"/>
-                    <graphic url="02-figure-1-normal.jpg"/>
-                    <head>Slika 1: Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem LXXI sta
+            <figure rend="imageviewer1" xml:id="figure-6" n="6">
+               <graphic url="02-figure-1.jpg"/>
+               <graphic url="02-figure-1-normal.jpg"/>
+               <head>Slika 1: Izsek iz amandmaja LXXXVIII. Skupaj z amandmajem LXXI sta
                         natančneje določala</head>
-                    <head> postopke za spremembo ustave, vključno z uporabo referenduma. Uradni list
+               <head> postopke za spremembo ustave, vključno z uporabo referenduma. Uradni list
                         32/1989 (2. oktober 1989).</head>
-                </figure>
-                <p style="text-align:justify;">Glede izvedbe referenduma je tako v strokovnih kot v
+            </figure>
+            <p style="text-align:justify;" xml:id="p-14">Glede izvedbe referenduma je tako v strokovnih kot v
                     političnih krogih vladala skepsa. Avtorji strokovnih razprav o “političnem
                     referendumu”, kakor so ga imenovali, so opozarjali na možnost izigravanja
                     referenduma: njegov rezultat je bil za državo v vsakem primeru zavezujoč, in to
@@ -183,19 +189,19 @@
                     naj se referendum izvede zgolj v posameznih republikah ali celotni federaciji
                     ter kako naj se rezultat referenduma prevede na raven federacije. Ta določila bi
                     lahko bistveno vplivala na interpretacijo referendumskih rezultatov.</p>
-                <figure rend="imageviewer" xml:id="figure-7" n="7">
-                    <graphic url="02-figure-2.jpg"/>
-                    <graphic url="02-figure-2-normal.jpg"/>
-                    <head>Slika 2: Milan Balažič (ur.), Politični referendumi – sredstvo</head>
-                    <head>manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
-                </figure>
-                <p style="text-align:justify;">Marca 1989 se je slovensko politično vodstvo v okviru
+            <figure rend="imageviewer" xml:id="figure-7" n="7">
+               <graphic url="02-figure-2.jpg"/>
+               <graphic url="02-figure-2-normal.jpg"/>
+               <head>Slika 2: Milan Balažič (ur.), Politični referendumi – sredstvo</head>
+               <head>manipulacije ali demokracije? Ljubljana: Komunist, 1989.</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-15">Marca 1989 se je slovensko politično vodstvo v okviru
                     Republiške konference Socialistične zveze delovnega ljudstva (RK SZDL) z anketo
                     odločilo preveriti razpoloženje javnosti do izvedbe referenduma, s katerim bi
                     bilo možno ugotoviti stališče ljudi do položaja Slovenije v federaciji in njihov
                     odnos do aktualne republiške politike. Pilotno raziskavo je RK naročila pri
                     oddelku razvojnega trženja časnika Delo.</p>
-                <p style="text-align:justify;">Odgovori, ki so jih v telefonskih pogovorih podali
+            <p style="text-align:justify;" xml:id="p-16">Odgovori, ki so jih v telefonskih pogovorih podali
                     anketiranci, so izražali visoko stopnjo podpore slovenskemu političnemu vodstvu.
                     Rezultati so kazali, da javnost zaupa procesoma demokratizacije in politične
                     pluralizacije, ki sta se nakazovala – čeprav nikakor ni bilo jasno, kakšne bodo
@@ -208,43 +214,43 @@
                     Jugoslavije, da ustrezno brani zahteve po avtonomiji republik v odnosu do
                     federacije in uspešno zagovarja slovenske interese, podprli bi tudi svobodo
                     političnega združevanja.</p>
-                <figure rend="imageviewer2" xml:id="figure-8" n="8">
-                    <graphic url="02-figure-3.jpg"/>
-                    <graphic url="02-figure-3-normal.jpg"/>
-                </figure>
-                <figure rend="imageviewer3" xml:id="figure-9" n="9">
-                    <graphic url="02-figure-4.jpg"/>
-                    <graphic url="02-figure-4-normal.jpg"/>
-                </figure>
-                <figure rend="imageviewer3" xml:id="figure-10" n="10">
-                    <graphic url="02-figure-5.jpg"/>
-                    <graphic url="02-figure-5-normal.jpg"/>
-                    <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839. »Stališča in
+            <figure rend="imageviewer2" xml:id="figure-8" n="8">
+               <graphic url="02-figure-3.jpg"/>
+               <graphic url="02-figure-3-normal.jpg"/>
+            </figure>
+            <figure rend="imageviewer3" xml:id="figure-9" n="9">
+               <graphic url="02-figure-4.jpg"/>
+               <graphic url="02-figure-4-normal.jpg"/>
+            </figure>
+            <figure rend="imageviewer3" xml:id="figure-10" n="10">
+               <graphic url="02-figure-5.jpg"/>
+               <graphic url="02-figure-5-normal.jpg"/>
+               <head>Slike 3, 4, 5: SI AS 1944, t. e. 232, p. e. 232/3839. »Stališča in
                         mnenja</head>
-                    <head> respondentovo usmeritvah slovenskega političnega vodstva, marec
+               <head> respondentovo usmeritvah slovenskega političnega vodstva, marec
                         1989«.</head>
-                </figure>
-                <p style="text-align:justify;">V času socializma referendum dejansko ni bil izveden,
+            </figure>
+            <p style="text-align:justify;" xml:id="p-17">V času socializma referendum dejansko ni bil izveden,
                     prav tako ni postal neposredna podlaga za kasnejše predloge ali izvedbo
                     plebiscita decembra 1990. Iz gradiva ni razvidno, ali je bilo referendumsko
                     vprašanje, glede katerega bi se potencialno izrekli volivci aprila 1989, sploh
                     natančno definirano. Objavljene razprave in izvedena anketa pa vendarle pričajo,
                     da je bil referendum kot tak deležen resnega razmisleka s strani slovenskega
                     političnega vodstva in visoke podpore s strani javnosti.</p>
-                <milestone unit="section" n="***"/>
-                <figure rend="imageviewer4" xml:id="Plakat-02">
-                    <graphic url="02-plakat.jpg"/>
-                    <graphic url="02-plakat-normal.jpg"/>
-                </figure>
-            </div>
-            <div type="part" xml:id="exhibition03">
-                <head>Industrializacija, urbanizacija in onesnaženost okolja v socialistični
+            <milestone unit="section" n="***" xml:id="milestone-2"/>
+            <figure rend="imageviewer4" xml:id="Plakat-02">
+               <graphic url="02-plakat.jpg"/>
+               <graphic url="02-plakat-normal.jpg"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition03">
+            <head xml:id="head-16">Industrializacija, urbanizacija in onesnaženost okolja v socialistični
                     Sloveniji</head>
-                <space/>
-                <docAuthor>dr. Marta Rendla</docAuthor>
-                <docAuthor>dr. Janja Sedlaček</docAuthor>
-                <space/>
-                <p style="text-align:justify;">V Sloveniji se je v času socializma odvijala
+            <space xml:id="space-5"/>
+            <docAuthor xml:id="docAuthor-3">dr. Marta Rendla</docAuthor>
+            <docAuthor xml:id="docAuthor-4">dr. Janja Sedlaček</docAuthor>
+            <space xml:id="space-6"/>
+            <p style="text-align:justify;" xml:id="p-18">V Sloveniji se je v času socializma odvijala
                     pospešena industrializacija. Industrijska proizvodnja se je v obdobju 1939−1972
                     podeseterila, stopnja gospodarske rasti Slovenije v letih 1953−1972 je bila med
                     najvišjimi na svetu. V industriji je imela (kljub različnim poudarkom v
@@ -260,55 +266,55 @@
                     kot pozitivne učinke – onesnaževanje je seglo v vse predele Slovenije, hkrati pa
                     so bili njegovi učinki razpršeni in ne koncentrirani le v določenih
                     industrijskih centrih. </p>
-                <p style="text-align:justify;">Proizvodnja okoljsko škodljivih surovin in
+            <p style="text-align:justify;" xml:id="p-19">Proizvodnja okoljsko škodljivih surovin in
                     reprodukcijskega materiala je v desetletjih po drugi svetovni vojni hitro
                     naraščala. </p>
-                <table rend="rules">
-                    <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v
+            <table rend="rules" xml:id="table-1">
+               <head>Tabela: Proizvodnja škodljivih surovin in reprodukcijskega materiala v
                         tonah (t) </head>
-                    <row>
-                        <cell rend="left"/>
-                        <cell rend="left">1937</cell>
-                        <cell rend="left">1974</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">glinica</cell>
-                        <cell rend="left">3.500</cell>
-                        <cell rend="left">124.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">rafiniran svinec</cell>
-                        <cell rend="left">8.766.000</cell>
-                        <cell rend="left">26.335.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">živo srebro</cell>
-                        <cell rend="left">326.000</cell>
-                        <cell rend="left">546.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">žveplena kislina</cell>
-                        <cell rend="left">7.680.000</cell>
-                        <cell rend="left">93.200.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">umetna gnojila</cell>
-                        <cell rend="left">26.813.000</cell>
-                        <cell rend="left">48.379.000</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">azbestno-cementni izdelki</cell>
-                        <cell rend="left">7.600</cell>
-                        <cell rend="left">223.000</cell>
-                    </row>
-                </table>
-                <p style="text-align:justify;">Intenzivnost industrializacije in urbanizacije se je
+               <row>
+                  <cell rend="left"/>
+                  <cell rend="left">1937</cell>
+                  <cell rend="left">1974</cell>
+               </row>
+               <row>
+                  <cell rend="left">glinica</cell>
+                  <cell rend="left">3.500</cell>
+                  <cell rend="left">124.000</cell>
+               </row>
+               <row>
+                  <cell rend="left">rafiniran svinec</cell>
+                  <cell rend="left">8.766.000</cell>
+                  <cell rend="left">26.335.000</cell>
+               </row>
+               <row>
+                  <cell rend="left">živo srebro</cell>
+                  <cell rend="left">326.000</cell>
+                  <cell rend="left">546.000</cell>
+               </row>
+               <row>
+                  <cell rend="left">žveplena kislina</cell>
+                  <cell rend="left">7.680.000</cell>
+                  <cell rend="left">93.200.000</cell>
+               </row>
+               <row>
+                  <cell rend="left">umetna gnojila</cell>
+                  <cell rend="left">26.813.000</cell>
+                  <cell rend="left">48.379.000</cell>
+               </row>
+               <row>
+                  <cell rend="left">azbestno-cementni izdelki</cell>
+                  <cell rend="left">7.600</cell>
+                  <cell rend="left">223.000</cell>
+               </row>
+            </table>
+            <p style="text-align:justify;" xml:id="p-20">Intenzivnost industrializacije in urbanizacije se je
                     začela kmalu odražati na okolju. V 60. letih so v prehrani ljudi iz okolice
                     topilnic svinca in cinka v Celju in Mežici izmerili 50-krat povečane količine
                     svinca, v zemlji in zelenjavi pa tudi nenormalne količine žvepla. Pri Kidričevem
                     in v Idriji so leta 1970 izmerili do 15 mg živega srebra v kilogramu travniških
                     rastlin, pri Kidričevem je bil poleg tega v prsti tudi fluor. </p>
-                <p style="text-align:justify;">Zaskrbljujoče je bilo tudi onesnaženje voda.
+            <p style="text-align:justify;" xml:id="p-21">Zaskrbljujoče je bilo tudi onesnaženje voda.
                     Slovenske reke so bile sredi 70. let tako onesnažene, kot da bi ob njih bivalo
                     7-8 milijonov ljudi (populacijski ekvivalent ali PE). Razmerje med populacijskim
                     in industrijskim onesnaževanjem je bilo 1:4. Ponekod je bilo problematično tudi
@@ -321,147 +327,145 @@
                     proizvodnja hišnih aparatov, usnjarska industrija, prašičje farme in separacije
                     premoga. Več kot tretjina onesnaženja slovenskih rek pa je po ocenah
                     strokovnjakov prihajala iz tujine.</p>
-                <figure rend="imageviewer2" xml:id="figure-11" n="11">
-                    <graphic url="03-figure-3.jpg"/>
-                    <graphic url="03-figure-3-normal.jpg"/>
-                    <head>Slika 1: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro
+            <figure rend="imageviewer2" xml:id="figure-11" n="11">
+               <graphic url="03-figure-3.jpg"/>
+               <graphic url="03-figure-3-normal.jpg"/>
+               <head>Slika 1: Reka Soča pri Tovarni Salonita Anhovo, 1987. Foto: Marjan Miro
                         Dobovšek, hrani: Muzej novejše in sodobne zgodovine Slovenije. </head>
-                </figure>
-                <p style="text-align:justify;">Zelo pereč problem je predstavljala onesnaženost
+            </figure>
+            <p style="text-align:justify;" xml:id="p-22">Zelo pereč problem je predstavljala onesnaženost
                     zraka. Že v 60. letih so tedaj še nesistematične meritve pokazale, da slovenska
                     mesta sodijo med kraje z najbolj onesnaženim zrakom. Najvišja dnevna
                     koncentracija imisije SO<hi rend="subscript">2</hi> je bila v Ljubljani
-                    izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi
-                        rend="superscript">3</hi> zraka je povprečna 24-urna koncentracija SO<hi
-                        rend="subscript">2</hi> za Jugoslavijo dopustno mejo presegla 16-krat. V
+                    izmerjena januarja 1967. Z 2,4 mg SO<hi rend="subscript">2</hi>/m<hi rend="superscript">3</hi> zraka je povprečna 24-urna koncentracija SO<hi rend="subscript">2</hi> za Jugoslavijo dopustno mejo presegla 16-krat. V
                     letu 1975 se je v III. in IV. območje onesnaženosti zraka na 4-stopenjski
                     lestvici uvrščalo 28 slovenskih naselij, leta 1987 pa že 44. V njih je živela
                     četrtina prebivalcev Slovenije. Največji vir škodljivih snovi v zraku so bile
                     termoelektrarne na premog − Termoelektrarna Šoštanj, Termoelektrarna Trbovlje in
-                    Termoelektrarna-Toplarna Ljubljana. Njihove emisije SO<hi rend="subscript"
-                        >2</hi> so v 80. letih znašale približno 2/3 skupne emisije SO<hi
-                        rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 % emisij
+                    Termoelektrarna-Toplarna Ljubljana. Njihove emisije SO<hi rend="subscript">2</hi> so v 80. letih znašale približno 2/3 skupne emisije SO<hi rend="subscript">2</hi> v Sloveniji. Na začetku 90. let so 78 % emisij
                     prispevali termoenergetski objekti, 12 % industrija, 1,5 % promet in 8,5 %
                     ogrevanje stanovanj in drugih objektov. Slovenija je leta 1975 dobila Zakon o
                     varstvu zraka z normativi za emisijo in za dovoljene mejne emisije škodljivih
                     snovi. Na osnovi slednjega se je v letih 1976−1977 začelo vzpostavljati osnovno
                     mrežo postaj za merjenje onesnaženosti zraka in pripravljati sanacijske programe
                     za največje industrijske onesnaževalce. </p>
-                <figure rend="imageviewer3" xml:id="figure-12" n="12">
-                    <graphic url="03-figure-2.jpg"/>
-                    <graphic url="03-figure-2-normal.jpg"/>
-                    <head>Slika 2: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić,
+            <figure rend="imageviewer3" xml:id="figure-12" n="12">
+               <graphic url="03-figure-2.jpg"/>
+               <graphic url="03-figure-2-normal.jpg"/>
+               <head>Slika 2: Gradnja dimnika Trbovlje, Trbovlje, 1975. Foto: Svetozar Busić,
                         hrani: Muzej novejše in sodobne zgodovine Slovenije. </head>
-                </figure>
-                <p style="text-align:justify;">V 80. letih so bile poleg Ljubljane, Maribora, Celja
+            </figure>
+            <p style="text-align:justify;" xml:id="p-23">V 80. letih so bile poleg Ljubljane, Maribora, Celja
                     najbolj degradirane regije metalurško usmerjena Mežiška dolina (z rudnikom
                     svinca in cinka v Črni, Žerjavu in Mežici), obrobje Šaleške doline (Zavodnje nad
                     Šoštanjem), Celjska in Ljubljanska kotlina, Zasavje (Trbovlje, Hrastnik,
                     Zagorje) in Trata v industrijskem delu Škofje Loke. </p>
-                <figure rend="imageviewer3" xml:id="figure-13" n="13">
-                    <graphic url="03-figure-1.jpg"/>
-                    <graphic url="03-figure-1-normal.jpg"/>
-                    <head>Slika 3: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani:
+            <figure rend="imageviewer3" xml:id="figure-13" n="13">
+               <graphic url="03-figure-1.jpg"/>
+               <graphic url="03-figure-1-normal.jpg"/>
+               <head>Slika 3: Onesnaženost v dolini TET, 70. leta. Foto: Svetozar Busić, hrani:
                         Muzej novejše in sodobne zgodovine Slovenije.</head>
-                </figure>
-                <table rend="rules">
-                    <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80.
+            </figure>
+            <table rend="rules" xml:id="table-2">
+               <head>Povprečne izmerjene emisije SO<hi rend="subscript">2</hi> v 80.
                         letih</head>
-                    <row>
-                        <cell rend="left">mesto</cell>
-                        <cell rend="left">SO<hi rend="subscript">2</hi> mikrog/m<hi
-                                rend="superscript">3</hi></cell>
-                    </row>
-                    <row>
-                        <cell rend="left"> Ljubljana</cell>
-                        <cell rend="left">120</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Chichago</cell>
-                        <cell rend="left">23</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Varšava</cell>
-                        <cell rend="left">36</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Dunaj</cell>
-                        <cell rend="left">39</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Gradec</cell>
-                        <cell rend="left">40</cell>
-                    </row>
-                    <row>
-                        <cell rend="left"> Glasgow</cell>
-                        <cell rend="left">47</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Frankfurt</cell>
-                        <cell rend="left">50</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">London</cell>
-                        <cell rend="left">55</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Zagreb</cell>
-                        <cell rend="left">80</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Milano</cell>
-                        <cell rend="left">180</cell>
-                    </row>
-                </table>
-                <table rend="rules">
-                    <head>Proizvodnja emisij SO<hi rend="subscript">2</hi> v kg/prebivalca na
+               <row>
+                  <cell rend="left">mesto</cell>
+                  <cell rend="left">SO<hi rend="subscript">2</hi> mikrog/m<hi rend="superscript">3</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="left"> Ljubljana</cell>
+                  <cell rend="left">120</cell>
+               </row>
+               <row>
+                  <cell rend="left">Chichago</cell>
+                  <cell rend="left">23</cell>
+               </row>
+               <row>
+                  <cell rend="left">Varšava</cell>
+                  <cell rend="left">36</cell>
+               </row>
+               <row>
+                  <cell rend="left">Dunaj</cell>
+                  <cell rend="left">39</cell>
+               </row>
+               <row>
+                  <cell rend="left">Gradec</cell>
+                  <cell rend="left">40</cell>
+               </row>
+               <row>
+                  <cell rend="left"> Glasgow</cell>
+                  <cell rend="left">47</cell>
+               </row>
+               <row>
+                  <cell rend="left">Frankfurt</cell>
+                  <cell rend="left">50</cell>
+               </row>
+               <row>
+                  <cell rend="left">London</cell>
+                  <cell rend="left">55</cell>
+               </row>
+               <row>
+                  <cell rend="left">Zagreb</cell>
+                  <cell rend="left">80</cell>
+               </row>
+               <row>
+                  <cell rend="left">Milano</cell>
+                  <cell rend="left">180</cell>
+               </row>
+            </table>
+            <table rend="rules" xml:id="table-3">
+               <head>Proizvodnja emisij SO<hi rend="subscript">2</hi> v kg/prebivalca na
                         začetku 90. let </head>
-                    <row>
-                        <cell rend="left">država</cell>
-                        <cell rend="left">proizvodnja emisij SO<hi rend="subscript">2 </hi>v
+               <row>
+                  <cell rend="left">država</cell>
+                  <cell rend="left">proizvodnja emisij SO<hi rend="subscript">2 </hi>v
                             kg/prebivalca</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Slovenija</cell>
-                        <cell rend="left">98</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Velika Britanija</cell>
-                        <cell rend="left">84</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Nemčija</cell>
-                        <cell rend="left">52</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Avstrija</cell>
-                        <cell rend="left">47</cell>
-                    </row>
-                    <row>
-                        <cell rend="left">Švica</cell>
-                        <cell rend="left">20</cell>
-                    </row>
-                </table>
-                <milestone unit="section" n="***"/>
-                <figure rend="imageviewer4" xml:id="Plakat-03">
-                    <graphic url="03-plakat.jpg"/>
-                    <graphic url="03-plakat-normal.jpg"/>
-                </figure>
-            </div>
-            <div type="part" xml:id="exhibition04">
-                <head>»Zakaj so tako nesrečni?« Slovenci in samomor v 60. letih 20. stoletja</head>
-                <space/>
-                <docAuthor>Meta Remec</docAuthor>
-                <space/>
-                <p style="text-align:justify;"><hi rend="italic">Slovenija se je kot najbolj razvita
+               </row>
+               <row>
+                  <cell rend="left">Slovenija</cell>
+                  <cell rend="left">98</cell>
+               </row>
+               <row>
+                  <cell rend="left">Velika Britanija</cell>
+                  <cell rend="left">84</cell>
+               </row>
+               <row>
+                  <cell rend="left">Nemčija</cell>
+                  <cell rend="left">52</cell>
+               </row>
+               <row>
+                  <cell rend="left">Avstrija</cell>
+                  <cell rend="left">47</cell>
+               </row>
+               <row>
+                  <cell rend="left">Švica</cell>
+                  <cell rend="left">20</cell>
+               </row>
+            </table>
+            <milestone unit="section" n="***" xml:id="milestone-3"/>
+            <figure rend="imageviewer4" xml:id="Plakat-03">
+               <graphic url="03-plakat.jpg"/>
+               <graphic url="03-plakat-normal.jpg"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition04">
+            <head xml:id="head-23">»Zakaj so tako nesrečni?« Slovenci in samomor v 60. letih 20. stoletja</head>
+            <space xml:id="space-7"/>
+            <docAuthor xml:id="docAuthor-5">Meta Remec</docAuthor>
+            <space xml:id="space-8"/>
+            <p style="text-align:justify;" xml:id="p-24">
+               <hi rend="italic">Slovenija se je kot najbolj razvita
                         med jugoslovanskimi republikami v šestdesetih letih prejšnjega stoletja
                         ponašala z gospodarskim razvojem, nizko brezposelnostjo in rastjo
                         življenjskega standarda. Idilično podobo napredka in blagostanja je kazila
                         vse višja stopnja samomorilnosti, ki je ostajala visoko nad jugoslovanskim
                         povprečjem in ki je bila za nasprotnike režima dokaz, da je novi ideologiji
                         spodletelo ter da so ljudje nesrečni do te mere, da se umikajo v smrt.
-                    </hi></p>
-                <p style="text-align:justify;">V šestdesetih letih se je problematika znašla v
+                    </hi>
+            </p>
+            <p style="text-align:justify;" xml:id="p-25">V šestdesetih letih se je problematika znašla v
                     središču pozornosti. Statistični podatki so nakazovali, da je v slabem stoletju
                     prišlo do izrazitega skoka v stopnji samomorilnosti z začetnih 3 samomorov na
                     100.000 v letu 1873 na 35–40 samomorov na 100.000 prebivalcev v šestdesetih
@@ -476,36 +480,39 @@
                     vojne. Občutek krize je še poglabljala primerjava med stopnjami samomorilnosti v
                     Sloveniji in v drugih jugoslovanskih republikah, ki je dokazovala alarmantnost
                     slovenske realnosti in spodbudila nujo po ukrepanju na različnih ravneh. </p>
-                <table rend="rules">
-                    <head><hi rend="italic">Tabela 1: </hi>Stopnja samomorilnosti v Jugoslaviji v
+            <table rend="rules" xml:id="table-4">
+               <head>
+                  <hi rend="italic">Tabela 1: </hi>Stopnja samomorilnosti v Jugoslaviji v
                         letih 1955–1964</head>
-                    <row>
-                        <cell rend="both">Jugoslavija</cell>
-                        <cell rend="both">BiH</cell>
-                        <cell rend="both">Črna gora </cell>
-                        <cell rend="both">Hrvaška</cell>
-                        <cell rend="both">Makedonija</cell>
-                        <cell rend="both">Srbija</cell>
-                        <cell rend="both">Vojvodina</cell>
-                        <cell rend="both">Kosovo</cell>
-                        <cell rend="both">Slovenija</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">14,6</cell>
-                        <cell rend="both">8,9</cell>
-                        <cell rend="both">17,1</cell>
-                        <cell rend="both">16,8</cell>
-                        <cell rend="both">4,4</cell>
-                        <cell rend="both">11,8</cell>
-                        <cell rend="both">25,2</cell>
-                        <cell rend="both">4,2</cell>
-                        <cell rend="both">30,2</cell>
-                    </row>
-                    <note n=""><hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš,
-                        206.</hi></note>
-                </table>
-                <lb/>
-                <p style="text-align:justify;">Analitiki so še na začetku šestdesetih let sicer
+               <row>
+                  <cell rend="both">Jugoslavija</cell>
+                  <cell rend="both">BiH</cell>
+                  <cell rend="both">Črna gora </cell>
+                  <cell rend="both">Hrvaška</cell>
+                  <cell rend="both">Makedonija</cell>
+                  <cell rend="both">Srbija</cell>
+                  <cell rend="both">Vojvodina</cell>
+                  <cell rend="both">Kosovo</cell>
+                  <cell rend="both">Slovenija</cell>
+               </row>
+               <row>
+                  <cell rend="both">14,6</cell>
+                  <cell rend="both">8,9</cell>
+                  <cell rend="both">17,1</cell>
+                  <cell rend="both">16,8</cell>
+                  <cell rend="both">4,4</cell>
+                  <cell rend="both">11,8</cell>
+                  <cell rend="both">25,2</cell>
+                  <cell rend="both">4,2</cell>
+                  <cell rend="both">30,2</cell>
+               </row>
+               <note n="">
+                  <hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš,
+                        206.</hi>
+               </note>
+            </table>
+            <lb xml:id="lb-4"/>
+            <p style="text-align:justify;" xml:id="p-26">Analitiki so še na začetku šestdesetih let sicer
                     poudarjali, da ni nikakršne potrebe po dramatiziranju, saj naj bi statistični
                     podatki pričali zgolj o razmerah, ki naj bi bile ostanek preteklih časov in
                     posledica starega, zatohlega, s katolištvom prežetega predvojnega sveta, rešitev
@@ -519,126 +526,127 @@
                     sicer prednjačile po številu samomorov, in sredi šestdesetih let je v strokovni
                     javnosti prevladalo prepričanje, da je nujno aktivno ukrepati, vendar na način,
                     ki ne bi vznemirjal javnosti. </p>
-                <figure rend="imageviewer2" xml:id="figure-14" n="14">
-                    <graphic url="04-figure-1.jpg"/>
-                    <graphic url="04-figure-1-normal.jpg"/>
-                    <head>Slika 1: Članek <hi rend="italic">Klub samomorilcev – da ali ne?</hi>
+            <figure rend="imageviewer2" xml:id="figure-14" n="14">
+               <graphic url="04-figure-1.jpg"/>
+               <graphic url="04-figure-1-normal.jpg"/>
+               <head>Slika 1: Članek <hi rend="italic">Klub samomorilcev – da ali ne?</hi>
                         sproži vihar ugibanj o obstoju kluba samomorilcev med mladimi v Ljubljani </head>
-                    <head>Fornezzi, Tone, »Klub samomorilcev – da ali ne?«, <hi rend="italic"
-                            >Tedenska tribuna</hi>, 19. 6. 1968, št. 25, 2. </head>
-                </figure>
-                <table rend="rules">
-                    <head><hi rend="italic">Tabela 2:</hi> Stopnja samomorilnosti po starostnih
+               <head>Fornezzi, Tone, »Klub samomorilcev – da ali ne?«, <hi rend="italic">Tedenska tribuna</hi>, 19. 6. 1968, št. 25, 2. </head>
+            </figure>
+            <table rend="rules" xml:id="table-5">
+               <head>
+                  <hi rend="italic">Tabela 2:</hi> Stopnja samomorilnosti po starostnih
                         skupinah v letu 1964 s podatki za moško in žensko populacijo</head>
-                    <row>
-                        <cell rend="both"/>
-                        <cell rend="center" cols="2">Slovenija</cell>
-                        <cell rend="center" cols="2">Avstrija</cell>
-                        <cell rend="center" cols="2">Češkoslovaška</cell>
-                        <cell rend="center" cols="2">Finska</cell>
-                        <cell rend="center" cols="2">Madžarska</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">Starost</cell>
-                        <cell rend="both">M</cell>
-                        <cell rend="both">Ž</cell>
-                        <cell rend="both">M</cell>
-                        <cell rend="both">Ž</cell>
-                        <cell rend="both">M</cell>
-                        <cell rend="both">Ž</cell>
-                        <cell rend="both">M</cell>
-                        <cell rend="both">Ž</cell>
-                        <cell rend="both">M</cell>
-                        <cell rend="both">Ž</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">10–14</cell>
-                        <cell rend="both">5,3</cell>
-                        <cell rend="both">-</cell>
-                        <cell rend="both">2,4</cell>
-                        <cell rend="both">1,7</cell>
-                        <cell rend="both">2,4</cell>
-                        <cell rend="both">0,5</cell>
-                        <cell rend="both">2,1</cell>
-                        <cell rend="both">-</cell>
-                        <cell rend="both">5,0</cell>
-                        <cell rend="both">12,7</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">15–19</cell>
-                        <cell rend="both">20,4</cell>
-                        <cell rend="both">14,5</cell>
-                        <cell rend="both">16,9</cell>
-                        <cell rend="both">6,5</cell>
-                        <cell rend="both">17,3</cell>
-                        <cell rend="both">7</cell>
-                        <cell rend="both">8,3</cell>
-                        <cell rend="both">2,3</cell>
-                        <cell rend="both">21,1</cell>
-                        <cell rend="both">15,4</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">20–24</cell>
-                        <cell rend="both">40,4</cell>
-                        <cell rend="both">12,6</cell>
-                        <cell rend="both">27,2</cell>
-                        <cell rend="both">8,0</cell>
-                        <cell rend="both">29,8</cell>
-                        <cell rend="both">9,3</cell>
-                        <cell rend="both">23,2</cell>
-                        <cell rend="both">4,9</cell>
-                        <cell rend="both">40,9</cell>
-                        <cell rend="both">12,3</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">25–29</cell>
-                        <cell rend="both">46,5</cell>
-                        <cell rend="both">7,9</cell>
-                        <cell rend="both">26,8</cell>
-                        <cell rend="both">13,3</cell>
-                        <cell rend="both">30,7</cell>
-                        <cell rend="both">8,6</cell>
-                        <cell rend="both">21,1</cell>
-                        <cell rend="both">9,0</cell>
-                        <cell rend="both">35,2</cell>
-                        <cell rend="both">14,7</cell>
-                    </row>
-                    <row>
-                        <cell rend="both">30–34</cell>
-                        <cell rend="both">44,6</cell>
-                        <cell rend="both">13,2</cell>
-                        <cell rend="both">32,5</cell>
-                        <cell rend="both">10</cell>
-                        <cell rend="both">35,5</cell>
-                        <cell rend="both">10,7</cell>
-                        <cell rend="both">42,0</cell>
-                        <cell rend="both">7,4</cell>
-                        <cell rend="both">44,3</cell>
-                        <cell rend="both">13,5</cell>
-                    </row>
-                    <note n=""><hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš, 208.</hi>
-                    </note>
-                </table>
-                <lb/>
-                <p style="text-align:justify;">Poskusi, da bi problem obravnavali tiho in interno,
+               <row>
+                  <cell rend="both"/>
+                  <cell rend="center" cols="2">Slovenija</cell>
+                  <cell rend="center" cols="2">Avstrija</cell>
+                  <cell rend="center" cols="2">Češkoslovaška</cell>
+                  <cell rend="center" cols="2">Finska</cell>
+                  <cell rend="center" cols="2">Madžarska</cell>
+               </row>
+               <row>
+                  <cell rend="both">Starost</cell>
+                  <cell rend="both">M</cell>
+                  <cell rend="both">Ž</cell>
+                  <cell rend="both">M</cell>
+                  <cell rend="both">Ž</cell>
+                  <cell rend="both">M</cell>
+                  <cell rend="both">Ž</cell>
+                  <cell rend="both">M</cell>
+                  <cell rend="both">Ž</cell>
+                  <cell rend="both">M</cell>
+                  <cell rend="both">Ž</cell>
+               </row>
+               <row>
+                  <cell rend="both">10–14</cell>
+                  <cell rend="both">5,3</cell>
+                  <cell rend="both">-</cell>
+                  <cell rend="both">2,4</cell>
+                  <cell rend="both">1,7</cell>
+                  <cell rend="both">2,4</cell>
+                  <cell rend="both">0,5</cell>
+                  <cell rend="both">2,1</cell>
+                  <cell rend="both">-</cell>
+                  <cell rend="both">5,0</cell>
+                  <cell rend="both">12,7</cell>
+               </row>
+               <row>
+                  <cell rend="both">15–19</cell>
+                  <cell rend="both">20,4</cell>
+                  <cell rend="both">14,5</cell>
+                  <cell rend="both">16,9</cell>
+                  <cell rend="both">6,5</cell>
+                  <cell rend="both">17,3</cell>
+                  <cell rend="both">7</cell>
+                  <cell rend="both">8,3</cell>
+                  <cell rend="both">2,3</cell>
+                  <cell rend="both">21,1</cell>
+                  <cell rend="both">15,4</cell>
+               </row>
+               <row>
+                  <cell rend="both">20–24</cell>
+                  <cell rend="both">40,4</cell>
+                  <cell rend="both">12,6</cell>
+                  <cell rend="both">27,2</cell>
+                  <cell rend="both">8,0</cell>
+                  <cell rend="both">29,8</cell>
+                  <cell rend="both">9,3</cell>
+                  <cell rend="both">23,2</cell>
+                  <cell rend="both">4,9</cell>
+                  <cell rend="both">40,9</cell>
+                  <cell rend="both">12,3</cell>
+               </row>
+               <row>
+                  <cell rend="both">25–29</cell>
+                  <cell rend="both">46,5</cell>
+                  <cell rend="both">7,9</cell>
+                  <cell rend="both">26,8</cell>
+                  <cell rend="both">13,3</cell>
+                  <cell rend="both">30,7</cell>
+                  <cell rend="both">8,6</cell>
+                  <cell rend="both">21,1</cell>
+                  <cell rend="both">9,0</cell>
+                  <cell rend="both">35,2</cell>
+                  <cell rend="both">14,7</cell>
+               </row>
+               <row>
+                  <cell rend="both">30–34</cell>
+                  <cell rend="both">44,6</cell>
+                  <cell rend="both">13,2</cell>
+                  <cell rend="both">32,5</cell>
+                  <cell rend="both">10</cell>
+                  <cell rend="both">35,5</cell>
+                  <cell rend="both">10,7</cell>
+                  <cell rend="both">42,0</cell>
+                  <cell rend="both">7,4</cell>
+                  <cell rend="both">44,3</cell>
+                  <cell rend="both">13,5</cell>
+               </row>
+               <note n="">
+                  <hi style="font-size:10pt">Vir: SI AS 1931, 1416, Hašiš, 208.</hi>
+               </note>
+            </table>
+            <lb xml:id="lb-5"/>
+            <p style="text-align:justify;" xml:id="p-27">Poskusi, da bi problem obravnavali tiho in interno,
                     niso uspeli. Prelomnica pa ni bila število samomorov, ampak javno predvajanje
                     filma Maka Sajka <hi rend="italic">Samomorivci, pozor!</hi> leta 1967 v
                     Beogradu. Film je osvetlil problem samomorov mladih v Sloveniji, zgodba pa je
                     odjeknila tako v domačem kot v tujem in izseljenskem časopisju, ki je v
                     naraščajoči stopnji samomorov med mladimi iskalo znake propada socialističnega
                     sistema. </p>
-                <figure rend="imageviewer2" xml:id="figure-15" n="15">
-                    <graphic url="04-figure-2.jpg"/>
-                    <graphic url="04-figure-2-normal.jpg"/>
-                    <head><hi rend="bold">Slika 2:</hi> Grozilno pismo domnevnega kluba samomorilcev </head>
-                    <head>SI AS 1931, 1416, Hašiš, 110–111.</head>
-                </figure>
-                <p style="text-align:justify;">Leta 1968 je škandal dobil še dodatno razsežnost: po
+            <figure rend="imageviewer2" xml:id="figure-15" n="15">
+               <graphic url="04-figure-2.jpg"/>
+               <graphic url="04-figure-2-normal.jpg"/>
+               <head>
+                  <hi rend="bold">Slika 2:</hi> Grozilno pismo domnevnega kluba samomorilcev </head>
+               <head>SI AS 1931, 1416, Hašiš, 110–111.</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-28">Leta 1968 je škandal dobil še dodatno razsežnost: po
                     samomorih Svita Brejca in nekaterih drugih otrok javnih osebnosti se je začelo
                     javno ugibanje o obstoju samomorilskega kluba med študenti v Ljubljani, ki naj
                     bi spodbujal mlade k samomoru. Pristojni na ministrstvu za notranje zadeve so se
-                    odločili zadevo poglobljeno raziskati in so začeli preiskavo z imenom <hi
-                        rend="italic">Hašiš</hi>, pri kateri je sodelovala tudi SDV. Osrednji del
+                    odločili zadevo poglobljeno raziskati in so začeli preiskavo z imenom <hi rend="italic">Hašiš</hi>, pri kateri je sodelovala tudi SDV. Osrednji del
                     preiskave so bili samomori Aleša Kermaunerja (1946–1966), Borivoja Dedijerja
                     (1945–1966) in Svita Brejca (1947–1968), ki naj bi bili povod za vse druge in so
                     odpirali vprašanje, ali so ti samomori nesmiselna dejanja razvajencev ali
@@ -648,7 +656,7 @@
                     želeli na vsak način preprečiti. V strahu pred vplivi Zahoda, javnim mnenjem in
                     podtalnim družbenim vrenjem je oblast uporabljala različna sredstva nadzora nad
                     vpletenimi do konca policijske preiskave leta 1969 in še dlje. </p>
-                <p style="text-align:justify;">Preiskava obstoja kluba samomorilcev ni potrdila. Z
+            <p style="text-align:justify;" xml:id="p-29">Preiskava obstoja kluba samomorilcev ni potrdila. Z
                     olajšanjem so ugotovili, da naj bi šlo za propadle in izolirane posameznike, ki
                     jih je socialistična družba, očitno močna in notranje koherentna, že
                     marginalizirala. Razlogi za obravnavane smrti so bili označeni kot zasebni: bili
@@ -656,28 +664,32 @@
                     resnice. Za režim je bilo vsekakor bolje, da so umirali zaradi občutka osebne
                     poraženosti ali celo zdolgočasenosti kot iz upora ali želje po prevratu
                     družbenega sistema. </p>
-                <figure rend="imageviewer3" xml:id="figure-16" n="16">
-                    <graphic url="04-figure-3.jpg"/>
-                    <graphic url="04-figure-3-normal.jpg"/>
-                    <head><hi rend="bold">Slika 3:</hi> Aleš Kermauner, <hi rend="italic">Ste
-                            nesrečni?</hi></head>
-                    <head><hi rend="italic">Kermauner Aleš: Aleš Kermauner. Ljubljana: Kulturna
+            <figure rend="imageviewer3" xml:id="figure-16" n="16">
+               <graphic url="04-figure-3.jpg"/>
+               <graphic url="04-figure-3-normal.jpg"/>
+               <head>
+                  <hi rend="bold">Slika 3:</hi> Aleš Kermauner, <hi rend="italic">Ste
+                            nesrečni?</hi>
+               </head>
+               <head>
+                  <hi rend="italic">Kermauner Aleš: Aleš Kermauner. Ljubljana: Kulturna
                             komisija pri univerzitetnem odboru zveze študentov Jugoslavije,
                             1966.</hi>
-                        <hi rend="italic">AS 1931, t. e. 1417, Aleš Kermauner.</hi></head>
-                </figure>
-                <milestone unit="section" n="***"/>
-                <figure rend="imageviewer4" xml:id="Plakat-04">
-                    <graphic url="04-plakat.jpg"/>
-                    <graphic url="04-plakat-normal.jpg"/>
-                </figure>
-            </div>
-            <div type="part" xml:id="exhibition05">
-                <head>Zapisi nekega pogajača …<lb/>Drobci iz delovanja Franceta Kutina v mešanih
+                  <hi rend="italic">AS 1931, t. e. 1417, Aleš Kermauner.</hi>
+               </head>
+            </figure>
+            <milestone unit="section" n="***" xml:id="milestone-4"/>
+            <figure rend="imageviewer4" xml:id="Plakat-04">
+               <graphic url="04-plakat.jpg"/>
+               <graphic url="04-plakat-normal.jpg"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition05">
+            <head xml:id="head-32">Zapisi nekega pogajača …<lb/>Drobci iz delovanja Franceta Kutina v mešanih
                     jugoslovansko-italijanskih mejnih komisijah</head>
-                <space/>
-                <docAuthor>Dr. Jurij Hadalin</docAuthor>
-                <p style="text-align:justify;">Ime France Kutin je v slovenski povojni zgodovini precej neznano. Njegova
+            <space xml:id="space-9"/>
+            <docAuthor xml:id="docAuthor-6">Dr. Jurij Hadalin</docAuthor>
+            <p style="text-align:justify;" xml:id="p-30">Ime France Kutin je v slovenski povojni zgodovini precej neznano. Njegova
                     politična kariera ni zapustila vidnejših sledi: prek funkcij v vojaškem sodstvu
                     je kmalu po vojni prešel na republiško notranje ministrstvo, kasneje je bil
                     sekretar predsednika slovenske skupščine in nato po letu 1963 republiški
@@ -685,21 +697,24 @@
                     pri predsedstvu slovenske skupščine. Kot politična figura je ves čas bil v
                     drugem planu, a med letoma 1951 in 1986 je igral pomembno vlogo v večini
                     komisij, ki so poskušale urediti vprašanje dokončne razmejitve ter ohranjanja
-                    meje med Jugoslavijo in Italijo.</p>                
-                <figure rend="imageviewer2" xml:id="figure-17" n="17">
-                    <graphic url="05-figure-1.png"/>
-                    <graphic url="05-figure-1-normal.png"/>
-                    <head><hi rend="italic">Člani jugoslovansko-italijanske komisije za razmejitev na Sabotinu leta 1954.</hi></head><head>SI
+                    meje med Jugoslavijo in Italijo.</p>
+            <figure rend="imageviewer2" xml:id="figure-17" n="17">
+               <graphic url="05-figure-1.png"/>
+               <graphic url="05-figure-1-normal.png"/>
+               <head>
+                  <hi rend="italic">Člani jugoslovansko-italijanske komisije za razmejitev na Sabotinu leta 1954.</hi>
+               </head>
+               <head>SI
                         PANG, Kutin France (PANG 1159), t. e. 1.</head>
-                </figure>
-                <p style="text-align:justify;">V komisijah je predstavljal »stališča Izvršnega
+            </figure>
+            <p style="text-align:justify;" xml:id="p-31">V komisijah je predstavljal »stališča Izvršnega
                     sveta Socialistične republike Slovenije«, ki jih je povezoval z lokalnimi
                     interesi, a so ta velikokrat bila v nasprotju s stališči zveznih organov. Sodeč
                     po njegovi zapuščini, ki jo je predal Pokrajinskemu arhivu v Novi Gorici, je
                     mejno vprašanje dojemal kot svoje življenjsko delo, a nad njim je bil, kot lahko
                     vidimo iz beležk in krajšega rokopisnega uvoda v načrtovane spomine, tudi
                     razočaran.</p>
-                <p style="text-align:justify;">Kaj je zaznamovalo njegovo delo v komisijah? Znanje italijanskega jezika in
+            <p style="text-align:justify;" xml:id="p-32">Kaj je zaznamovalo njegovo delo v komisijah? Znanje italijanskega jezika in
                     pravna izobrazba sta sicer bila tisti del, na katerega bi se najverjetneje lahko
                     oprli, a France Kutin – rojen leta 1913 v Kilovčah pri Ilirski Bistrici, z
                     družino pa je od leta 1915 živel v Ljubljani – se je identificiral kot Primorec.
@@ -714,60 +729,71 @@
                         moral boriti – brez prave podpore in avtoritativnih pooblastil. Saj se je
                         večkrat dogajalo, da so tudi naši vodilni tovariši v Sloveniji nehote
                         nasedali stališčem, ki so se pojavljala z avtoriteto zveznega sekretarja ali
-                        celo SIP-a.«</hi></p>
-                <p style="text-align:justify;">Ob tem je bil tudi osebno prizadet, ker v osimskem procesu, kjer je naposled
+                        celo SIP-a.«</hi>
+            </p>
+            <p style="text-align:justify;" xml:id="p-33">Ob tem je bil tudi osebno prizadet, ker v osimskem procesu, kjer je naposled
                     prišlo do napredka v pogajanjih, ni sodeloval. »<hi rend="italic">Bil sem član
                         vseh naših delegacij, ki so razpravljale o meji, nisem pa bil v naši
                         delegaciji na sklepnih razgovorih v Osimu, kjer se je 'zapečatila' meja z
                         Italijo …/… Zakaj nisem smel v Osimo in zakaj sem na Strmolu v tajnih
                         predsedniških razgovorih lahko sodeloval le kot »padalec« …/… mi ni in mi je
                         jasno …</hi>«</p>
-                <p style="text-align:justify;">Kje je bila srž njegovega delovanja? Po letu 1956 je bila večina sektorjev na
+            <p style="text-align:justify;" xml:id="p-34">Kje je bila srž njegovega delovanja? Po letu 1956 je bila večina sektorjev na
                     jugoslovansko-italijanski meji razmejena. Odprti sta ostali razmejitev grebena
                     na Kolovratu in »vprašanje Sabotina«, kjer je bil načeloma dogovorjen predlog
                     koridorja čez italijansko ozemlje, ki bi povezal Goriška brda z Novo Gorico.
                     Vprašanje je slovenska stran dojemala kot kulturno-ekonomsko in je predvidevala
                     popuščanje na Kolovratu za ureditev sabotinskega problema, kar je leta 1955 s
-                    parafo potrdil tudi predsednik Tito.</p>                
-                <figure rend="imageviewer3" xml:id="figure-18" n="18">
-                    <graphic url="05-figure-2-3.png"/>
-                    <graphic url="05-figure-2-3-normal.png"/>
-                    <head><hi rend="italic">Prepis telefonskega pogovora ob preverjanju stališč predsednika Tita o
+                    parafo potrdil tudi predsednik Tito.</p>
+            <figure rend="imageviewer3" xml:id="figure-18" n="18">
+               <graphic url="05-figure-2-3.png"/>
+               <graphic url="05-figure-2-3-normal.png"/>
+               <head>
+                  <hi rend="italic">Prepis telefonskega pogovora ob preverjanju stališč predsednika Tita o
                         problematiki razmejitve na Sabotinu in Kolovratu.
-                        </hi></head><head>SI PANG Kutin France (PANG
+                        </hi>
+               </head>
+               <head>SI PANG Kutin France (PANG
                         1159), t. e. 4</head>
-                </figure>
-                <figure rend="imageviewer1" xml:id="figure-19" n="19">
-                    <graphic url="05-figure-4.png"/>
-                    <graphic url="05-figure-4-normal.png"/>
-                    <head><hi rend="italic">Glasen protest žensk iz Brega: V prisotnosti mejne komisije demonstrirajo proti
+            </figure>
+            <figure rend="imageviewer1" xml:id="figure-19" n="19">
+               <graphic url="05-figure-4.png"/>
+               <graphic url="05-figure-4-normal.png"/>
+               <head>
+                  <hi rend="italic">Glasen protest žensk iz Brega: V prisotnosti mejne komisije demonstrirajo proti
                         jugoslovanskim predstavnikom – Želimo se vrniti v svojo domovino. Messagero
-                        Veneto, 17. 11. 1963, št. 273.</hi></head><head>SI PANG Kutin France (PANG 1159), t. e. 9</head>
-                </figure>
-                <figure rend="imageviewer3" xml:id="figure-20" n="20">
-                    <graphic url="05-figure-5.png"/>
-                    <graphic url="05-figure-5-normal.png"/>
-                    <head><hi rend="italic">Osnutek načrtovanih spominov Franceta Kutina. </hi>
-                        <hi rend="italic">Zapisi nekega pogajača …</hi><lb/>
-                        <hi rend="italic">Pogajačevi zapisi</hi>.<lb/>
-                        <hi rend="italic">Pogajačevi spomini</hi>.<lb/>
-                        <hi rend="italic">»Nikdar nisem v življenju gojil ambicije za zgodovinopisje ali spominkarstvo,
-                            vedno pa so mi bile pri srcu kratke 'pro memoriae'.«</hi><lb/></head>
-                        <head>SI PANG Kutin France (PANG 1159), t. e. 8</head>
-                </figure>
-                <p style="text-align:justify;">A v trenutku, ko je prišlo do premikov v
+                        Veneto, 17. 11. 1963, št. 273.</hi>
+               </head>
+               <head>SI PANG Kutin France (PANG 1159), t. e. 9</head>
+            </figure>
+            <figure rend="imageviewer3" xml:id="figure-20" n="20">
+               <graphic url="05-figure-5.png"/>
+               <graphic url="05-figure-5-normal.png"/>
+               <head>
+                  <hi rend="italic">Osnutek načrtovanih spominov Franceta Kutina. </hi>
+                  <hi rend="italic">Zapisi nekega pogajača …</hi>
+                  <lb/>
+                  <hi rend="italic">Pogajačevi zapisi</hi>.<lb/>
+                  <hi rend="italic">Pogajačevi spomini</hi>.<lb/>
+                  <hi rend="italic">»Nikdar nisem v življenju gojil ambicije za zgodovinopisje ali spominkarstvo,
+                            vedno pa so mi bile pri srcu kratke 'pro memoriae'.«</hi>
+                  <lb/>
+               </head>
+               <head>SI PANG Kutin France (PANG 1159), t. e. 8</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-35">A v trenutku, ko je prišlo do premikov v
                     pogajanjih, jih je zvezni sekretariat za zunanje zadeve takoj prekinil.
                     Generalštab JLA je namreč zahteval, da v imenu suverenosti in vojaške varnosti
                     oba grebena ostaneta pod popolno jugoslovansko kontrolo in Kolovrat postane
                     prednostno vprašanje. To sta vehementno zahtevala general Bogdan Oreščanin in
                     polkovnik Franjo Tuđman. Bila sta proti koridorju, ki sta ga identificirala kot
                     varnostno grožnjo, na plan je prišel celo načrt o vrtanju predora do Brd.</p>
-                <p style="text-align:justify;">Na te trditve je slovenska stran ostro reagirala, in kot je Kutin zapisal, je
+            <p style="text-align:justify;" xml:id="p-36">Na te trditve je slovenska stran ostro reagirala, in kot je Kutin zapisal, je
                     bilo treba pri pogajanjih gledati tudi kakšen korak naprej, saj je bilo
                     prebivalstvo Goriških brd zaradi odrezanosti frustrirano, kar je pripeljalo do
                     tega, da je nekaj prebivalcev vasi Breg konec leta 1963 mešano komisijo
                     pričakalo z zahtevami po priključitvi kraja k Italiji.</p>
-                <p style="text-align:justify;">Osimski sporazumi so večino teh težav rešili, a ne sistemskega problema –
+            <p style="text-align:justify;" xml:id="p-37">Osimski sporazumi so večino teh težav rešili, a ne sistemskega problema –
                     neupoštevanja republiških in lokalnih interesov pri dokončni razmejitvi in redne
                     kolizije z zahtevami zveznih organov. Kutin je bil ponovno imenovan kot
                     zastopnik slovenskih interesov in je pri delu doživljal velike frustracije, zato
@@ -775,7 +801,7 @@
                     Pritoževal se je, da je v komisiji izoliran in » <hi rend="italic">od našega
                         sekretariata ves čas ni nobenega glasu, nič me ne obveščajo in ničesar od
                         mene ne zahtevajo</hi>«.</p>
-                <p style="text-align:justify;">Frustracije so izhajale tudi iz jezikovnih vprašanj. Kljub določilom osimskih
+            <p style="text-align:justify;" xml:id="p-38">Frustracije so izhajale tudi iz jezikovnih vprašanj. Kljub določilom osimskih
                     sporazumov, ki so predvidevali uporabo slovenskega jezika kot delovnega jezika
                     na jugoslovanske strani komisije, je bila slovenščina v uporabi le v diplomatski
                     komisiji, v komisiji za zaznamovanje in obnovo meje, ki je bila bolj tehnične
@@ -793,23 +819,711 @@
                         vključenost SR Slovenije (F. Kutina) v delo diplomatske komisije za
                         obeleževanje meje …/… Čudi me tudi, da je ambasador Drdnić podpisal takšno
                         konvencijo v Novi Gorici brez konsultacij s SRS in brez prisotnosti
-                        predstavnikov republike, za katere mejo in suverenost gre …«</hi></p>
-                <p style="text-align:justify;">Kljub pomislekom in bolezni je France Kutin tudi po upokojitvi sodeloval v delu
+                        predstavnikov republike, za katere mejo in suverenost gre …«</hi>
+            </p>
+            <p style="text-align:justify;" xml:id="p-39">Kljub pomislekom in bolezni je France Kutin tudi po upokojitvi sodeloval v delu
                     komisij, ki so bile po letu 1980 precej manj dejavne, vprašanja pa manj pereča.
                     V njih je zapustil pomemben pečat, a je njegova vloga danes skorajda nepoznana.
                     Večinoma birokratsko in zelo tehnično delo komisij je namreč potekalo v
-                    zakulisju in izven polja širšega javnega zanimanja.</p>                
-                <milestone unit="section" n="***"/>
-                <figure rend="imageviewer4" xml:id="Plakat-05">
-                    <graphic url="05-plakat.png"/>
-                    <graphic url="05-plakat-normal.png"/>
-                </figure>
+                    zakulisju in izven polja širšega javnega zanimanja.</p>
+            <milestone unit="section" n="***" xml:id="milestone-5"/>
+            <figure rend="imageviewer4" xml:id="Plakat-05">
+               <graphic url="05-plakat.png"/>
+               <graphic url="05-plakat-normal.png"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition06">
+            <head xml:id="head-41">Ljubljana Moor</head>
+            <space xml:id="space-10"/>
+            <docAuthor xml:id="docAuthor-7">Dr. Lev Centrih</docAuthor>
+            <docAuthor xml:id="docAuthor-8">Dr. Nataša Henig Miščič</docAuthor>
+            <p style="text-align:justify;" xml:id="p-40">The Ljubljana Moor is one of the most changed
+                    areas in Slovenia. The entire area is about
+                    160 km2 and stretches from Vrhnika in the west
+                    to Ljubljana in the north and Ig in the southeast.
+                    Although this area used to be marshes or an area
+                    where water had the most significant influence,
+                    it is no longer marshes in the true sense of
+                    the word. It resembles rich marshes only during
+                    heavy rainfall in the spring and autumn months.</p>
+            <figure rend="imageviewer2" xml:id="figure-21" n="21">
+               <graphic url="06-figure-1.png"/>
+               <graphic url="06-figure-1-normal.png"/>
+               <head>Manca Volk Bahun. Base Map: National Overview Map 1:250,000,
+                        GURS 2010. Source: Šifrer and Orožen Adamič, Ljubljansko barje:
+                        obseg, poplave in poselitev – 1 : 50.000. Geografski inštitut Antona
+                        Melika ZRC SAZU, Ljubljana.</head>
+            </figure>
+            <div type="subchapter" xml:id="exhibition06-01">
+               <head xml:id="head-43">THE DESICCATION AND HUMAN INTERVENTIONS IN LJUBLJANA MOOR BEFORE WORLD WAR
+                        II</head>
+               <cit rend="bluebox" xml:id="cit-1">
+                  <quote style="text-align:justify">Even at the beginning of
+                            the 18th century, the Moors presented a gloomy picture. At that time,
+                            there were 52 streams and canals in the moors, and all the runoff was
+                            directed to a single location: Ljubljana.<lb/>
+                  </quote>
+                  <bibl>Jamnik, A. (ed.), Za
+                                izboljšanje življenjskih pogojev našega kmetijstva. Poročilo o
+                                kmetijski anketi, ki se je vršila pri kralj. banski upravi dravske
+                                banovine v Ljubljani v dneh 30. maja do 3. junija 1938, II.
+                                Ljubljana: Kralj. banska uprava dravske banovine,
+                            1938-1939.</bibl>
+               </cit>
+               <p style="text-align:justify" xml:id="p-41">The first significant interventions in the area
+                        began with large-scale land reclamation works in the second half of the 18th
+                        century when the marshes began to be converted into fields and meadows. The
+                        main goal was to drain the Ljubljana Moor, transform the marshes into a dry
+                        plain and create fields and meadows due to the intensive agricultural use of
+                        the land. The process, which involved long-term changes and repeated
+                        environmental interventions, can be traced back to the end of World War
+                        II.</p>
+               <p style="text-align:justify" xml:id="p-42">Regulating the drainage channels failed due to
+                        financial constraints and poorly organised maintenance. Farmers were faced
+                        with insufficient production, which led them to look for alternative sources
+                        of income. In the late 19th century, layers of peat were cut for firewood or
+                        burned as fertiliser, often decomposing in the air. The intensive peat
+                        extraction, sold to entrepreneurs and residents in Ljubljana, caused
+                        considerable damage and, combined with neglected canals, led to frequent
+                        flooding in the region. In 1877, the Main Committee for the Drainage of the
+                        Ljubljana Moor was established. The members were residents of the marshes
+                        who were directly interested in adapting the area. The Main Committee
+                        prepared a new project in 1880, implemented between 1908 and 1914. The
+                        project was interrupted due to World War I but continued in the 1930s.</p>
+               <p style="text-align:justify" xml:id="p-43">The Society for the Promotion of the Cultivation
+                        of the Ljubljana Moor was operating in the first decade of the 20th century.
+                        The aims of the society included organising meetings, publishing educational
+                        material, holding training courses, conducting cultivation trials and
+                        supporting members in the procurement of agricultural goods.</p>
+               <p style="text-align:justify" xml:id="p-44"> The floods in the area were often the cause of
+                        human intervention. After the flood disaster of 1926, the authorities noted
+                        the need to complete the regulation work. The project included reshaping the
+                        riverbed of the Ljubljanica in the city, building river walls and
+                        constructing a sluice gate under the Šentpeter Bridge. Except for the sluice
+                        gate, all works were completed by 1938, and the construction of the lock was
+                        finished between 1939 and 1942. </p>
+               <figure rend="imageviewer2" xml:id="figure-22" n="22">
+                  <graphic url="06-figure-2.png"/>
+                  <graphic url="06-figure-2-normal.png"/>
+                  <head>Peat cutting in the Ljubljana Moor in 1938, Peter Naglič, Slovenski
+                            etnografski muzej / Društvo Peter Naglič.</head>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-23" n="23">
+                  <graphic url="06-figure-3.png"/>
+                  <graphic url="06-figure-3-normal.png"/>
+                  <head>Regulatory works on the Ljubljanica River in the 1930s.
+                            SI ZAL LJU, fototeka, p. e. A02-096</head>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-24" n="24">
+                  <graphic url="06-figure-4.png"/>
+                  <graphic url="06-figure-4-normal.png"/>
+                  <head>Bokalce Facility. Land improvement works on the new complex near the Trieste
+                            railway. A bulldozer leveling the excavation from the ditch. Formation
+                            of a cultivation plot. Source: SI ZAL LJU 70/2, fasc. 374, fol. 413.
+                            Kmetijsko posestvo Barje: razvoj in perspektiva, 1963, Priloga II, foto. Št. 7.</head>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-25" n="25">
+                  <graphic url="06-figure-5.png"/>
+                  <graphic url="06-figure-5-normal.png"/>
+                  <head>Jesenkovo Facility. Dairy livestock facilities along Cesta dveh cesarjev, with part
+                            of the herd pasture in the foreground.
+                            Source: SI ZAL LJU 70/2, fasc. 374, fol. 413.
+                            Kmetijsko posestvo Barje: razvoj in perspektiva, 1963, Priloga II, foto. Št. 1.</head>
+               </figure>
             </div>
-            <div type="part" xml:id="exhibition06">
-                <head>Študent naj bo! Študijske izmenjave med Poljsko in Jugoslavijo, 1956–1965</head>
-                <space/>
-                <p></p>
+            <div type="subchapter" xml:id="exhibition06-02">
+               <head xml:id="head-48">LJUBLJANA MOOR IN THE EARLY DECADES OF SOCIALISM</head>
+               <cit rend="bluebox" xml:id="cit-2">
+                  <quote>Where mighty oaks and alder trees once thrived, and Ljubljana’s
+                            peasants toiled in the meadows, in the fall, a tractor now hums a
+                            victorious tune—conquering the marshes of the Ljubljana Moor.</quote>
+                  <bibl>SI ZAL LJU 476, Mestna ekonomija [Municipal agricultural estate]
+                            Jesenkovo, fasc.15, fol. 170, „Mestna ekonomija Jesenkovo 88,“ p. 2.
+                            [undated, probably 1947 – 1948]</bibl>
+               </cit>
+               <p style="text-align:justify" xml:id="p-45">Yet, in reality, there was no such victory. The
+                        socialisation of post-war agriculture in Slovenia stalled halfway. While
+                        private land ownership remained dominant, socialist agricultural enterprises
+                        emerged, often leasing land from locals who gradually abandoned farming. The
+                        foundation of the socialist agricultural sector was the establishment of a
+                        General People’s Property Fund, which, after wartime confiscations and two
+                        agrarian reforms (1945/46 and 1953), controlled 2,742 hectares—16.8% of the
+                        total land on the Ljubljana Moor. Peasant labour cooperatives (“kolkhozes”)
+                        failed to deliver the expected results and soon disappeared.</p>
+               <p style="text-align:justify" xml:id="p-46"> The development of agricultural estates on the
+                        Ljubljana Moor was closely tied to Ljubljana’s industrialisation and the
+                        general scarcity of resources at the time. The most significant estate was
+                        Jesenkovo, which in 1948 managed 114 hectares. It engaged in diverse
+                        activities, from vegetable and grain cultivation to cattle and pig farming,
+                        the latter posing serious environmental risks. Labour shortages were a
+                        persistent issue, as harsh working conditions and poor living standards made
+                        retention difficult. Many fields were unsuitable for modern mechanisation
+                        due to the marshy terrain, and heavy rainfall often made harvesting
+                        impossible.</p>
+               <p style="text-align:justify" xml:id="p-47"> Significant changes arrived in the late 1950s. By
+                        1959, agricultural investments in Yugoslavia accounted for 16% of total
+                        gross investments. On the Ljubljana Moor, this led to the first serious
+                        pedological, hydrotechnical, and agrotechnical studies and experiments after
+                        the war. That same year, several social agricultural enterprises and
+                        cooperatives merged into Kmetijsko posestvo Barje (Barje Agricultural
+                        Estate), which by 1963 managed 2,487 hectares.</p>
+               <p style="text-align:justify" xml:id="p-48"> For the first time since the war, estate’s
+                        management recognised the natural limitations of the marshland, leading to a
+                        specialisation in livestock farming. The estate became by early 1960s a
+                        major milk supplier for Ljubljana, covering up to 20% of the city’s daily
+                        demand. Despite improved working conditions, labour shortages persisted, and
+                        the enterprise remained financially unviable. Maintaining farmland in the
+                        marsh was costly, and animal feed posed a particular challenge, as marsh
+                        horsetail (Equisetum palustre)—a toxic plant—proved impossible to
+                        eradicate.</p>
+               <figure rend="imageviewer2" xml:id="figure-26" n="26">
+                  <graphic url="06-figure-6.png"/>
+                  <graphic url="06-figure-6-normal.png"/>
+                  <head>Jesenkovo Facility. A cow in the stall at the milking parlor of the
+                            dairy farm along Cesta dveh cesarjev. Source: SI ZAL LJU 70/2, fasc.
+                            374, fol. 413. Kmetijsko posestvo Barje: razvoj in perspektiva, 1963,
+                            Priloga II, foto. Št. 3.</head>
+               </figure>
             </div>
-        </body>
-    </text>
+            <milestone unit="section" n="***" xml:id="milestone-6"/>
+            <figure rend="imageviewer4" xml:id="Plakat-06">
+               <graphic url="06-plakat.png"/>
+               <graphic url="06-plakat-normal.png"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition07">
+            <head xml:id="head-50">Industrialization, Urbanization, and Environmental
+                    Pollution in Socialist Slovenia</head>
+            <space xml:id="space-11"/>
+            <docAuthor xml:id="docAuthor-9">Dr. Marta Rendla</docAuthor>
+            <docAuthor xml:id="docAuthor-10">Dr. Janja Sedlaček</docAuthor>
+            <p style="text-align:justify;" xml:id="p-49">During socialism, Slovenia experienced rapid
+                    industrialization. Industrial production increased tenfold between 1939 and
+                    1972, and Slovenia‘s economic growth rate between 1953 and 1972 was among the
+                    highest in the world. Heavy industry held a significant place in the industrial
+                    sector until the dissolution of Yugoslavia, despite varying priorities in
+                    different periods, often leading to harmful environmental effects. Initially,
+                    industrialization was concentrated in the so-called „industrial crescent,“ where
+                    pre-war industrial centers were already positioned along major railway lines.
+                    Later, industrialization spread more widely across the country. This accelerated
+                    and dispersed industrialization was accompanied by equally rapid urbanization,
+                    which peaked in the 1960s and 1970s. However, due to later suburbanization,
+                    Slovenia remained underurbanized at the beginning of the 1990s, with an
+                    urbanization rate of 51.5%. The spatial dispersion of industrialization and
+                    urbanization had both negative and positive environmental impacts—pollution
+                    spread across all regions of Slovenia, yet its effects were not concentrated in
+                    a few specific industrial centers.</p>
+            <figure rend="imageviewer2" xml:id="figure-27" n="27">
+               <graphic url="07-figure-1-png"/>
+               <graphic url="07-figure-1-normal.png"/>
+               <head>Construction of the Trbovlje chimney 1975.
+                        Photo by Svetozar Busić, preserved by the National Museum
+                        of Contemporary History of Slovenia (NMCHS).</head>
+            </figure>
+            <figure rend="imageviewer2" xml:id="figure-28" n="28">
+               <graphic url="07-figure-2-png"/>
+               <graphic url="07-figure-2-normal.png"/>
+               <head>Chimney Trbovlje in 1987. Photo by Marjan Miro Dobovšek,
+                        preserved by the National Museum of Contemporary History
+                        of Slovenia (NMCHS).</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-50">The intensity of industrialization and urbanization
+                    soon began to impact the environment. In the 1960s, lead levels in the diets of
+                    people living near the lead smelter in Mežica were found to be 50 times higher
+                    than normal, while soil and vegetables near the lead and zinc smelters in Celje
+                    and Mežica also contained abnormal amounts of sulfur. In 1970, mercury levels of
+                    up to 15 mg per kilogram were measured in meadow plants near the mercury mine in
+                    Idrija, and in Kidričevo, there was fluoride contamination in the soil near the
+                    fertilizer factory.</p>
+            <p style="text-align:justify;" xml:id="p-51">Water pollution was also an issue. By the mid-1970s,
+                    Slovenian rivers were as polluted as if they had to sustain a population of 7–8
+                    million people (population equivalent or PE), even though Slovenia itself had a
+                    population of only around 1 700 000 people at the time. The ratio between
+                    population-based and industrial pollution was 1:4. Groundwater and karstic
+                    springs were also contaminated in certain areas. Water quality deteriorated most
+                    significantly between 1960 and 1975. By the mid-1980s, 121 mechanical-biological
+                    wastewater treatment plants were in operation, but they only treated 15% of all
+                    wastewater. The biggest contributors to pollution were industries in major
+                    industrial centers (Ljubljana, Maribor, the coal mining regions of Zasavje and
+                    Šaleška dolina, Celje, Ravne na Koroškem, Jesenice, etc.), with the primary
+                    polluters being the paper and food industries, household appliance
+                    manufacturing, leather processing, pig farms, and coal separation plants.
+                    Nevertheless, one-third of the pollution in Slovenian rivers was still estimated
+                    to have come from abroad.</p>
+            <p style="text-align:justify;" xml:id="p-52">Air pollution was another critical issue. Already in
+                    the 1960s, although measurements were not yet systematic, Slovenian cities
+                    ranked among the most polluted in the world in terms of air quality. The highest
+                    daily SO2 concentration in Ljubljana was recorded in January 1967, reaching 2.4
+                    mg SO2/m³ of air—16 times the permissible 24-hour average concentration for
+                    Yugoslavia. In 1975, 28 Slovenian settlements were classified under air
+                    pollution zones III and IV on a four-tier scale, increasing to 44 settlements by
+                    1987, where a quarter of Slovenia‘s population lived. The primary sources of air
+                    pollutants were coal-fired thermal power plants—Šoštanj Thermal Power Plant,
+                    Trbovlje Thermal Power Plant, and Ljubljana Thermal Power Plant. In the 1980s,
+                    their SO2 emissions accounted for approximately two-thirds of Slovenia’s total
+                    SO2 emissions. By the early 1990s, thermal energy facilities contributed 78% of
+                    emissions, industry 12%, transportation 1.5%, and individual heating of
+                    residential and other buildings 8.5%. In 1975, Slovenia enacted the Air
+                    Protection Act, establishing emission standards and permissible pollutant
+                    limits. Based on this law, an air pollution monitoring network was established
+                    between 1976 and 1977, along with environmental rehabilitation programs for
+                    major industrial polluters.</p>
+            <figure rend="imageviewer2" xml:id="figure-29" n="29">
+               <graphic url="07-figure-0-png"/>
+               <graphic url="07-figure-0-normal.png"/>
+               <head>Pollution in the valley of the Trbovlje Thermal Power Plant in the 1970s.
+                        Photo by Svetozar Busić, preserved by the National Museum of
+                        Contemporary History of Slovenia (NMCHS).</head>
+            </figure>
+            <p style="text-align:justify" xml:id="p-53">In the 1980s, aside from Ljubljana, Maribor, and
+                    Celje, the most environmentally degraded regions included the metallurgically
+                    focused Mežica Valley (with lead and zinc mining in Črna, Žerjav, and Mežica),
+                    the outskirts of the Šaleška dolina (Zavodnje near Šoštanj), the Celje and
+                    Ljubljana basins, Zasavje (Trbovlje, Hrastnik, Zagorje), and the industrial area
+                    of Trata in Škofja Loka.</p>
+            <table rend="rules" xml:id="table-6">
+               <head>Average SO2 emissions in the year 1984</head>
+               <row>
+                  <cell rend="both">
+                     <hi rend="bold">City</hi>
+                  </cell>
+                  <cell rend="both">
+                     <hi rend="bold">SO2(μg/m³)</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="both">Ljubljana</cell>
+                  <cell rend="both">120</cell>
+               </row>
+               <row>
+                  <cell rend="both">Chicago</cell>
+                  <cell rend="both">23</cell>
+               </row>
+               <row>
+                  <cell rend="both">Warsaw</cell>
+                  <cell rend="both">36</cell>
+               </row>
+               <row>
+                  <cell rend="both">Vienna</cell>
+                  <cell rend="both">39</cell>
+               </row>
+               <row>
+                  <cell rend="both">Graz</cell>
+                  <cell rend="both">40</cell>
+               </row>
+               <row>
+                  <cell rend="both">Glasgow</cell>
+                  <cell rend="both">47</cell>
+               </row>
+               <row>
+                  <cell rend="both">Frankfurt</cell>
+                  <cell rend="both">50</cell>
+               </row>
+               <row>
+                  <cell rend="both">London</cell>
+                  <cell rend="both">55</cell>
+               </row>
+               <row>
+                  <cell rend="both">Zagreb</cell>
+                  <cell rend="both">80</cell>
+               </row>
+               <row>
+                  <cell rend="both">Milan</cell>
+                  <cell rend="both">180</cell>
+               </row>
+            </table>
+            <table rend="rules" xml:id="table-7">
+               <head>SO2 emissions per capita in the early 1990s</head>
+               <row>
+                  <cell rend="both">
+                     <hi rend="bold">Country</hi>
+                  </cell>
+                  <cell rend="both">
+                     <hi rend="bold">SO2 emissions (kg/capita)</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="both">Slovenia</cell>
+                  <cell rend="both">98</cell>
+               </row>
+               <row>
+                  <cell rend="both">United Kingdom</cell>
+                  <cell rend="both">84</cell>
+               </row>
+               <row>
+                  <cell rend="both">Germany</cell>
+                  <cell rend="both">52</cell>
+               </row>
+               <row>
+                  <cell rend="both">Austria</cell>
+                  <cell rend="both">47</cell>
+               </row>
+               <row>
+                  <cell rend="both">Switzerland</cell>
+                  <cell rend="both">20</cell>
+               </row>
+            </table>
+            <p style="text-align:justify" xml:id="p-54">The production of environmentally harmful raw
+                    materials and industrial materials increased rapidly in the decades following
+                    World War II.</p>
+            <table rend="rules" xml:id="table-8">
+               <head>Production of harmful raw materials and reproductive material (t)</head>
+               <row>
+                  <cell rend="both">Material</cell>
+                  <cell rend="both">
+                     <hi rend="bold">1937</hi>
+                  </cell>
+                  <cell rend="both">
+                     <hi rend="bold">1974</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="both">Alumina</cell>
+                  <cell rend="both">3,500</cell>
+                  <cell rend="both">124,000</cell>
+               </row>
+               <row>
+                  <cell rend="both">Refined lead</cell>
+                  <cell rend="both">8,766,000</cell>
+                  <cell rend="both">26,335,000</cell>
+               </row>
+               <row>
+                  <cell rend="both">Mercury</cell>
+                  <cell rend="both">326,000</cell>
+                  <cell rend="both">546,000</cell>
+               </row>
+               <row>
+                  <cell rend="both">Sulfuric acid</cell>
+                  <cell rend="both">7,680,000</cell>
+                  <cell rend="both">93,200,000</cell>
+               </row>
+               <row>
+                  <cell rend="both">Artificial fertilizers</cell>
+                  <cell rend="both">26,813,000</cell>
+                  <cell rend="both">48,379,000</cell>
+               </row>
+               <row>
+                  <cell rend="both">Asbestos-cement products</cell>
+                  <cell rend="both">7,600</cell>
+                  <cell rend="both">223,000</cell>
+               </row>
+            </table>
+            <milestone unit="section" n="***" xml:id="milestone-7"/>
+            <figure rend="imageviewer4" xml:id="Plakat-07">
+               <graphic url="07-plakat.png"/>
+               <graphic url="07-plakat-normal.png"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition08">
+            <head xml:id="head-57">Droughts in Socialist Slovenia in the 1980s: The Severe Drought of 1983</head>
+            <space xml:id="space-12"/>
+            <docAuthor xml:id="docAuthor-11">Dr. Marta Rendla</docAuthor>
+            <p style="text-align:justify" xml:id="p-55">Droughts are a natural yet extreme climatic event that
+                    develops gradually and results from a deficiency in precipitation over a
+                    specific period. They are predominantly assessed from meteorological,
+                    hydrological, agricultural, and socio-economic perspectives. Consequently,
+                    droughts are categorized into agricultural, meteorological, and hydrological
+                    droughts.</p>
+            <figure rend="imageviewer2" xml:id="figure-30" n="30">
+               <graphic url="08-figure-1-png"/>
+               <graphic url="08-figure-1-normal.png"/>
+               <head>Agricultural snapshots−corn harvest, October 1981.</head>
+               <head>Photo by Janez Pukšič,
+                        preserved by the National Museum of Contemporary History of Slovenia
+                        (NMCHS).</head>
+            </figure>
+            <p style="text-align:justify" xml:id="p-56">Agricultural drought is defined as a combination of
+                    meteorological and hydrological droughts, representing a complex phenomenon
+                    caused by prolonged precipitation shortages combined with high evaporation
+                    rates. During the growing season (from April 1 to September 30), it leads to
+                    soil dehydration in the root zone, thereby preventing plants from absorbing
+                    water-soluble nutrients. It also depends on the soil’s water retention capacity.
+                    A key indicator of agricultural drought is the surface water balance, which
+                    represents the difference between the amount of precipitation in a given period
+                    and the potential water loss from the surface due to evaporation and plant
+                    transpiration.</p>
+            <p style="text-align:justify" xml:id="p-57">Meteorological drought refers to deviations in
+                    precipitation from the long-term average.</p>
+            <p style="text-align:justify" xml:id="p-58">Hydrological drought occurs when there is a prolonged
+                    lack of precipitation, leading to a significant decrease in water levels in
+                    reservoirs, lakes, and watercourses, as well as a decline in groundwater levels.
+                    It negatively impacts agriculture, water supply, hydroelectric power production,
+                    industry, recreation, human and animal health, and overall survival
+                    security.</p>
+            <p style="text-align:justify" xml:id="p-59">Continuous data series of meteorological variables
+                    essential for analyzing droughts in Slovenia during the socialist period have
+                    been available for a limited number of measuring stations since 1961. Findings
+                    from agrometeorologists and climatologists based on these data indicate that the
+                    1980s marked a turning point in Slovenia regarding both hydrological extremes,
+                    particularly droughts. Compared to the 1961–1980 period, agricultural droughts
+                    of varying intensities (severe, regional, and local) became more frequent in the
+                    1980s. In the 1960s and 1970s, only one severe drought occurred— in 1967 and
+                    1971, respectively—along with two local and one regional drought in the 1960s
+                    and three local and one regional drought in the 1970s. However, in the 1980s, in
+                    addition to one severe drought in 1983, five local and one regional drought (in
+                    1984) were recorded.</p>
+            <p style="text-align:justify" xml:id="p-60">Between 1990 and 2004, with the exception of a single
+                    year, droughts of varying intensities occurred almost annually.</p>
+            <p style="text-align:justify" xml:id="p-61">According to modern criteria, a drought is considered
+                    local if it affects up to 20 municipalities, regional if it impacts more than
+                    one statistical region, and severe if it can be equated with a drought of
+                    national proportions.</p>
+            <figure rend="imageviewer2" xml:id="figure-31" n="31">
+               <graphic url="08-figure-2-png"/>
+               <graphic url="08-figure-2-normal.png"/>
+               <head>Chart: Droughts in Slovenia 1961–2004: Frequency and Type of Agricultural
+                        Drought Based on Surface Water Balance for Agricultural Crops (8
+                        Agricultural Regions)</head>
+            </figure>
+            <figure rend="imageviewer2" xml:id="figure-32" n="32">
+               <graphic url="08-figure-3-png"/>
+               <graphic url="08-figure-3-normal.png"/>
+               <head>Waiting in line for water. Litija, October 1978.</head>
+               <head>Photo by Svetozar Busić,
+                        preserved by the National Museum of Contemporary History of Slovenia
+                        (NMCHS).</head>
+            </figure>
+            <figure rend="imageviewer2" xml:id="figure-33" n="33">
+               <graphic url="08-figure-4-png"/>
+               <graphic url="08-figure-4-normal.png"/>
+               <head>The dried-up Ljubljanica River. Ljubljana, November 1983.</head>
+               <head>Photo by Miško
+                        Kranjec, preserved by the National Museum of Contemporary History of
+                        Slovenia (NMCHS).</head>
+            </figure>
+            <p style="text-align:center" xml:id="p-62">
+               <hi rend="bold">THE SEVERE DROUGHT OF 1983</hi>
+            </p>
+            <p style="text-align:justify" xml:id="p-63">For a long time, Slovenia was not considered a region
+                    where droughts could significantly impact hydrological conditions and
+                    agriculture. However, the lack of precipitation and its irregular distribution
+                    in the 1980s revealed that drought risk is a serious concern in Slovenia as
+                    well.</p>
+            <p style="text-align:justify" xml:id="p-64">Meteorologically, the drought of 1983 was prolonged,
+                    lasting intermittently from mid-February to mid-December. It occurred in three
+                    phases—spring, summer, and autumn. Precipitation levels were 20–32% lower than
+                    the average for the period 1951–1980.</p>
+            <p style="text-align:justify" xml:id="p-65">The summer of 1983 was the hottest since 1963 and the
+                    driest since 1932. November was the driest month of the year in 1983.</p>
+            <p style="text-align:justify" xml:id="p-66">From a hydrological perspective, the drought was
+                    reflected in low river flows.</p>
+            <table rend="rules" xml:id="table-9">
+               <head>Table: River flows in November 1983</head>
+               <row>
+                  <cell rend="both">
+                     <hi rend="bold">River and Flow Rate</hi>
+                  </cell>
+                  <cell rend="both">
+                     <hi rend="bold">The percentage of the November average for the period 1926–1965 in
+                            November 1983</hi>
+                  </cell>
+               </row>
+               <row>
+                  <cell rend="both">Mura- Gornja Radgona</cell>
+                  <cell rend="both">47.6</cell>
+               </row>
+               <row>
+                  <cell rend="both">Drava- Dravograd</cell>
+                  <cell rend="both">45.0</cell>
+               </row>
+               <row>
+                  <cell rend="both">Sava- Radovljica</cell>
+                  <cell rend="both">26.9</cell>
+               </row>
+               <row>
+                  <cell rend="both">Savinja- Laško</cell>
+                  <cell rend="both">22.5</cell>
+               </row>
+               <row>
+                  <cell rend="both">Soča- Doblar</cell>
+                  <cell rend="both">22.1</cell>
+               </row>
+               <row>
+                  <cell rend="both">Sora- Suha</cell>
+                  <cell rend="both">19.0</cell>
+               </row>
+               <row>
+                  <cell rend="both">Ljubljanica- Moste</cell>
+                  <cell rend="both">12.9</cell>
+               </row>
+               <row>
+                  <cell rend="both">Krka- Podbočje</cell>
+                  <cell rend="both">8.8</cell>
+               </row>
+            </table>
+            <lb xml:id="lb-12"/>
+            <p style="text-align:center" xml:id="p-67">
+               <hi rend="bold">THE SOCIO-ECONOMIC IMPACT OF THE 1983
+                        DROUGHT</hi>
+            </p>
+            <p style="text-align:justify" xml:id="p-68">The consequences of the 1983 drought were felt across
+                    the economy, particularly in reduced agricultural and hydroelectric production,
+                    as well as in difficulties providing water to the population and industries.</p>
+            <p style="text-align:justify" xml:id="p-69">Agricultural yields were approximately 20% lower than
+                    planned. All crops were affected, with the most significant damage to maize,
+                    sugar beets, potatoes, hops, meadows, and orchards.</p>
+            <p style="text-align:justify" xml:id="p-70">The most severely affected municipalities were Piran
+                    (with 3.8% of the municipal gross product in 1982), Šentjur near Celje (3.4%),
+                    and Sežana (1.5%).</p>
+            <p style="text-align:justify" xml:id="p-71">The maize yield was 20–30% lower than planned due to
+                    the summer drought. In regions like Pomurje, the hilly areas of Haloze,
+                    Slovenske Gorice, and Posotelje, the loss was even greater, with yields down by
+                    60–70%. Potatoes were produced at 30% less than expected, and the quality was
+                    poor. The drought also resulted in a 30% reduction in apple and peach yields,
+                    and a 50–60% drop in pears.</p>
+            <p style="text-align:justify" xml:id="p-72">In the Primorska region, the worst affected crops
+                    were string beans (down 40%) and tomatoes (down 50%), with olives also suffering
+                    damage. Silage corn, corn grain, and straw crop yields were 20–40% lower.</p>
+            <p style="text-align:justify" xml:id="p-73">Hydroelectric plants produced 12.4% less electricity
+                    than planned due to reduced water availability. The drought caused water supply
+                    issues in 55 out of 65 Slovenian municipalities in November and December. The
+                    summer and autumn months saw water shortages in Primorska, parts of Dolenjska,
+                    Slovenske Gorice, Haloze, and Kozjansko.</p>
+            <p style="text-align:justify" xml:id="p-74">The drought of 1983 also led to 100 cases of fish
+                    mortality, the highest number recorded since systematic monitoring began in
+                    1960.</p>
+            <p style="text-align:justify" xml:id="p-75">The drought of 1983 was so severe that it was
+                    officially recognized by the legislative authorities as a natural disaster.
+                    Affected municipalities were able to request solidarity assistance funds based
+                    on this classification.</p>
+            <milestone unit="section" n="***" xml:id="milestone-8"/>
+            <figure rend="imageviewer4" xml:id="Plakat-08">
+               <graphic url="08-plakat.png"/>
+               <graphic url="08-plakat-normal.png"/>
+            </figure>
+         </div>
+         <div type="part" xml:id="exhibition09">
+            <head xml:id="head-66">Študent naj bo! Študijske izmenjave med Poljsko in Jugoslavijo, 1956–1965</head>
+            <space xml:id="space-13"/>
+            <docAuthor xml:id="docAuthor-12">Dr. Maja Lukanc</docAuthor>
+            <p style="text-align:justify;" xml:id="p-76">Bežen pogled na poljsko in jugoslovansko časopisje s konca leta 1956 pokaže, da
+                    se je v tem času obseg transnacionalnih izmenjav med državama močno povečal.
+                    Temu so botrovali dogodki poljskega oktobra, ki so Poljski omogočili, da okrepi
+                    svojo suverenost in zastavi gradnjo socializma v skladu z lastnimi
+                    družbenopolitičnimi potrebami. Med Poljaki se je močno povečal interes za
+                    Jugoslavijo, ki je lastno pot v socializem zasledovala že od leta 1948, medtem
+                    ko so Jugoslovani z zanimanjem spremljali, kakšno prihodnost si bo izborila
+                    Poljska in v kolikšni meri bo sledila jugoslovanskemu zgledu. </p>
+            <p style="text-align:justify;" xml:id="p-77">Ena od najštevilčnejših skupin, ki so med Poljsko in Jugoslavijo potovale v
+                    poznih petdesetih in zgodnjih šestdesetih letih, so bili študenti. Mladi iz obeh
+                    držav so v okviru študentskih izmenjav opravljali redni študij in prakso ter se
+                    udeleževali izobraževalnih ekskurzij in turističnih potovanj. Stiki med Poljaki
+                    in Jugoslovani v njihovih formativnih letih so pomembno prispevali k
+                    medsebojnemu spoznavanju ter prenosu znanja in izkušenj, do določene mere pa so
+                    tudi spodbujali širjenje socialističnih vrednot v okviru družbenopolitičnih
+                    sistemov, ki so mladim zagotavljali široke študijske možnosti.</p>
+            <figure rend="imageviewer2" xml:id="figure-34" n="34">
+               <graphic url="09-figure-1.png"/>
+               <graphic url="09-figure-1-normal.png"/>
+               <head>Maria Woron in Anna Kisielewska, študentki južnoslovanskih jezikov iz Krakova
+                        na študijski izmenjavi na Univerzi v Novem Sadu</head>
+               <head>Index, 19. 2. 1962, str. 5</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-78">Daljše študijske izmenjave med Poljsko in Jugoslavijo so potekale na podlagi
+                    sporazuma o kulturnem sodelovanju. Obe državi sta v povprečju letno podelili od
+                    štiri do pet štipendij, ki so trajale deset mesecev, kar je bilo primerljivo z
+                    obsegom študijskih izmenjav, ki jih je Jugoslavija imela z drugimi
+                    vzhodnoevropskimi državami. Večina teh štipendij ni bila namenjena dodiplomskemu
+                    študiju, temveč specializacijam, ki so najpogosteje potekale v okviru
+                    doktorskega študija.</p>
+            <p style="text-align:justify;" xml:id="p-79">Mladi, ki so odhajali na študij na Poljsko ali v Jugoslavijo, so prihajali iz
+                    različnih disciplin. Najbolj zastopane so bile družboslovne in humanistične
+                    vede, kot so jezikoslovje, sociologija, in pravo, pogoste pa so bile tudi
+                    naravoslovne in tehnične smeri, kot so rudarstvo, tekstilstvo in agronomija.
+                    Prijavni obrazci kažejo, da so bile motivacije za specializacije predvsem
+                    pragmatične narave, osredotočene na širjenje znanja in vzpostavljanje novih
+                    stikov, medtem ko so bili politični ali ideološki motivi redki.</p>
+            <p style="text-align:justify;" xml:id="p-80">Mnogo več poljskih in jugoslovanskih študentov je sodelovalo v krajših izmenjavah
+                    pod okriljem študentskih organizacij in univerz. Te so najpogosteje vključevale
+                    izlete izobraževalno-turističnega značaja, ki so trajali od enega do dveh
+                    tednov. Po oktobru 1956 je zanimanje za tovrstne študentske obiske doživelo
+                    izjemen razcvet. Poljska študentska organizacija je za leto 1957 predlagala
+                    izmenjavo okoli 1000 študentov, kar je bilo primerljivo z obsegom
+                    poljsko-sovjetskih študentskih izmenjav v tistem obdobju. Srečanja med poljskimi
+                    in jugoslovanskimi študenti v letu 1957 so bila posledično zelo kaotična – na
+                    Univerzi v Varšavi so se denimo hkrati znašle na obisku delegacije iz Beograda,
+                    Ljubljane in Novega Sada.</p>
+            <p style="text-align:justify;" xml:id="p-81">Študentske organizacije so prihodnje izmenjave zato zastavile bolj usklajeno in
+                    kontrolirano. V naslednjem desetletju se je na medsebojne obiske letno odpravilo
+                    po nekaj sto poljskih in jugoslovanskih študentov. Večina se je udeleževala
+                    turističnih izletov, ki so jih organizirale študentske organizacije in
+                    študentske potovalne agencije, po nekaj deset na leto pa jih je sodelovalo tudi
+                    v bilateralnih izmenjavah, ki so bile vzpostavljene v okviru posameznih univerz
+                    (Univerzi v Mariboru in Katovicah kot eden od primerov). Druga, prav tako
+                    množična oblika krajših izmenjav so bile študentske prakse. Potekale so pod
+                    okriljem mednarodnih študentskih zvez, za lokalno logistiko pa so bile zadolžene
+                    poljske in jugoslovanske študentske organizacije. Večina teh praks je bila
+                    tehnične narave, potekale so v različnih tovarnah, podjetjih in drugih ustanovah
+                    ter trajale od enega do štirih mesecev. Na področju študentskih praks je bila
+                    Poljska za Jugoslavijo pomembna partnerica – kot je razvidno iz tabele, jo je po
+                    številu izmenjanih praktikantov presegala le Zvezna Republika Nemčija.</p>
+            <figure rend="imageviewer2" xml:id="figure-35" n="35">
+               <graphic url="09-figure-2.png"/>
+               <graphic url="09-figure-2-normal.png"/>
+               <head>Arhiv Jugoslavije, 145. Savez studenata Jugoslavije, 34–95, str. 67, 194, 236.</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-82">Razloge za velik obseg poljsko-jugoslovanskih študentskih praks je težko
+                    identificirati. Visoke številke so do določene mere gotovo odražale ideološke
+                    interese vodstev obeh držav, ki sta si prizadevali za čim večjo izmenjavo znanja
+                    in izkušenj v okviru socialističnega sveta. Poljska in Jugoslavija sta bili
+                    namreč poleg Češkoslovaške v poznih petdesetih in zgodnjih šestdesetih letih
+                    edini socialistični državi, vključeni v mednarodne študentske zveze, ki so
+                    omogočale medsebojno izmenjavo mladih praktikantov.</p>
+            <figure rend="imageviewer2" xml:id="figure-36" n="36">
+               <graphic url="09-figure-3.png"/>
+               <graphic url="09-figure-3-normal.png"/>
+               <head>Poljski študenti v Ljubljani pred grobnico herojev</head>
+               <head>Tribuna, 23. 10. 1956, str. 1</head>
+            </figure>
+            <p style="text-align:justify;" xml:id="p-83">Pomembno vlogo pri obsegu študentskih praks so igrale tudi
+                    osebne motivacije udeležencev. Za večino študentov je bila
+                    izbira destinacije za opravljanje prakse verjetno predvsem stvar
+                    priložnosti in praktičnosti, a določene motivacije bi lahko bile tudi
+                    družbenopolitične narave, na kar opozarja anketa, ki so jo med
+                    poljskimi študenti izvedli leta 1958. Pri vprašanju, v kateri državi bi
+                    najraje živeli glede na družbeni sistem, so Jugoslavijo postavili na
+                    prvo mesto, sledili sta ji Poljska in Švedska. Nekateri poljski študenti
+                    so prakso torej najverjetneje dojemali kot priložnost, da za nekaj
+                    mesecev okusijo življenje v jugoslovanskem socialističnem
+                    eksperimentu.</p>
+            <p style="text-align:justify;" xml:id="p-84">Jugoslovanski študenti pa so bili po drugi strani fascinirani nad
+                    poljsko kulturo, študentskimi klubi, v okviru katerih so delovala
+                    številna eksperimentalna gledališča in kabareti, ter poljsko
+                    zgodovino, polno tradicije bojev za svobodo. Na to kaže zapis
+                    Tonija Tršarja, ki je postal znan slovenski novinar in filmski publicist.
+                    Ta je ob odhodu na Poljsko leta 1958 svoja pričakovanja izrazil
+                    z naslednjimi besedami:</p>
+            <p rend="bluebox" style="text-align:justify;" xml:id="p-85">
+               <hi rend="italic">»Poljski oktober, dogodki okoli njega in odmev, ki ga je imel v svetu – heroizem
+                    varšavskih upornikov 1944. leta – 63 strašnih dni, polnih groze in muk
+                    v labirintu varšavskih kanalov – 63 dni boja brez iskrice upanja na rešitev –
+                    skoro do tal porušena Varšava in Visla ... Visla – simbol svobode. Vse to mi je
+                    približalo Poljake že doma, čimbolj pa sem se bližal Varšavi, več je bilo misli.
+                    Le kaj bom videl sedaj?«</hi>
+               <lb/>
+                    — Toni Tršar, »Dežela kontrastov«, Tribuna, št. 11‒12, 1958, str. 13.</p>
+            <p style="text-align:justify;" xml:id="p-86">Poljsko-jugoslovanske študentske izmenjave v petdesetih in
+                    šestdesetih letih so se izkazale kot trden most med državama ne
+                    glede na politične in ideološke pretrese tistega časa. Po vnovični
+                    ohladitvi odnosov med Jugoslavijo in vzhodnim blokom leta 1958
+                    se njihovo število namreč ni zmanjšalo, temveč je zlagoma raslo še
+                    naprej. Tako so pomembno prispevale k neprekinjenemu pretoku
+                    znanja, idej in praks med Poljsko in Jugoslavijo ter pripomogle
+                    k vzpostavitvi trajnejših prijateljskih vezi med narodi obeh držav.</p>
+            <figure rend="imageviewer2" xml:id="figure-37" n="37">
+               <graphic url="09-figure-4.png"/>
+               <graphic url="09-figure-4-normal.png"/>
+               <head>Živahno je bilo tudi sodelovanje med poljskim in jugoslovanskim študentskim tiskom.
+                        Na sliki uredniki časopisa Student Univerze v Beogradu na obisku pri uredništvu revije
+                        Uwaga v Gdańsku</head>
+               <head>Uwaga, 25. 1. 1958, str. 1</head>
+            </figure>
+            <milestone unit="section" n="***" xml:id="milestone-9"/>
+            <figure rend="imageviewer4" xml:id="Plakat-09">
+               <graphic url="09-plakat.png"/>
+               <graphic url="09-plakat-normal.png"/>
+            </figure>
+         </div>
+      </body>
+   </text>
 </TEI>
