@@ -11,7 +11,7 @@
             </respStmt>
             <respStmt>
                <resp>Avtorja razstav</resp>
-               <name>Ivan Smiljanić</name>
+               <name>dr. Ivan Smiljanić</name>
                <name>dr. Tjaša Konovšek</name>
                <name>dr. Marta Rendla</name>
                <name>dr. Janja Sedlaček</name>
@@ -20,6 +20,12 @@
                <name>dr. Maja Lukanc</name>
                <name>dr. Lev Centrih</name>
                <name>dr. Nataša Henig Miščič</name>
+               <name>dr. Dunja Dobaja</name>
+               <name>dr. Jelena Seferović</name>
+               <name>dr. Dragana Gundogan</name>
+               <name>dr. Nataša Miličević</name>
+               <name>dr. Sólveig Ólafsdóttir</name>
+               <name>dr. Darja Zaviršek</name>
             </respStmt>
          </titleStmt>
          <editionStmt>
@@ -63,7 +69,7 @@
          <div type="part" xml:id="exhibition01">
             <head xml:id="head-3">Spomenik žrtvam, ustreljenim na<lb/> Suhem bajerju</head>
             <space xml:id="space-1"/>
-            <docAuthor xml:id="docAuthor-1">Ivan Smiljanić</docAuthor>
+            <docAuthor xml:id="docAuthor-1">Dr. Ivan Smiljanić</docAuthor>
             <space xml:id="space-2"/>
             <p style="text-align:justify" xml:id="p-3">
                <hi rend="bold">Na severozahodnem pobočju ljubljanskega Golovca se nahaja globel,
@@ -152,7 +158,7 @@
             <head xml:id="head-9">“Politični referendum” v Socialistični republiki Sloveniji leta
                1989</head>
             <space xml:id="space-3"/>
-            <docAuthor xml:id="docAuthor-2">Tjaša Konovšek</docAuthor>
+            <docAuthor xml:id="docAuthor-2">Dr. Tjaša Konovšek</docAuthor>
             <space xml:id="space-4"/>
             <p style="text-align:justify;" xml:id="p-12">Leta 1989 je v Socialistični republiki
                Sloveniji zakrožila ideja o referendumu kot sredstvu za legitimacijo politike
@@ -243,8 +249,8 @@
             <head xml:id="head-16">Industrializacija, urbanizacija in onesnaženost okolja v
                socialistični Sloveniji</head>
             <space xml:id="space-5"/>
-            <docAuthor xml:id="docAuthor-3">dr. Marta Rendla</docAuthor>
-            <docAuthor xml:id="docAuthor-4">dr. Janja Sedlaček</docAuthor>
+            <docAuthor xml:id="docAuthor-3">Dr. Marta Rendla</docAuthor>
+            <docAuthor xml:id="docAuthor-4">Dr. Janja Sedlaček</docAuthor>
             <space xml:id="space-6"/>
             <p style="text-align:justify;" xml:id="p-18">V Sloveniji se je v času socializma
                odvijala pospešena industrializacija. Industrijska proizvodnja se je v obdobju
@@ -446,9 +452,10 @@
          </div>
          <div type="part" xml:id="exhibition04">
             <head xml:id="head-23">»Zakaj so tako nesrečni?« Slovenci in samomor v 60. letih 20.
-               stoletja</head>
+               stoletja<note n="*" place="bottom">Prispevek je nastal v okviru raziskovalnega projekta J6-3123 Greh, sramota, simptom: samomor in njegove percepcije na Slovenskem (1850–2000), ki ga financira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.</note>
+            </head>
             <space xml:id="space-7"/>
-            <docAuthor xml:id="docAuthor-5">Meta Remec</docAuthor>
+            <docAuthor xml:id="docAuthor-5">Dr. Meta Remec</docAuthor>
             <space xml:id="space-8"/>
             <p style="text-align:justify;" xml:id="p-24">
                <hi rend="italic">Slovenija se je kot najbolj razvita med jugoslovanskimi republikami
@@ -1683,11 +1690,11 @@
             <head xml:id="head-85">Education for Children with Sensory Disabilities in the First
                Yugoslav State: What Was Happening?</head>
             <space xml:id="space-15"/>
-            <docAuthor xml:id="docAuthor-14">Dunja Dobaja</docAuthor>
-            <docAuthor xml:id="docAuthor-15">Jelena Seferović</docAuthor>
-            <docAuthor xml:id="docAuthor-16">Dragana Gundogan</docAuthor>
-            <docAuthor xml:id="docAuthor-17">Nataša Miličević</docAuthor>
-            <docAuthor xml:id="docAuthor-18">Sólveig Ólafsdóttir</docAuthor>
+            <docAuthor xml:id="docAuthor-14">Dr. Dunja Dobaja</docAuthor>
+            <docAuthor xml:id="docAuthor-15">Dr. Jelena Seferović</docAuthor>
+            <docAuthor xml:id="docAuthor-16">Dr. Dragana Gundogan</docAuthor>
+            <docAuthor xml:id="docAuthor-17">Dr. Nataša Miličević</docAuthor>
+            <docAuthor xml:id="docAuthor-18">Dr. Sólveig Ólafsdóttir</docAuthor>
             <div type="subchapter" xml:id="exhibition11-01">
                <head xml:id="head-86">Slovenia</head>
                <p xml:id="p-97" style="text-align:center;">
@@ -1970,8 +1977,8 @@
             <head xml:id="head-108">What Changed in the Education of Children with Sensory Disabilities During
                Socialist Yugoslavia?</head>
             <space xml:id="space-16"/>
-            <docAuthor xml:id="docAuthor-19">Marta Rendla</docAuthor>
-            <docAuthor xml:id="docAuthor-20">Jelena Seferović</docAuthor>
+            <docAuthor xml:id="docAuthor-19">Dr. Marta Rendla</docAuthor>
+            <docAuthor xml:id="docAuthor-20">Dr. Jelena Seferović</docAuthor>
             <div type="subchapter" xml:id="exhibition12-01">
                <head xml:id="head-109">Socialist Slovenia</head>
                <p style="text-align:justify" xml:id="p-122">During the socialist period in Yugoslavia, people with
@@ -2043,8 +2050,20 @@
                   social sciences, metalworking, commerce, hospitality, and healthcare, including
                   massage training.</p>
                <figure rend="imageviewer2" xml:id="figure-53" n="53">
-                  <graphic url="12-figure-2-5.jpg"/>
-                  <graphic url="12-figure-2-5-normal.png"/>
+                  <graphic url="12-figure-2.png"/>
+                  <graphic url="12-figure-2-normal.png"/>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-54" n="54">
+                  <graphic url="12-figure-3.png"/>
+                  <graphic url="12-figure-3-normal.png"/>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-55" n="55">
+                  <graphic url="12-figure-4.png"/>
+                  <graphic url="12-figure-4-normal.png"/>
+               </figure>
+               <figure rend="imageviewer2" xml:id="figure-56" n="56">
+                  <graphic url="12-figure-5.png"/>
+                  <graphic url="12-figure-5-normal.png"/>
                   <head>Figure 2-5. Children during a lesson in the Centre for Blind and Partially
                      Sighted Youth in Ljubljana.</head>
                   <head>All photographs are kept at the Slovenian School Museum in Ljubljana.</head>
@@ -2076,11 +2095,11 @@
                   Dumb for the Slovene Littoral) was founded in Portorož, continuing the tradition
                   of the institution in Gorizia, which was established in 1840.</p>
                <p style="text-align:justify" xml:id="p-133">Until the late 1980s, education for the deaf and hard
-                  of hearing was based on the oralistmethod — focusing on the development of speech
+                  of hearing was based on the oralist method — focusing on the development of speech
                   and listening skills. During the 1990s, this approach was gradually replaced by
                   the total communication method, which incorporated various communication
                   strategies: listening, speech, and sign language.</p>
-               <figure rend="imageviewer2" xml:id="figure-54" n="54">
+               <figure rend="imageviewer2" xml:id="figure-57" n="57">
                   <graphic url="12-figure-6.jpg"/>
                   <graphic url="12-figure-6-normal.png"/>
                   <head>Figure 6. Centre for the Training of the Hearing and Speech
@@ -2113,7 +2132,7 @@
                   school teachers. In 1960, the Institute relocated to the Sarajevo suburb of
                   Nedžariči, where the Public Institution Centre for Blind and Visually Impaired
                   Children and Youth continues to operate today.</p>
-               <figure rend="imageviewer2" xml:id="figure-55" n="55">
+               <figure rend="imageviewer2" xml:id="figure-58" n="58">
                   <graphic url="12-figure-7-8.jpg"/>
                   <graphic url="12-figure-7-8-normal.png"/>
                   <head>Figure 7 and 8. Institute for the Blind, 5 Halibašićeva Street,
@@ -2129,13 +2148,12 @@
          <div type="chapter" xml:id="exhibition13">
             <head xml:id="head-119">Everyday Life and Memories</head>
             <space xml:id="space-17"/>
-            <docAuthor xml:id="docAuthor-21">
-               <persName>Darja Zaviršek</persName>
+            <docAuthor xml:id="docAuthor-21">Dr. Darja Zaviršek<!--
                <roleName>PhD</roleName>
-               <affiliation>University of Ljubljana, Faculty of Social Work, Slovenia</affiliation>
+               <affiliation>University of Ljubljana, Faculty of Social Work, Slovenia</affiliation>-->
             </docAuthor>
-            <docAuthor xml:id="docAuthor-22">Janja Sedlaček</docAuthor>
-            <docAuthor xml:id="docAuthor-23">Jelena Seferović</docAuthor>
+            <docAuthor xml:id="docAuthor-22">Dr. Janja Sedlaček</docAuthor>
+            <docAuthor xml:id="docAuthor-23">Dr. Jelena Seferović</docAuthor>
             <div type="subchapter" xml:id="exhibition13-01">
                <head xml:id="head-120">Socialist Slovenia</head>
                <p style="text-align:center" xml:id="p-137">
@@ -2156,7 +2174,7 @@
                   Rehabilitation in the capital. The Constitution of the People’s Republic of Slovenia addressed the protection of disabled
                   persons as early as 1947. Even during the post-socialist period, with new legislation such as the Placement of Children
                   with Special Needs Act in 2000, social inclusion of children with impairments remains difficult to achieve.</p>
-               <figure rend="imageviewer2" xml:id="figure-56" n="56">
+               <figure rend="imageviewer2" xml:id="figure-59" n="59">
                   <graphic url="13-figure-1.jpg"/>
                   <graphic url="13-figure-1-normal.png"/>
                   <head>Figure 1. The Institute for Deaf Youth in Ljubljana. Reception of pupils at
@@ -2258,7 +2276,7 @@
                   medium through which unique forms of care and emotional connection emerged. Living between the worlds of sound and
                   silence has shaped Jasminka’s journey since early childhood. Today, she works at the Association of the Deaf of
                   Sarajevo Canton and is a professional sign language interpreter.</p>
-               <figure rend="imageviewer2" xml:id="figure-57" n="57">
+               <figure rend="imageviewer2" xml:id="figure-60" n="60">
                   <graphic url="13-figure-2.jpg"/>
                   <graphic url="13-figure-2-normal.png"/>
                   <head>Figure 2. Jasminka Proho and her parents, New Year’s celebration, 1976,
