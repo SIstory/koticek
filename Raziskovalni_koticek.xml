@@ -455,7 +455,8 @@
                stoletja
             </head>
             <space xml:id="space-7"/>
-            <docAuthor xml:id="docAuthor-5">Dr. Meta Remec<note xml:id="ftn1" n="*" place="bottom">Znanstvena sodelavka, Inštitut za novejšo zgodovino, Privoz 11, 1000 Ljubljana. Prispevek je nastal v okviru raziskovalnega projekta J6-3123 <hi rend="italic">Greh, sramota, simptom: samomor in njegove percepcije na Slovenskem (1850–2000)</hi>, ki ga financira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.</note></docAuthor>
+            <docAuthor xml:id="docAuthor-5">Dr. Meta Remec<note xml:id="ftn1" n="*" place="bottom">Znanstvena sodelavka, Inštitut za novejšo zgodovino, Privoz 11, 1000 Ljubljana. Prispevek je nastal v okviru raziskovalnega projekta J6-3123 <hi rend="italic">Greh, sramota, simptom: samomor in njegove percepcije na Slovenskem (1850–2000)</hi>, ki ga financira Javna agencija za raziskovalno dejavnost Republike Slovenije iz državnega proračuna.</note>
+            </docAuthor>
             <space xml:id="space-8"/>
             <p style="text-align:justify;" xml:id="p-24">
                <hi rend="italic">Slovenija se je kot najbolj razvita med jugoslovanskimi republikami
@@ -1688,11 +1689,11 @@
          </div>
          <div type="chapter" xml:id="exhibition11">
             <head xml:id="head-85">Education for Children with Sensory Disabilities in the First
-               Yugoslav State: What Was Happening?
-               <note xml:id="ftn11-1" n="*">The Research was created as part of the project J6-50189
+               Yugoslav State: What Was Happening?<note xml:id="ftn11-1" n="*" place="bottom">The research was created as part of the project J6-50189
                   <hi rend="italic">Systems of Care and Education for Children with Sensory Disabilities in the
-                  First and Second Yugoslav State</hi>, funded by the Slovenian Research and Innovation
-                  Agency (ARIS).</note></head>
+                     First and Second Yugoslav State</hi>, funded by the Slovenian Research and Innovation
+                  Agency (ARIS).</note>
+            </head>
             <space xml:id="space-15"/>
             <docAuthor xml:id="docAuthor-14">Dr. Dunja Dobaja</docAuthor>
             <docAuthor xml:id="docAuthor-15">Dr. Jelena Seferović</docAuthor>
@@ -1979,10 +1980,11 @@
          </div>
          <div type="chapter" xml:id="exhibition12">
             <head xml:id="head-108">What Changed in the Education of Children with Sensory Disabilities During
-               Socialist Yugoslavia?<note xml:id="ftn12-1" n="*">The Research was created as part of the project J6-50189
+               Socialist Yugoslavia?<note xml:id="ftn12-1" n="*" place="bottom">The research was created as part of the project J6-50189
                   <hi rend="italic">Systems of Care and Education for Children with Sensory Disabilities in the
                      First and Second Yugoslav State</hi>, funded by the Slovenian Research and Innovation
-                  Agency (ARIS).</note></head>
+                  Agency (ARIS).</note>
+            </head>
             <space xml:id="space-16"/>
             <docAuthor xml:id="docAuthor-19">Dr. Marta Rendla</docAuthor>
             <docAuthor xml:id="docAuthor-20">Dr. Jelena Seferović</docAuthor>
@@ -2153,15 +2155,15 @@
             </figure>
          </div>
          <div type="chapter" xml:id="exhibition13">
-            <head xml:id="head-119">Everyday Life and Memories<note xml:id="ftn13-1" n="*">The Research was created as part of the project J6-50189
+            <head xml:id="head-119">Everyday Life and Memories<note xml:id="ftn13-1" n="*" place="bottom">The research was created as part of the project J6-50189
                   <hi rend="italic">Systems of Care and Education for Children with Sensory Disabilities in the
                      First and Second Yugoslav State</hi>, funded by the Slovenian Research and Innovation
-                  Agency (ARIS).</note></head>
+                  Agency (ARIS).</note>
+            </head>
             <space xml:id="space-17"/>
             <docAuthor xml:id="docAuthor-21">Dr. Darja Zaviršek<!--
                <roleName>PhD</roleName>
-               <affiliation>University of Ljubljana, Faculty of Social Work, Slovenia</affiliation>-->
-            </docAuthor>
+               <affiliation>University of Ljubljana, Faculty of Social Work, Slovenia</affiliation>--></docAuthor>
             <docAuthor xml:id="docAuthor-22">Dr. Janja Sedlaček</docAuthor>
             <docAuthor xml:id="docAuthor-23">Dr. Jelena Seferović</docAuthor>
             <div type="subchapter" xml:id="exhibition13-01">
@@ -2297,6 +2299,181 @@
             <figure rend="imageviewer4" xml:id="Plakat-13">
                <graphic url="13-plakat.png"/>
                <graphic url="13-plakat-normal.png"/>
+            </figure>
+         </div>
+         <div type="chapter" xml:id="exhibition14">
+            <head xml:id="head-126">Eastern European Marxist Sociology and Postwar
+               Transnationalization</head>
+            <space xml:id="space-18"/>
+            <docAuthor xml:id="docAuthor-24">Adela Hîncu <note xml:id="ftn14-1" n="*" place="foot">Marie Skłodowska-Curie
+                  Postdoctoral Fellow. EU-funded project “TransSocio: Transnational Sociology and
+                  Concepts of Social Expertise in Eastern Europe, 1970s–2000s”</note>
+            </docAuthor>
+            <p xml:id="p-150" style="text-align:justify">Within new institutional frameworks established in socialist Eastern
+               Europe starting from the mid-1950s,<note xml:id="ftn14-2" n="1" place="foot">Michael Voříšek, “Antagonist, Type, or
+                  Deviation? A Comparative View on Sociology in Post-War Soviet Europe,” <hi
+                     rend="italic">Revue d'Histoire des Sciences Humaines</hi>, no. 18 (2008):
+                  85–113.</note> empirical sociological research and post-Stalinist theoretical
+               reworkings of Marxism-Leninism engaged closely with the processes of postwar
+               socialist modernization. Sociology documented the social consequences of new policies
+               for labor relations, family structures, or cultural participation, including the
+               creation of new inequalities.<note xml:id="ftn14-3" n="2" place="foot">Rory Archer, Igor Duda, and Paul Stubbs,
+                  “Bringing Class Back In: An Introduction,” in eds. Rory Archer, Igor Duda, and
+                  Paul Stubbs, <hi rend="italic">Social Inequalities and Discontent in Yugoslav
+                     Socialism</hi> (New York: Routledge, 2016), 1–20.</note> When framed as a
+               confrontation of ideological aspirations with empirical realities, sociological
+               research also built into oppositional and dissident discourses. While these
+               developments have generally been described at the national level, TransSocio asks how
+               sociological knowledge from Eastern Europe fared in the context of the
+               transnationalization of social science and expertise, which intensified in the 1970s.
+               It argues that transnationalization had profound consequences for the possibilities
+               of articulating progressive visions of social development at a time of intense world
+               (re-)making.</p>
+            <figure rend="imageviewer2" xml:id="figure-75">
+               <graphic url="14-figure-1.jpg"/>
+               <graphic url="14-figure-1-normal.jpg"/>
+            </figure>
+            <div type="subchapter" xml:id="exhibition14-01">
+               <p xml:id="p-151" style="text-align:justify">Established with funding from UNESCO in 1949, the International
+                  Sociological Association (ISA) became the main international forum for
+                  sociological discussion in the postwar period, organizing the first World Congress
+                  of Sociology in 1950. By the Third World Congress (Amsterdam, 1956), sociologists
+                  from the Soviet Union and Eastern Europe also started participating. Their
+                  involvement there in debates about class as a sociological concept and the changes
+                  in the class structure of capitalist and socialist societies illustrates political
+                  and epistemological faultlines more complex than just between West and East.<note xml:id="ftn14-4"
+                     n="3" place="foot">
+                     <hi rend="italic">Transactions of the Thirds World Congress of Sociology</hi>,
+                     vol. 3, <hi rend="italic">Changes in Class Structure</hi>, and vol. VIII, <hi
+                        rend="italic">Discussions and Additional Papers</hi> (London: International
+                     Sociological Association, 1956–57).</note>
+               </p>
+               <figure rend="imageviewer2" xml:id="figure-76">
+                  <graphic url="14-figure-2.jpg"/>
+                  <graphic url="14-figure-2-normal.jpg"/>
+               </figure>
+               <p xml:id="p-152" style="text-align:justify">Polish sociologist Stanisław Ossowski (1897–1963) is exemplary for
+                  the early attempts of Eastern European Marxist sociologists to develop class
+                  analysis as a challenge to Western social stratification and functionalist
+                  research on the one hand, and Stalinist social science on the other. At the
+                  congress and in his translated Class Structure in the Social Consciousness (1963),
+                  Ossowski offered a historical materialist analysis of thinking in terms of class,
+                  from antiquity to the present. He argued that political elaborations of the
+                  concept of class led to a remarkable, paradoxical convergence in the present of
+                  the conclusions of capitalist and Stalinist social science. Both maintained that
+                  class was disappearing while inequality persisted:</p>
+               <figure rend="imageviewer2" xml:id="figure-77">
+                  <graphic url="14-figure-3.jpg"/>
+                  <graphic url="14-figure-3-normal.jpg"/>
+               </figure>
+               <quote xml:id="quote-5" style="text-align:justify">Today we meet this conception — the conception of a classless
+                  society which economically is not egalitarian — on both sides of the line that
+                  divides the world into two camps.<note xml:id="ftn14-5" n="4" place="foot">Stanisław Ossowski, <hi rend="italic"
+                        >Class Structure in the Social Consciousness</hi> (London: Routledge, 1963),
+                     97. His eponymous Polish volume was published in 1957.</note>
+               </quote>
+               <p xml:id="p-153" style="text-align:justify">Ossowski’s historicization of class and his critique of its
+                  simplified uses for political ends opened the way for both empirical research and
+                  critical theorizing of class in Eastern Europe.<note xml:id="ftn14-6" n="5" place="foot">Ivan Szelenyi, “The
+                     Intelligentsia in the Class Structure of State-Socialist Societies,” Supplement
+                     of the <hi rend="italic">American Journal of Sociology</hi> 88 (1982):
+                     287–326.</note>
+               </p>
+            </div>
+            <div type="subchapter" xml:id="exhibition14-02">
+               <head xml:id="head-127">Conceptual collaboration: Marxist sociology</head>
+               <p xml:id="p-154" style="text-align:justify">The participation of sociologists from state socialist countries in
+                  ISA, including in leadership positions (e.g., Polish sociologist Jan Szczepanski
+                  served as president between 1966–1970), grew steadily over the 1960s. It reached
+                  the highest numbers at the Seventh World Congress of Sociology (Varna, 1970), the
+                  first and only congress organized in a socialist country. In 1974, sociologists
+                  from the Academies of Science in Poland, Bulgaria, Czechoslovakia, GDR, Romania,
+                  and the Soviet Union set up the inter-academic research commission “Evolution of
+                  the social structure of socialist society: Social planning and prognosis.” As a
+                  framework for transnational exchange and collaboration, it aimed to advance
+                  socialist sociology theoretically, methodologically, and through comparative
+                  empirical research. However, three edited volumes about the working class, the
+                  intelligentsia, and social planning, prepared for the Ninth World Congress
+                  (Uppsala, 1978), show that the transnational regional framework did not produce
+                  coherent socialist conceptualizations. Political epistemologies at the national
+                  and transnational levels clashed, as in the case of “social homogenization,” an
+                  official concept extensively used in Romanian social structure research to work
+                  within local ideological constraints. Its use made possible, but also ultimately
+                  limited the scope of Romanian sociologists’ conceptual and theoretical
+                  collaboration with their Eastern European peers, for whom the concept was overly
+                  dogmatic.</p>
+               <figure rend="imageviewer2" xml:id="figure-78">
+                  <graphic url="14-figure-4.jpg"/>
+                  <graphic url="14-figure-4-normal.jpg"/>
+               </figure>
+            </div>
+            <div type="subchapter" xml:id="exhibition14-03">
+               <head xml:id="head-128">Conceptual (non)alignments: gender and alienation</head>
+               <p xml:id="p-155" style="text-align:justify">ISA research committees (RC) coordinated research and collaboration
+                  in between and in preparation for world congresses. RC 32 – Sex Roles in Society
+                  and RC 36 – Alienation Theory and Research, both established in the early 1970s,
+                  provide examples of Eastern European sociologists’ conceptual (non)alignment
+                  strategies within transnational settings structured by material and epistemic
+                  inequalities. EC 32 raised the issue of inequalities between women and men both in
+                  society at large and within the ISA. At the Eight World Congress of Sociology
+                  (Toronto, 1974), during a plenary session on “Equality as a Sociological Issue”
+                  that included Hungarian sociologist Zsuzsa Ferge (1931–2024), half a dozen members
+                  of the RC, representing all regions of the world, took to the platform in protest
+                  from the front rows and briefly spoke up on the topic of women’s
+                  participation.</p>
+               <figure rend="imageviewer2" xml:id="figure-79">
+                  <graphic url="14-figure-5.jpg"/>
+                  <graphic url="14-figure-5-normal.jpg"/>
+               </figure>
+               <p xml:id="p-156" style="text-align:justify">One of the few Eastern European sociologists engaged in research on
+                  social inequality and policy making, Ferge had also been engaged with RC 32. Yet
+                  her contribution at the plenary session, “The Search of Equality: Why and How?”
+                  and her monograph A Society in the Making: Hungarian Social and Societal Policy,
+                  1945–75 (1979), spelled out a fundamental theoretical incompatibility, reflected
+                  in the low number of Eastern European members of RC 32. While Ferge understood
+                  women’s equality as part of a broader, fundamental equality based on restructured
+                  relations of production; women’s equality as streamlined by RC 32 largely remained
+                  outside a discussion of property relations.</p>
+               <p xml:id="p-157" style="text-align:justify">In the case of alienation studies, RC 36 also included several
+                  sociologists from Eastern Europe, such as Ágnes Heller, György Márkus, Zagorka
+                  Golubović, Mihajlo Markovic, Adam Schaff, and Maria Nowakowska. However, as
+                  documented by the collective volumes edited by the RC following World Congresses,
+                  interest in Eastern European Marxist approaches to alienation developed slowly and
+                  on Western Marxist terms. It peaked only as critiques from Eastern Europe
+                  increasingly shifted from the more theoretical acknowledgement of alienation under
+                  socialism (Heller, Schaff) to challenging the very foundations of state socialism
+                  in Eastern Europe, from the abolition of private property to the regimes’ core
+                  (even when not fully realized) commitments to social equality and social
+                  justice.</p>
+               <p xml:id="p-158" style="text-align:justify">At the Tenth World Congress of Sociology (New Mexico, 1982),
+                  Golubović presented on “New Forms of Alienation in Real Existing Socialism.” She
+                  argued that “Soviet-type systems” continued to be class societies, structured by
+                  existing and new forms of exploitation, domination, and alienation, by virtue of
+                  the accumulation of power and control in the state and the etatization of private
+                  property. She criticized the institutionalization of social inequalities, the
+                  perversive “ideology of labor” and “communist morality,” and the lack of freedom,
+                  power, and creativity for the workers as sources of alienation in socialism.
+                  Golubović saw in social movements such as the Polish Solidarity or in the
+                  rebelling of individuals the solution to the vicious circle of structural and
+                  personal alienation under “Soviet socialism”.<note xml:id="ftn14-7" n="6" place="foot">Zagorka Golubević, “New
+                     Forms of Alienation in Real Existing Socialism,” folder 644, ISA Archives,
+                     International Institute for Social History, Amsterdam.</note>
+               </p>
+               <p xml:id="p-159" style="text-align:justify">These examples of the transnationalization of Eastern European
+                  Marxist sociology put into perspective the inherently positive approach to
+                  international exchanges during the Cold War in much of the existing
+                  historiography. Recognizing the persistent and reproducing epistemic inequalities
+                  in these exchanges should shift the focus from success stories of epistemic
+                  integration to the forgotten Marxist conceptualizations of social relations
+                  developed within the communist horizon.</p>
+               <figure rend="imageviewer2" xml:id="figure-80">
+                  <graphic url="14-figure-6.png"/>
+                  <graphic url="14-figure-6-normal.jpg"/>
+               </figure>
+            </div>
+            <figure rend="imageviewer4" xml:id="Plakat-14">
+               <graphic url="14-plakat.png"/>
+               <graphic url="14-plakat-normal.png"/>
             </figure>
          </div>
       </body>
